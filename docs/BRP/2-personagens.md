@@ -563,56 +563,56 @@ Crie características distintivas próprias se estas não forem suficientes. Par
 
 Além de ser definido por características, seu personagem também é definido em termos de suas **habilidades**. Estas são aprendidas através da experiência de vida, frequentemente como parte da educação e uma **profissão**. Uma profissão é um trabalho ou vocação que se presume que seu personagem seja parte quando começa o jogo (ou era parte antes do jogo começar), orientando a alocação de habilidades. Uma profissão é apenas onde eles começam quando o jogo começa e não é um limite para o que eles podem fazer e se tornar. Eles podem crescer e mudar ao longo de uma campanha muito além de sua profissão.
 
-#### Professions by Setting
+### Profissões por Cenário
 
-Following is a listing of the more common professions, with notes about the settings in which they would be commonly encountered. These settings are described in *Chapter 10: Settings*. Some profession titles and initial skill lists may not be suitable for each setting and should be adjusted by the players and gamemaster as required.
+A seguir, apresentamos uma lista das profissões mais comuns, com observações sobre os cenários em que elas são normalmente encontradas. Esses cenários são descritos no *Capítulo 10: Cenários*. Alguns títulos de profissões e listas de habilidades iniciais podem não ser adequados para cada cenário e devem ser ajustados pelos jogadores e pelo mestre do jogo, conforme necessário.
 
-***For example,*** *in campaign set in ancient Japan, your gamemaster tells you that the warrior profession is called samurai, assassin is a ninja, the thief is a bandit, the criminal is a yakuza, and the noble is a courtier.*
+***Por exemplo,*** *em uma campanha ambientada no Japão antigo, seu mestre de jogo informa que a profissão de guerreiro é chamada de samurai, assassino é ninja, ladrão é bandido, criminoso é yakuza e nobre é cortesão.*
 
-These lists are not exhaustive but represents the most suitable professions for player characters in each general setting. These professions can be expanded as desired, and even unlikely choices are possible. Our own modern world still has small pockets of tribespersons and shamans, for example, though they are hardly common.
+Essas listas não são exaustivas, mas representam as profissões mais adequadas para os personagens dos jogadores em cada ambiente geral. Essas profissões podem ser expandidas conforme desejado, e até mesmo escolhas improváveis são possíveis. Nosso próprio mundo moderno ainda tem pequenos grupos de tribos e xamãs, por exemplo, embora eles não sejam comuns.
 
-#### Settings and Skills
+#### Cenários e habilidades
 
-You and your gamemaster should make sure the skills associated with a profession fit the game’s setting. For inappropriate skills, substitute a different specialty if that makes it work, and if no other specialty is appropriate, choose another skill within the same category. See *Chapter 3: Skills* for more information on skill specialties and skill categories.
+Você e seu mestre de jogo devem se certificar de que as habilidades associadas a uma profissão se encaixam no cenário do jogo. Para habilidades inadequadas, substitua por uma especialidade diferente, se isso funcionar, e se nenhuma outra especialidade for apropriada, escolha outra habilidade dentro da mesma categoria. Consulte o *Capítulo 3: Habilidades* para obter mais informações sobre especialidades e categorias de habilidades.
 
-#### Skill Category Bonuses (Option)
+#### Bônus de categoria de habilidade (opcional)
 
-If you and your gamemaster want your character’s characteristics to influence their skill ratings, you should employ this system. As described in the *Chapter 3: Skills*, each skill is grouped into skill categories. Each category is linked to one or more characteristics that are used to compute a skill category bonus for each category. To compute the bonus for each skill category, note the **primary**, **secondary**, and **negative** characteristics of each category (or use the chart below):
+Se você e seu mestre de jogo quiserem que as características do seu personagem influenciem suas classificações de habilidade, vocês devem empregar este sistema. Conforme descrito no *Capítulo 3: Habilidades*, cada habilidade é agrupada em categorias de habilidades. Cada categoria está ligada a uma ou mais características que são usadas para calcular um bônus de categoria de habilidade para cada categoria. Para calcular o bônus para cada categoria de habilidade, observe as características **primárias**, **secundárias** e **negativas** de cada categoria (ou use a tabela abaixo):
 
-• Primary characteristics add +1% for every point over 10 and subtract –1% for every point under 10.
+• As características primárias adicionam +1% para cada ponto acima de 10 e subtraem –1% para cada ponto abaixo de 10.
 
-• Secondary characteristics add +1% for every 2 points over 10 and subtract –1% for every 2 points under 10. Round down.
+• As características secundárias adicionam +1% para cada 2 pontos acima de 10 e subtraem –1% para cada 2 pontos abaixo de 10. Arredonde para baixo.
 
-• Negative characteristics subtract –1% for every point over 10 and add +1% for every point under 10.
+• As características negativas subtraem –1% para cada ponto acima de 10 e adicionam +1% para cada ponto abaixo de 10.
 
-**Skill Category Modifiers**
+**Modificadores da categoria de habilidade**
 
-|<p>Category</p><p></p>|<p>Primary</p><p></p>|<p>Secondary</p><p></p>|<p>Negative</p><p></p>|
+|<p>Categoria</p><p></p>|<p>Primária</p><p></p>|<p>Secundária</p><p></p>|<p>Negativa</p><p></p>|
 | :- | :- | :- | :- |
-|<p>Combat skills</p><p></p>|<p>DEX</p><p></p>|<p>INT, STR</p><p></p>|<p>—</p><p></p>|
-|<p>Communication skills</p><p></p>|<p>INT</p><p></p>|<p>POW, CHA</p><p></p>|<p>—</p><p></p>|
-|<p>Manipulation skills</p><p></p>|<p>DEX</p><p></p>|<p>INT, STR</p><p></p>|<p>—</p><p></p>|
-|<p>Mental skills</p><p></p>|<p>INT</p><p></p>|<p>POW, EDU</p><p></p>|<p>—</p><p></p>|
-|<p>Perception skills</p><p></p>|<p>INT</p><p></p>|<p>POW, CON</p><p></p>|<p>—</p><p></p>|
-|<p>Physical skills</p><p></p>|<p>DEX</p><p></p>|<p>STR, CON</p><p></p>|<p>SIZ</p><p></p>|
+|<p>Habilidades de combate</p><p></p>|<p>DEX</p><p></p>|<p>INT, FOR</p><p></p>|<p>—</p><p></p>|
+|<p>Habilidades de comunicação</p><p></p>|<p>INT</p><p></p>|<p>POW, CHA</p><p></p>|<p>—</p><p></p>|
+|<p>Habilidades de manipulação</p><p></p>|<p>DEX</p><p></p>|<p>INT, STR</p><p></p>|<p>—</p><p></p>|
+|<p>Habilidades mentais</p><p></p>|<p>INT</p><p></p>|<p>POW, EDU</p><p></p>|<p>—</p><p></p>|
+|<p>Habilidades de percepção</p><p></p>|<p>INT</p><p></p>|<p>POW, CON</p><p></p>|<p>—</p><p></p>|
+|<p>Habilidades físicas</p><p></p>|<p>DEX</p><p></p>|<p>FOR, CON</p><p></p>|<p>TAM</p><p></p>|
 
-***For example,*** *your character has the following characteristics: STR 14, CON 13, INT 8, SIZ 12, POW 10, DEX 12, and CHA 8. Their skill category bonuses are:*
+***Por exemplo,*** *seu personagem tem as seguintes características: FOR 14, CON 13, INT 8, TAM 12, POD 10, DES 12 e CAR 8. Seus bônus de categoria de habilidade são:*
 
-• ***Combat:*** *+3% (+2 for DEX, +2 for STR, –1 for INT)*
+• ***Combate:*** *+3% (+2 para DEX, +2 para STR, –1 para INT)*
 
-• ***Communication:*** *–3% (–2 for INT, 0 for POW, –1 for CHA)*
+• ***Comunicação:*** *–3% (–2 para INT, 0 para POW, –1 para CHA)*
 
-• ***Manipulation:*** *+3% (+2 for DEX, –1 for INT, +2 for STR)*
+• ***Manipulação:*** *+3% (+2 para DEX, –1 para INT, +2 para STR)*
 
-• ***Mental:*** *–2% (–2 from INT, 0 for POW, EDU is not used in this campaign)*
+• ***Mental:*** *–2% (–2 de INT, 0 para POW, EDU não é usado nesta campanha)*
 
-• ***Perception:*** *–1% (–2 for INT, 0 for POW, +1 for CON)*
+• ***Percepção:*** *–1% (–2 para INT, 0 para POW, +1 para CON)*
 
-• ***Physical:*** *+3% (+2 for DEX, +2 for STR, +1 for CON, –2 for SIZ)*
+• ***Físico:*** *+3% (+2 para DEX, +2 para STR, +1 para CON, –2 para SIZ)*
 
-See *Chapter 3: Skills* for more information about skill categories, category bonuses, and base skill chances.
+Consulte o *Capítulo 3: Habilidades* para obter mais informações sobre categorias de habilidades, bônus de categoria e chances básicas de habilidade.
 
-### Skill Bonus Table
+### Tabela de bônus de habilidade
 
 |<p>Value</p><p></p>|<p>Primary</p><p></p>|<p>Secondary</p><p></p>|<p>Negative</p><p></p>|
 | :- | :- | :- | :- |
