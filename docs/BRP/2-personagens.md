@@ -565,593 +565,592 @@ Além de ser definido por características, seu personagem também é definido e
 
 ### Profissões por Cenário
 
-A seguir, apresentamos uma lista das profissões mais comuns, com observações sobre os cenários em que elas são normalmente encontradas. Esses cenários são descritos no *Capítulo 10: Cenários*. Alguns títulos de profissões e listas de habilidades iniciais podem não ser adequados para cada cenário e devem ser ajustados pelos jogadores e pelo mestre do jogo, conforme necessário.
+A seguir está uma listagem das profissões mais comuns, com notas sobre os cenários nos quais elas seriam comumente encontradas. Esses cenários são descritos no *Capítulo 10: Cenários*. Alguns títulos de profissões e listas de habilidades iniciais podem não ser adequados para cada cenário e devem ser ajustados pelos jogadores e mestre do jogo conforme necessário.
 
-***Por exemplo,*** *em uma campanha ambientada no Japão antigo, seu mestre de jogo informa que a profissão de guerreiro é chamada de samurai, assassino é ninja, ladrão é bandido, criminoso é yakuza e nobre é cortesão.*
+***Por exemplo,*** *em uma campanha ambientada no Japão antigo, seu mestre do jogo diz que a profissão de guerreiro é chamada de samurai, assassino é um ninja, o ladrão é um bandido, o criminoso é um yakuza, e o nobre é um cortesão.*
 
-Essas listas não são exaustivas, mas representam as profissões mais adequadas para os personagens dos jogadores em cada ambiente geral. Essas profissões podem ser expandidas conforme desejado, e até mesmo escolhas improváveis são possíveis. Nosso próprio mundo moderno ainda tem pequenos grupos de tribos e xamãs, por exemplo, embora eles não sejam comuns.
+Essas listas não são exaustivas, mas representam as profissões mais adequadas para personagens jogadores em cada cenário geral. Essas profissões podem ser expandidas conforme desejado, e até escolhas improváveis são possíveis. Nosso próprio mundo moderno ainda tem pequenos bolsões de membros tribais e xamãs, por exemplo, embora sejam pouco comuns.
 
-#### Cenários e habilidades
+### Cenários e Habilidades
 
-Você e seu mestre de jogo devem se certificar de que as habilidades associadas a uma profissão se encaixam no cenário do jogo. Para habilidades inadequadas, substitua por uma especialidade diferente, se isso funcionar, e se nenhuma outra especialidade for apropriada, escolha outra habilidade dentro da mesma categoria. Consulte o *Capítulo 3: Habilidades* para obter mais informações sobre especialidades e categorias de habilidades.
+Você e seu mestre do jogo devem garantir que as habilidades associadas a uma profissão se encaixem no cenário do jogo. Para habilidades inadequadas, substitua por uma especialidade diferente se isso funcionar, e se nenhuma outra especialidade for apropriada, escolha outra habilidade dentro da mesma categoria. Veja o *Capítulo 3: Habilidades* para mais informações sobre especialidades de habilidades e categorias de habilidades.
 
-#### Bônus de categoria de habilidade (opcional)
+### Bônus de Categoria de Habilidade (Opção)
 
-Se você e seu mestre de jogo quiserem que as características do seu personagem influenciem suas classificações de habilidade, vocês devem empregar este sistema. Conforme descrito no *Capítulo 3: Habilidades*, cada habilidade é agrupada em categorias de habilidades. Cada categoria está ligada a uma ou mais características que são usadas para calcular um bônus de categoria de habilidade para cada categoria. Para calcular o bônus para cada categoria de habilidade, observe as características **primárias**, **secundárias** e **negativas** de cada categoria (ou use a tabela abaixo):
+Se você e seu mestre do jogo quiserem que as características do seu personagem influenciem suas classificações de habilidade, vocês devem empregar este sistema. Conforme descrito no *Capítulo 3: Habilidades*, cada habilidade é agrupada em categorias de habilidades. Cada categoria está vinculada a uma ou mais características que são usadas para calcular um bônus de categoria de habilidade para cada categoria. Para calcular o bônus para cada categoria de habilidade, observe as características **primárias**, **secundárias** e **negativas** de cada categoria (ou use a tabela abaixo):
 
-• As características primárias adicionam +1% para cada ponto acima de 10 e subtraem –1% para cada ponto abaixo de 10.
+• Características primárias adicionam +1% para cada ponto acima de 10 e subtraem –1% para cada ponto abaixo de 10.
 
-• As características secundárias adicionam +1% para cada 2 pontos acima de 10 e subtraem –1% para cada 2 pontos abaixo de 10. Arredonde para baixo.
+• Características secundárias adicionam +1% para cada 2 pontos acima de 10 e subtraem –1% para cada 2 pontos abaixo de 10. Arredonde para baixo.
 
-• As características negativas subtraem –1% para cada ponto acima de 10 e adicionam +1% para cada ponto abaixo de 10.
+• Características negativas subtraem –1% para cada ponto acima de 10 e adicionam +1% para cada ponto abaixo de 10.
 
-**Modificadores da categoria de habilidade**
+#### Modificadores de Categoria de Habilidade
 
-|<p>Categoria</p><p></p>|<p>Primária</p><p></p>|<p>Secundária</p><p></p>|<p>Negativa</p><p></p>|
+| Categoria | Primária | Secundária | Negativa |
 | :- | :- | :- | :- |
-|<p>Habilidades de combate</p><p></p>|<p>DEX</p><p></p>|<p>INT, FOR</p><p></p>|<p>—</p><p></p>|
-|<p>Habilidades de comunicação</p><p></p>|<p>INT</p><p></p>|<p>POW, CHA</p><p></p>|<p>—</p><p></p>|
-|<p>Habilidades de manipulação</p><p></p>|<p>DEX</p><p></p>|<p>INT, STR</p><p></p>|<p>—</p><p></p>|
-|<p>Habilidades mentais</p><p></p>|<p>INT</p><p></p>|<p>POW, EDU</p><p></p>|<p>—</p><p></p>|
-|<p>Habilidades de percepção</p><p></p>|<p>INT</p><p></p>|<p>POW, CON</p><p></p>|<p>—</p><p></p>|
-|<p>Habilidades físicas</p><p></p>|<p>DEX</p><p></p>|<p>FOR, CON</p><p></p>|<p>TAM</p><p></p>|
+| Habilidades de combate | DEST | INT, FOR | — |
+| Habilidades de comunicação | INT | POD, CAR | — |
+| Habilidades de manipulação | DEST | INT, FOR | — |
+| Habilidades mentais | INT | POD, EDU | — |
+| Habilidades de percepção | INT | POD, CON | — |
+| Habilidades físicas | DEST | FOR, CON | TAM |
 
-***Por exemplo,*** *seu personagem tem as seguintes características: FOR 14, CON 13, INT 8, TAM 12, POD 10, DES 12 e CAR 8. Seus bônus de categoria de habilidade são:*
+***Por exemplo,*** *seu personagem tem as seguintes características: FOR 14, CON 13, INT 8, TAM 12, POD 10, DEST 12 e CAR 8. Seus bônus de categoria de habilidade são:*
 
-• ***Combate:*** *+3% (+2 para DEX, +2 para STR, –1 para INT)*
+• ***Combate:*** *+3% (+2 para DEST, +2 para FOR, –1 para INT)*
 
-• ***Comunicação:*** *–3% (–2 para INT, 0 para POW, –1 para CHA)*
+• ***Comunicação:*** *–3% (–2 para INT, 0 para POD, –1 para CAR)*
 
-• ***Manipulação:*** *+3% (+2 para DEX, –1 para INT, +2 para STR)*
+• ***Manipulação:*** *+3% (+2 para DEST, –1 para INT, +2 para FOR)*
 
-• ***Mental:*** *–2% (–2 de INT, 0 para POW, EDU não é usado nesta campanha)*
+• ***Mental:*** *–2% (–2 de INT, 0 para POD, EDU não é usada nesta campanha)*
 
-• ***Percepção:*** *–1% (–2 para INT, 0 para POW, +1 para CON)*
+• ***Percepção:*** *–1% (–2 para INT, 0 para POD, +1 para CON)*
 
-• ***Físico:*** *+3% (+2 para DEX, +2 para STR, +1 para CON, –2 para SIZ)*
+• ***Física:*** *+3% (+2 para DEST, +2 para FOR, +1 para CON, –2 para TAM)*
 
-Consulte o *Capítulo 3: Habilidades* para obter mais informações sobre categorias de habilidades, bônus de categoria e chances básicas de habilidade.
+Veja o *Capítulo 3: Habilidades* para mais informações sobre categorias de habilidades, bônus de categoria e chances básicas de habilidade.
 
-### Tabela de bônus de habilidade
+### Tabela de Bônus de Habilidade
 
-|<p>Value</p><p></p>|<p>Primary</p><p></p>|<p>Secondary</p><p></p>|<p>Negative</p><p></p>|
+| Valor | Primária | Secundária | Negativa |
 | :- | :- | :- | :- |
-|<p>1</p><p></p>|<p>-9%</p><p></p>|<p>-4%</p><p></p>|<p>+9%</p><p></p>|
-|<p>2</p><p></p>|<p>-8%</p><p></p>|<p>-4%</p><p></p>|<p>+8%</p><p></p>|
-|<p>3</p><p></p>|<p>-7%</p><p></p>|<p>-3%</p><p></p>|<p>+7%</p><p></p>|
-|<p>4</p><p></p>|<p>-6%</p><p></p>|<p>-3%</p><p></p>|<p>+6%</p><p></p>|
-|<p>5</p><p></p>|<p>-5%</p><p></p>|<p>-2%</p><p></p>|<p>+5%</p><p></p>|
-|<p>6</p><p></p>|<p>-4%</p><p></p>|<p>-2%</p><p></p>|<p>+4%</p><p></p>|
-|<p>7</p><p></p>|<p>-3%</p><p></p>|<p>-1%</p><p></p>|<p>+3%</p><p></p>|
-|<p>8-2%</p><p></p>|<p>-1%</p><p></p>|<p>+2%</p><p></p>||
-|<p>9</p><p></p>|<p>-1%</p><p></p>|<p>-0%</p><p></p>|<p>+1%</p><p></p>|
-|<p>10</p><p></p>|<p>+0%</p><p></p>|<p>+0%</p><p></p>|<p>-0%</p><p></p>|
-|<p>11</p><p></p>|<p>+1%</p><p></p>|<p>+0%</p><p></p>|<p>-1%</p><p></p>|
-|<p>12</p><p></p>|<p>+2%</p><p></p>|<p>+1%</p><p></p>|<p>-2%</p><p></p>|
-|<p>13</p><p></p>|<p>+3%</p><p></p>|<p>+1%</p><p></p>|<p>-3%</p><p></p>|
-|<p>14</p><p></p>|<p>+4%</p><p></p>|<p>+2%</p><p></p>|<p>-4%</p><p></p>|
-|<p>15</p><p></p>|<p>+5%</p><p></p>|<p>+2%</p><p></p>|<p>-5%</p><p></p>|
-|<p>16</p><p></p>|<p>+6%</p><p></p>|<p>+3%</p><p></p>|<p>-6%</p><p></p>|
-|<p>17</p><p></p>|<p>+7%</p><p></p>|<p>+3%</p><p></p>|<p>-7%</p><p></p>|
-|<p>18</p><p></p>|<p>+8%</p><p></p>|<p>+4%</p><p></p>|<p>-8%</p><p></p>|
-|<p>19</p><p></p>|<p>+9%</p><p></p>|<p>+4%</p><p></p>|<p>-9%</p><p></p>|
-|<p>20</p><p></p>|<p>+10%</p><p></p>|<p>+5%</p><p></p>|<p>-10%</p><p></p>|
-|<p>21</p><p></p>|<p>+11%</p><p></p>|<p>+5%</p><p></p>|<p>-11%</p><p></p>|
-|<p>Etc.</p><p></p>|<p>+1%/</p><p></p>|<p>+1%/</p><p></p>|<p>-1%/</p><p></p>|
-||<p>point</p><p></p>|<p>2 points</p><p></p>|<p>point</p><p></p>|
+| 1 | -9% | -4% | +9% |
+| 2 | -8% | -4% | +8% |
+| 3 | -7% | -3% | +7% |
+| 4 | -6% | -3% | +6% |
+| 5 | -5% | -2% | +5% |
+| 6 | -4% | -2% | +4% |
+| 7 | -3% | -1% | +3% |
+| 8 | -2% | -1% | +2% |
+| 9 | -1% | -0% | +1% |
+| 10 | +0% | +0% | -0% |
+| 11 | +1% | +0% | -1% |
+| 12 | +2% | +1% | -2% |
+| 13 | +3% | +1% | -3% |
+| 14 | +4% | +2% | -4% |
+| 15 | +5% | +2% | -5% |
+| 16 | +6% | +3% | -6% |
+| 17 | +7% | +3% | -7% |
+| 18 | +8% | +4% | -8% |
+| 19 | +9% | +4% | -9% |
+| 20 | +10% | +5% | -10% |
+| 21 | +11% | +5% | -11% |
+| Etc. | +1%/ponto | +1%/2 pontos | -1%/ponto |
 
-### Simpler Skill Bonuses
+### Bônus de Habilidade Simplificados
 
-If calculating skill category bonuses is too complicated, each category bonus can instead be defined as 1/2 of the primary characteristic (round up). This method results in higher initial skill chances and eliminates the chance of a category penalty. If desired, use the simple skill category modifiers from the following table.
+Se calcular bônus de categoria de habilidade for muito complicado, cada bônus de categoria pode ser definido como 1/2 da característica primária (arredondado para cima). Este método resulta em chances de habilidade iniciais mais altas e elimina a chance de uma penalidade de categoria. Se desejado, use os modificadores simples de categoria de habilidade da tabela a seguir.
 
-### Simple Skill Category Modifiers
+#### Modificadores Simples de Categoria de Habilidade
 
-|<p>Category</p><p></p>|<p>Primary</p><p></p>|
+| Categoria | Primária |
 | :- | :- |
-|<p>Combat skills</p><p></p>|<p>DEX/2</p><p></p>|
-|<p>Communication skills</p><p></p>|<p>CHA/2</p><p></p>|
-|<p>Manipulation skills</p><p></p>|<p>DEX/2</p><p></p>|
-|<p>Mental skills</p><p></p>|<p>INT/2</p><p></p>|
-|<p>Perception skills</p><p></p>|<p>POW/2</p><p></p>|
-|<p>Physical skills</p><p></p>|<p>STR/2</p><p></p>|
+| Habilidades de combate | DEST/2 |
+| Habilidades de comunicação | CAR/2 |
+| Habilidades de manipulação | DEST/2 |
+| Habilidades mentais | INT/2 |
+| Habilidades de percepção | POD/2 |
+| Habilidades físicas | FOR/2 |
 
-### Professions A Through Z
+### Profissões de A a Z
 
-Most of these professions are generic enough to be suitable for many settings or eras. Each includes a general description, a list of appropriate skills, and a suggested wealth level. Each setting in *Chapter 10: Settings* suggests appropriate professions.
+A maioria dessas profissões é genérica o suficiente para ser adequada para muitos cenários ou épocas. Cada uma inclui uma descrição geral, uma lista de habilidades apropriadas e um nível de riqueza sugerido. Cada cenário no *Capítulo 10: Cenários* sugere profissões apropriadas.
 
-These professions are not exhaustive. Depending on the setting, your or your gamemaster may create additional professions, or adapt existing professions even more. Information on creating new professions or adapting existing ones is found in **Creating New Professions**.
+Essas profissões não são exaustivas. Dependendo do cenário, você ou seu mestre do jogo podem criar profissões adicionais ou adaptar profissões existentes ainda mais. Informações sobre como criar novas profissões ou adaptar as existentes são encontradas em **Criando Novas Profissões**.
 
-Your gamemaster may limit your choices of profession or ask you to determine your profession randomly, but it is usually preferable to choose a profession, to prevent being forced to play a character you will not enjoy.
+Seu mestre do jogo pode limitar suas escolhas de profissão ou pedir que você determine sua profissão aleatoriamente, mas geralmente é preferível escolher uma profissão, para evitar ser forçado a jogar com um personagem que você não vai gostar.
 
-**Skills:** These skills are the main skills used by members of that profession. Your character will spend their professional skill points on these skills during character creation. Your character does not have to have all these skills, but these are a suggestion of which skills would be appropriate. With your gamemaster’s permission, you can substitute any of these skills for another if the skill does not fit with the era, setting, or your character concept.
+**Habilidades:** Essas habilidades são as principais habilidades usadas por membros daquela profissão. Seu personagem gastará seus pontos de habilidade profissional nessas habilidades durante a criação de personagem. Seu personagem não precisa ter todas essas habilidades, mas essas são uma sugestão de quais habilidades seriam apropriadas. Com a permissão do seu mestre do jogo, você pode substituir qualquer uma dessas habilidades por outra se a habilidade não se encaixar com a época, cenário ou conceito do seu personagem.
 
-***For example,*** *you wish to play a constable with a penchant for deduction in a campaign set in 12th century England. You look at the professions list and see that the Detective template lists the Firearms (Pistol or Revolver) skill. It would be wholly reasonable to switch this with Melee Weapon (Sword) for that setting.*
+***Por exemplo,*** *você deseja jogar com um policial com uma predileção por dedução em uma campanha ambientada na Inglaterra do século XII. Você olha a lista de profissões e vê que o modelo de Detetive lista a habilidade Armas de Fogo (Pistola ou Revólver). Seria totalmente razoável trocar isso por Arma Corpo a Corpo (Espada) para aquele cenário.*
 
-**Wealth:** An average wealth level for a character in that profession. In some cases, a range is provided, allowing for you and your gamemaster to decide the most appropriate to the setting. The description is meant to be a suggestion only; you and your gamemaster may choose to adjust the suggested wealth level up or down depending on your character concept.
+**Riqueza:** Um nível médio de riqueza para um personagem naquela profissão. Em alguns casos, uma faixa é fornecida, permitindo que você e seu mestre do jogo decidam o mais apropriado para o cenário. A descrição destina-se a ser apenas uma sugestão; você e seu mestre do jogo podem escolher ajustar o nível de riqueza sugerido para cima ou para baixo dependendo do conceito do seu personagem.
 
-An alternate method of determining initial wealth level where a range is presented is to begin with your character at the lowest of the wealth ranges, adjusted upward for each successful Status roll you can make. This should be done after your character has been created.
+Um método alternativo de determinar o nível de riqueza inicial onde uma faixa é apresentada é começar com seu personagem no nível mais baixo das faixas de riqueza, ajustado para cima para cada rolagem de Status bem-sucedida que você puder fazer. Isso deve ser feito após seu personagem ter sido criado.
 
-While the Status skill describes the ways in which Status and wealth relate to one another, a brief description of each wealth level is below.
+Enquanto a habilidade Status descreve as maneiras pelas quais Status e riqueza se relacionam entre si, uma breve descrição de cada nível de riqueza está abaixo.
 
-**Special:** This indicates whether a member of the profession is likely to have powers, described in *Chapter 4: Powers*.
+**Especial:** Isso indica se um membro da profissão provavelmente terá poderes, descritos no *Capítulo 4: Poderes*.
 
-#### Wealth
+#### Riqueza
 
-Ultimately, wealth represents what your character’s economic status is at the start of play, and what they are accustomed to. Each level below describes the relative state of someone in that wealth level. Wealth is covered further in *Chapter 8: Equipment*, as it determines what sort of possessions your character can initially own and acquire in play.
+Em última análise, a riqueza representa qual é o status econômico do seu personagem no início do jogo e ao que ele está acostumado. Cada nível abaixo descreve o estado relativo de alguém naquele nível de riqueza. A riqueza é abordada ainda mais no *Capítulo 8: Equipamento*, pois determina que tipo de posses seu personagem pode inicialmente possuir e adquirir no jogo.
 
-#### Destitute
+#### Indigente
 
-Penniless, your character must scavenge food and drink or rely on charity. Homeless, they sleep wherever they can find a dry and safe spot. They may have some small possessions other than what they can carry, but these are not particularly valuable and are hidden away, stolen if discovered. This level of poverty is probably reflected in your character’s appearance, and they may have difficulty performing normal tasks due to prejudice against the destitute.
+Sem um tostão, seu personagem deve procurar comida e bebida ou depender da caridade. Sem-teto, ele dorme onde puder encontrar um lugar seco e seguro. Ele pode ter algumas pequenas posses além do que pode carregar, mas estas não são particularmente valiosas e são escondidas, roubadas se descobertas. Este nível de pobreza provavelmente se reflete na aparência do seu personagem, e ele pode ter dificuldade em realizar tarefas normais devido ao preconceito contra os indigentes.
 
-#### Poor
+#### Pobre
 
-While your character has some money and does not want for a place to sleep or food to eat, their life is without much luxury. They do not have much free cash. With this level of wealth, their abode is humble and potentially in a poor or undesirable part of town. They are partly employed, unemployed, or work hard for meager wages.
+Embora seu personagem tenha algum dinheiro e não queira por um lugar para dormir ou comida para comer, sua vida é sem muito luxo. Ele não tem muito dinheiro livre. Com este nível de riqueza, sua morada é humilde e potencialmente em uma parte pobre ou indesejável da cidade. Ele está parcialmente empregado, desempregado ou trabalha duro por salários magros.
 
-**Average**
+#### Médio
 
-Your character has a comfortable income and lives without much difficulty, though major purchases must be weighed carefully. They have an average home or apartment somewhere and may have a reasonable amount of money in savings, though few would think them anything other than middle class or of average income. They can pay their bills and expenses, and can splurge occasionally on luxury items, but they are generally living a lifestyle common to most people in their culture and era.
+Seu personagem tem uma renda confortável e vive sem muita dificuldade, embora grandes compras devam ser ponderadas cuidadosamente. Ele tem uma casa ou apartamento médio em algum lugar e pode ter uma quantidade razoável de dinheiro em poupança, embora poucos pensem nele como qualquer coisa além de classe média ou de renda média. Ele pode pagar suas contas e despesas e pode se dar ao luxo ocasionalmente de itens de luxo, mas geralmente está vivendo um estilo de vida comum à maioria das pessoas em sua cultura e época.
 
-#### Affluent
+#### Abastado
 
-Your character is doing quite well and has a considerable income or stream of money with which they can live opulently and enjoy life. Living accommodations are very upscale, and your character does not need to think twice about making major purchases. They have a large amount of money saved and may live a life of excess and luxury without any consequences.
+Seu personagem está indo muito bem e tem uma renda considerável ou fluxo de dinheiro com o qual ele pode viver opulentemente e desfrutar da vida. As acomodações de vida são muito sofisticadas, e seu personagem não precisa pensar duas vezes antes de fazer grandes compras. Ele tem uma grande quantidade de dinheiro guardado e pode viver uma vida de excesso e luxo sem quaisquer consequências.
 
-#### Wealthy
+#### Rico
 
-Your character has vast material wealth from a near-inexhaustible source. They can make purchases of considerable expense without a second thought, with a quality of life enviable to most. They have a great amount of money saved, and due to their level of wealth, are likely to have social and business opportunities far beyond those of any other income level.
+Seu personagem tem vasta riqueza material de uma fonte quase inesgotável. Ele pode fazer compras de despesa considerável sem um segundo pensamento, com uma qualidade de vida invejável para a maioria. Ele tem uma grande quantidade de dinheiro guardado e, devido ao seu nível de riqueza, é provável que tenha oportunidades sociais e de negócios muito além das de qualquer outro nível de renda.
 
-### A List of Professions
+### Lista de Profissões
 
-|<p>Artist</p><p></p>|<p>Gambler</p><p></p>|<p>Scholar</p><p></p>|
+| Artista | Jogador | Estudioso |
 | :- | :- | :- |
-|<p>Assassin</p><p></p>|<p>Herder</p><p></p>|<p>Scientist</p><p></p>|
-|<p>Athlete</p><p></p>|<p>Hunter</p><p></p>|<p>Servant</p><p></p>|
-|<p>Beggar</p><p></p>|<p>Journalist</p><p></p>|<p>Shaman</p><p></p>|
-|<p>Clerk</p><p></p>|<p>Laborer</p><p></p>|<p>Slave</p><p></p>|
-|<p>Computer Tech</p><p></p>|<p>Lawkeeper</p><p></p>|<p>Soldier</p><p></p>|
-|<p>Occultist</p><p></p>|<p>Lawyer</p><p></p>|<p>Spy</p><p></p>|
-|<p>Crafter</p><p></p>|<p>Mechanic</p><p></p>|<p>Student</p><p></p>|
-|<p>Criminal</p><p></p>|<p>Merchant</p><p></p>|<p>Teacher</p><p></p>|
-|<p>Detective</p><p></p>|<p>Noble</p><p></p>|<p>Technician</p><p></p>|
-|<p>Doctor</p><p></p>|<p>Writer</p><p></p>|<p>Thief</p><p></p>|
-|<p>Engineer</p><p></p>|<p>Pilot</p><p></p>|<p>Tribesperson</p><p></p>|
-|<p>Entertainer</p><p></p>|<p>Politician</p><p></p>|<p>Warrior</p><p></p>|
-|<p>Explorer</p><p></p>|<p>Priest</p><p></p>|<p>Wizard</p><p></p>|
-|<p>Farmer</p><p></p>|<p>Sailor</p><p></p>||
+| Assassino | Pastor | Cientista |
+| Atleta | Caçador | Servo |
+| Mendigo | Jornalista | Xamã |
+| Escrivão | Trabalhador | Escravo |
+| Técnico de Informática | Guarda da Lei | Soldado |
+| Ocultista | Advogado | Espião |
+| Artesão | Mecânico | Estudante |
+| Criminoso | Mercador | Professor |
+| Detetive | Nobre | Técnico |
+| Médico | Escritor | Ladrão |
+| Engenheiro | Piloto | Membro Tribal |
+| Artista | Político | Guerreiro |
+| Explorador | Sacerdote | Mago |
+| Fazendeiro | Marinheiro | |
 
-**Artist**
+#### Artista
 
-You make your living through making art, whether drawing, painting, sculpture, design, photography, filmmaking, or any other means of creative expression in a physical or digital medium. Performers should refer to the Entertainer profession.
+Você ganha a vida fazendo arte, seja desenhando, pintando, esculpindo, projetando, fotografando, fazendo filmes ou qualquer outro meio de expressão criativa em um meio físico ou digital. Artistas performáticos devem consultar a profissão Artista.
 
-• **Wealth:** Any, but usually Poor or Average.
+• **Riqueza:** Qualquer uma, mas geralmente Pobre ou Médio.
 
-• **Skills:** Any two Art skills, any Craft, Insight, one appropriate Knowledge skill, Language (Other), Language (Own), Listen, Research, Spot.
+• **Habilidades:** Quaisquer duas habilidades de Arte, qualquer Artesanato, Intuição, uma habilidade de Conhecimento apropriada, Idioma (Outro), Idioma (Próprio), Ouvir, Pesquisar, Observar.
 
-**Assassin**
+#### Assassino
 
-As a coldblooded professional assassin, death is your trade. Whether you kill for money or some other cause, you are skilled in the termination of other living beings, usually in secrecy.
+Como um assassino profissional de sangue frio, a morte é o seu ofício. Seja você mate por dinheiro ou por alguma outra causa, você é habilidoso na eliminação de outros seres vivos, geralmente em segredo.
 
-• **Wealth:** Average or Affluent. You may also have a wide range of weapons and false identities, as appropriate to setting.
+• **Riqueza:** Médio ou Abastado. Você também pode ter uma ampla gama de armas e identidades falsas, conforme apropriado ao cenário.
 
-• **Skills:** Dodge, Hide, Listen, Spot, Stealth, and five of the following as appropriate to setting: Brawl, Disguise, Drive, Electronics, Grapple, Firearm (any), Fine Manipulation, Martial Arts, Melee Weapon (any), Missile Weapon (any), Ride, Throw, Track.
+• **Habilidades:** Esquiva, Esconder, Ouvir, Observar, Furtividade e cinco das seguintes conforme apropriado ao cenário: Briga, Disfarce, Dirigir, Eletrônica, Agarrar, Arma de Fogo (qualquer), Manipulação Fina, Artes Marciais, Arma Corpo a Corpo (qualquer), Arma de Projétil (qualquer), Cavalgar, Arremessar, Rastrear.
 
-**Athlete**
+#### Atleta
 
-Whether professional or amateur, state-sponsored or still in school, you excel in a style of sports or exercise, honing your body and resolve for solo or team athletic competition.
+Seja profissional ou amador, patrocinado pelo estado ou ainda na escola, você se destaca em um estilo de esporte ou exercício, aprimorando seu corpo e determinação para competição atlética solo ou em equipe.
 
-• **Wealth:** Poor through Wealthy, usually Average or Affluent.
+• **Riqueza:** Pobre a Rico, geralmente Médio ou Abastado.
 
-• **Skills:** Climb, Dodge, Jump, Stealth, Throw and choose five of the following as appropriate to setting and sport: Brawl, First Aid, Grapple, Insight, Listen, Martial Arts, Spot, Ride, Swim.
+• **Habilidades:** Escalar, Esquiva, Saltar, Furtividade, Arremessar e escolha cinco das seguintes conforme apropriado ao cenário e esporte: Briga, Primeiros Socorros, Agarrar, Intuição, Ouvir, Artes Marciais, Observar, Cavalgar, Nadar.
 
-**Beggar**
+#### Mendigo
 
-You survive by begging for money, food, and other necessities. You may call yourself a hobo, homeless, or a wandering vagabond. Perhaps you had a run of bad luck, are of a discriminated-against group, have a criminal past you cannot escape, or insanity or substance abuse drove you to this state.
+Você sobrevive pedindo dinheiro, comida e outras necessidades. Você pode se chamar de andarilho, sem-teto ou um vagabundo errante. Talvez você tenha tido uma sequência de má sorte, seja de um grupo discriminado, tenha um passado criminoso do qual não consegue escapar, ou insanidade ou abuso de substâncias o levaram a este estado.
 
-• **Wealth:** Destitute, though some beggars are actually Poor and only pretend to be worse off.
+• **Riqueza:** Indigente, embora alguns mendigos sejam na verdade Pobres e apenas finjam estar em pior situação.
 
-• **Skills:** Bargain, Fast Talk, Hide, Insight, Knowledge (Region: local area), Listen, Persuade, Sleight of Hand, Spot, Stealth.
+• **Habilidades:** Barganha, Lábia, Esconder, Intuição, Conhecimento (Região: área local), Ouvir, Persuadir, Prestidigitação, Observar, Furtividade.
 
-**Clerk**
+#### Escrivão
 
-You spend your days at a desk, usually working in some financial field. This profession could be one where you deal with customers, such as an accountant or salaried employee in a company, government, or other organization.
+Você passa seus dias em uma mesa, geralmente trabalhando em algum campo financeiro. Esta profissão pode ser uma onde você lida com clientes, como um contador ou funcionário assalariado em uma empresa, governo ou outra organização.
 
-• **Wealth:** Average.
+• **Riqueza:** Médio.
 
-• **Skills:** Bargain, Etiquette, Knowledge (Accounting), Knowledge (Law), one other Knowledge, Language (Own), Persuade, Research, Status, and either Technical Skill (Computer Use) or Literacy, as appropriate by era.
+• **Habilidades:** Barganha, Etiqueta, Conhecimento (Contabilidade), Conhecimento (Lei), outro Conhecimento, Idioma (Próprio), Persuadir, Pesquisar, Status e ou Habilidade Técnica (Uso de Computador) ou Alfabetização, conforme apropriado pela época.
 
-**Computer Tech**
+#### Técnico de Informática
 
-You could be a corporate software engineer or an illicit hacker. Alternately, you could be working in any of the many fields of software development. Much of your life is spent interfaced with a computer, often connected to the world’s information network. Lines of code, data, and other virtual assets are as real to you as the tools and materials of other craftsmen.
+Você pode ser um engenheiro de software corporativo ou um hacker ilícito. Alternativamente, você pode estar trabalhando em qualquer um dos muitos campos de desenvolvimento de software. Muito da sua vida é gasto interfaceado com um computador, frequentemente conectado à rede de informações do mundo. Linhas de código, dados e outros ativos virtuais são tão reais para você quanto as ferramentas e materiais de outros artesãos.
 
-• **Wealth:** Average to Affluent.
+• **Riqueza:** Médio a Abastado.
 
-• **Skills:** Craft (Computer Hardware or Code), one Knowledge skill, Language (Other) (a programming language), Repair (Electrical), Repair (Electronics), Research, Science (Mathematics), Status, Technical (Computer Use), and choose one of the following skills as specialties as appropriate to setting: Accounting, Hide, Knowledge (Law).
+• **Habilidades:** Artesanato (Hardware de Computador ou Código), uma habilidade de Conhecimento, Idioma (Outro) (uma linguagem de programação), Reparo (Elétrico), Reparo (Eletrônico), Pesquisar, Ciência (Matemática), Status, Técnica (Uso de Computador), e escolha uma das seguintes habilidades como especialidades conforme apropriado ao cenário: Contabilidade, Esconder, Conhecimento (Lei).
 
-**Crafter**
+#### Artesão
 
-Whether a village blacksmith, a glassblower, or a maker of finely tuned watches, you make trade goods by hand and sell them to interested buyers. You usually work in a shop, whether you own it or are merely employed there.
+Seja um ferreiro de aldeia, um soprador de vidro ou um fabricante de relógios finamente ajustados, você faz produtos comerciais à mão e os vende para compradores interessados. Você geralmente trabalha em uma loja, seja você o proprietário ou apenas empregado lá.
 
-• **Wealth:** Poor to Affluent, usually Average.
+• **Riqueza:** Pobre a Abastado, geralmente Médio.
 
-• **Skills:** Appraise, any one Art, Bargain, any two Craft skills, Spot, Research, Status, and choose two of the following as appropriate to setting and trade: Fine Manipulation, Heavy Machine, Repair (Electrical), Repair (Electronics), Repair (Mechanical).
+• **Habilidades:** Avaliar, qualquer uma Arte, Barganha, quaisquer duas habilidades de Artesanato, Observar, Pesquisar, Status e escolha duas das seguintes conforme apropriado ao cenário e ofício: Manipulação Fina, Máquina Pesada, Reparo (Elétrico), Reparo (Eletrônico), Reparo (Mecânico).
 
-**Criminal**
+#### Criminoso
 
-You make your way through the world by breaking the law, whether by strong-arm theft, organized crime, picking pockets, or some other means of gaining valuables or money illegally.
+Você se vira no mundo quebrando a lei, seja por roubo à mão armada, crime organizado, batedor de carteiras ou algum outro meio de obter valores ou dinheiro ilegalmente.
 
-• **Wealth:** Poor to Affluent, sometimes Wealthy, usually Average.
+• **Riqueza:** Pobre a Abastado, às vezes Rico, geralmente Médio.
 
-• **Skills:** Bargain, Hide, Stealth, Drive or Ride, and choose any six of the following as appropriate to setting and racket: Appraise, Brawl, Climb, Fast Talk, Fine Manipulation, Firearm (any), Gaming, Grapple, Insight, Jump, Knowledge (Law), Listen, Martial Arts, Melee Weapon (any, usually knives or clubs), Persuade, Spot, Throw.
+• **Habilidades:** Barganha, Esconder, Furtividade, Dirigir ou Cavalgar, e escolha quaisquer seis das seguintes conforme apropriado ao cenário e negócio: Avaliar, Briga, Escalar, Lábia, Manipulação Fina, Arma de Fogo (qualquer), Jogos, Agarrar, Intuição, Saltar, Conhecimento (Lei), Ouvir, Artes Marciais, Arma Corpo a Corpo (qualquer, geralmente facas ou clavas), Persuadir, Observar, Arremessar.
 
-**Detective**
+#### Detetive
 
-Whether employed by the police or working privately, you use skills of observation, deduction, and criminology to determine who has committed crimes. You may have a wide range of forensic and scientific skills or operate on gut instincts.
+Seja empregado pela polícia ou trabalhando de forma privada, você usa habilidades de observação, dedução e criminologia para determinar quem cometeu crimes. Você pode ter uma ampla gama de habilidades forenses e científicas ou operar por instinto.
 
-• **Wealth:** Average or Affluent.
+• **Riqueza:** Médio ou Abastado.
 
-• **Skills:** Firearm (Handgun), Knowledge (Law), Listen, Persuade, Spot, Research, and choose four of the following as appropriate to setting and concept: Art, Brawl, Disguise, Dodge, Drive, Fast Talk, Firearm (any), Grapple, Hide, Insight, Knowledge (any), Language (Other), Language (Own), Medicine, Ride, Science (any), Technical (Computer Use), Stealth, Track.
+• **Habilidades:** Arma de Fogo (Pistola), Conhecimento (Lei), Ouvir, Persuadir, Observar, Pesquisar e escolha quatro das seguintes conforme apropriado ao cenário e conceito: Arte, Briga, Disfarce, Esquiva, Dirigir, Lábia, Arma de Fogo (qualquer), Agarrar, Esconder, Intuição, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Medicina, Cavalgar, Ciência (qualquer), Técnica (Uso de Computador), Furtividade, Rastrear.
 
-**Doctor**
+#### Médico
 
-You have made it your calling to treat the injured, infirm, sick, and otherwise unhealthy, using diagnostic skills and medical practices gained through extensive training and study. You may have taken an oath to help any who need it, no matter what they have done or who they are.
+Você fez da sua vocação tratar os feridos, enfermos, doentes e demais não saudáveis, usando habilidades diagnósticas e práticas médicas adquiridas através de extenso treinamento e estudo. Você pode ter feito um juramento de ajudar qualquer um que precise, não importa o que tenha feito ou quem seja.
 
-• **Wealth:** Average to Affluent.
+• **Riqueza:** Médio a Abastado.
 
-• **Skills:** First Aid, Language (Other), Medicine, Persuade, Research, Spot, and choose four of the following as appropriate to setting: Insight, Language (various), Psychotherapy, Science (any), Status.
+• **Habilidades:** Primeiros Socorros, Idioma (Outro), Medicina, Persuadir, Pesquisar, Observar e escolha quatro das seguintes conforme apropriado ao cenário: Intuição, Idioma (vários), Psicoterapia, Ciência (qualquer), Status.
 
-**Engineer**
+#### Engenheiro
 
-You build, repair, or maintain machines, work in construction, or are a mechanic dealing with technology appropriate to your era and setting, from simple stone architecture to highly advanced spaceship drive systems. Some engineers maintain and operate a large and complex vehicle of some sort, from a sailing ship to a space cruiser, while others are employed in the creation and maintenance of siege engines or architectural structures.
+Você constrói, repara ou mantém máquinas, trabalha na construção ou é um mecânico lidando com tecnologia apropriada à sua época e cenário, desde arquitetura de pedra simples até sistemas de propulsão de naves espaciais altamente avançados. Alguns engenheiros mantêm e operam um veículo grande e complexo de algum tipo, de um navio à vela a um cruzador espacial, enquanto outros são empregados na criação e manutenção de máquinas de cerco ou estruturas arquitetônicas.
 
-• **Wealth:** Poor to Affluent, usually Average.
+• **Riqueza:** Pobre a Abastado, geralmente Médio.
 
-• **Skills:** Craft (any), Repair (Mechanical), Repair (Structural), Spot, Status, and five of the following, as appropriate to setting and concept: Art (usually Drafting), Drive, Heavy Machine, Knowledge (any), Pilot (any), Repair (Electrical), Repair (Electronics), Science (any), or Technical (Computer Use).
+• **Habilidades:** Artesanato (qualquer), Reparo (Mecânico), Reparo (Estrutural), Observar, Status e cinco das seguintes, conforme apropriado ao cenário e conceito: Arte (geralmente Desenho Técnico), Dirigir, Máquina Pesada, Conhecimento (qualquer), Pilotar (qualquer), Reparo (Elétrico), Reparo (Eletrônico), Ciência (qualquer) ou Técnica (Uso de Computador).
 
-**Entertainer**
+#### Artista
 
-You use your performing talent to entertain audiences of all sizes, improvisational or scripted, in person or through broadcast transmission or prerecorded distribution.
+Você usa seu talento de performance para entreter audiências de todos os tamanhos, improvisado ou roteirizado, pessoalmente ou através de transmissão ou distribuição pré-gravada.
 
-• **Wealth:** Destitute to Wealthy, usually Average.
+• **Riqueza:** Indigente a Rico, geralmente Médio.
 
-• **Skills:** Art (any), Disguise, Fast Talk, Fine Manipulation, Insight, Language (Other), Language (Other), Listen, Perform (any), Persuade.
+• **Habilidades:** Arte (qualquer), Disfarce, Lábia, Manipulação Fina, Intuição, Idioma (Outro), Idioma (Outro), Ouvir, Apresentar (qualquer), Persuadir.
 
-**Explorer**
+#### Explorador
 
-You have made it your life’s work to seek out the unknown corners of the world, go where none have gone before, and to bring back knowledge of what you have found, either for glory or in the name of discovery.
+Você fez do trabalho da sua vida buscar os cantos desconhecidos do mundo, ir onde ninguém foi antes e trazer de volta o conhecimento do que você encontrou, seja por glória ou em nome da descoberta.
 
-• **Wealth:** Affluent or Wealthy.
+• **Riqueza:** Abastado ou Rico.
 
-• **Skills:** Climb, Language (Other), Language (Own), Persuade, Research, Spot, and four of the following as appropriate: Knowledge (Anthropology, Group, History, Natural World, or Region), Drive, Fast Talk, Firearm (Pistol, Revolver, or Rifle), Navigate, Pilot (Aircraft or Boat), Ride, Science (Geology), Swim, Track.
+• **Habilidades:** Escalar, Idioma (Outro), Idioma (Próprio), Persuadir, Pesquisar, Observar e quatro das seguintes conforme apropriado: Conhecimento (Antropologia, Grupo, História, Mundo Natural ou Região), Dirigir, Lábia, Arma de Fogo (Pistola, Revólver ou Rifle), Navegar, Pilotar (Aeronave ou Barco), Cavalgar, Ciência (Geologia), Nadar, Rastrear.
 
-**Farmer**
+#### Fazendeiro
 
-As a farmer you dwell in a rural or barely tamed area, coaxing a living out of the land through growing crops or tending animal herds. It is a hard life with long days of backbreaking labor, but nonetheless satisfying.
+Como fazendeiro, você mora em uma área rural ou mal domesticada, tirando o sustento da terra através do cultivo de plantações ou criação de rebanhos animais. É uma vida dura com longos dias de trabalho árduo, mas não obstante satisfatória.
 
-• **Wealth:** Poor to Affluent, usually Average.
+• **Riqueza:** Pobre a Abastado, geralmente Médio.
 
-• **Skills:** Bargain, Craft (any), Knowledge (Natural History), Listen, Spot, and five of the following as appropriate to setting and concept: Brawl, Drive, Firearm (Rifle or Shotgun), First Aid, Heavy Machine, Knowledge (History), Repair (Mechanical), Ride, Science (Biology, Botany, or Geology), Track.
+• **Habilidades:** Barganha, Artesanato (qualquer), Conhecimento (História Natural), Ouvir, Observar e cinco das seguintes conforme apropriado ao cenário e conceito: Briga, Dirigir, Arma de Fogo (Rifle ou Espingarda), Primeiros Socorros, Máquina Pesada, Conhecimento (História), Reparo (Mecânico), Cavalgar, Ciência (Biologia, Botânica ou Geologia), Rastrear.
 
-**Gambler**
+#### Jogador
 
-You survive by the whim of chance, or by cheating fate in games of luck and skill. Inevitably, you travel around; drifting from one gambling arena to another, sometimes one step ahead of the law, hoping your luck won’t dry up.
+Você sobrevive pelo capricho do acaso, ou trapaceando o destino em jogos de sorte e habilidade. Inevitavelmente, você viaja por aí; vagando de uma arena de jogo para outra, às vezes um passo à frente da lei, esperando que sua sorte não seque.
 
-• **Wealth:** Poor to Affluent, usually Average.
+• **Riqueza:** Pobre a Abastado, geralmente Médio.
 
-• **Skills:** Bargain, Brawl, Dodge, Fast Talk, Gaming, Insight, Knowledge (Accounting), Persuade, Sleight of Hand, Spot.
+• **Habilidades:** Barganha, Briga, Esquiva, Lábia, Jogos, Intuição, Conhecimento (Contabilidade), Persuadir, Prestidigitação, Observar.
 
-**Herder**
+#### Pastor
 
-You make your living tending herd animals, riding the open range and taking care of the herds, finding strays and bringing them to market when it is time to sell.
+Você ganha a vida cuidando de animais de rebanho, cavalgando pelas pradarias abertas e cuidando dos rebanhos, encontrando desgarrados e levando-os ao mercado quando é hora de vender.
 
-• **Wealth:** Poor to Average, occasionally Affluent.
+• **Riqueza:** Pobre a Médio, ocasionalmente Abastado.
 
-• **Skills:** Craft (usually knots), Firearm (Rifle), Knowledge (Natural History), Knowledge (Region: the Range), Listen, Navigate, Ride, Spot, Throw, Track.
+• **Habilidades:** Artesanato (geralmente nós), Arma de Fogo (Rifle), Conhecimento (História Natural), Conhecimento (Região: as Pradarias), Ouvir, Navegar, Cavalgar, Observar, Arremessar, Rastrear.
 
-**Hunter**
+#### Caçador
 
-Whether for survival or for the thrill of the hunt, you specialize in tracking and either trapping or killing wild animals or other beings.
+Seja por sobrevivência ou pela emoção da caça, você se especializa em rastrear e capturar ou matar animais selvagens ou outros seres.
 
-• **Wealth:** Poor or Average, unless a big game or sport hunter, then Wealthy.
+• **Riqueza:** Pobre ou Médio, a menos que seja caçador de grande porte ou esportivo, então Rico.
 
-• **Skills:** Climb, Hide, Listen, Navigate, Spot, Stealth, Track, and three of the following as appropriate to setting and concept: Firearm (Rifle or Shotgun), Knowledge (Natural History or Region), Language (Other), Melee Weapon (usually Spear), Missile Weapon (any), Ride.
+• **Habilidades:** Escalar, Esconder, Ouvir, Navegar, Observar, Furtividade, Rastrear e três das seguintes conforme apropriado ao cenário e conceito: Arma de Fogo (Rifle ou Espingarda), Conhecimento (História Natural ou Região), Idioma (Outro), Arma Corpo a Corpo (geralmente Lança), Arma de Projétil (qualquer), Cavalgar.
 
-**Journalist**
+#### Jornalista
 
-Whether a columnist for a weekly paper, a web journalist, a photojournalist, a television anchor, or a gonzo commentator, you make a living from the coverage and analysis of events, to be broadcast or distributed in some other medium. This may come with some measure of fame or notoriety.
+Seja um colunista para um jornal semanal, um jornalista web, um fotojornalista, um âncora de televisão ou um comentarista gonzo, você ganha a vida com a cobertura e análise de eventos, para ser transmitido ou distribuído em algum outro meio. Isso pode vir com alguma medida de fama ou notoriedade.
 
-• **Wealth:** Average to Affluent.
+• **Riqueza:** Médio a Abastado.
 
-• **Skills:** Fast Talk, Insight, Language (Own), Listen, Persuade, Research, Spot, and three of the following as appropriate to setting and concept: Art (Photography), Craft (Photography), Disguise, Hide, Knowledge (any), Language (Other), Status, Stealth, Technical (Computer Use).
+• **Habilidades:** Lábia, Intuição, Idioma (Próprio), Ouvir, Persuadir, Pesquisar, Observar e três das seguintes conforme apropriado ao cenário e conceito: Arte (Fotografia), Artesanato (Fotografia), Disfarce, Esconder, Conhecimento (qualquer), Idioma (Outro), Status, Furtividade, Técnica (Uso de Computador).
 
-**Laborer**
+#### Trabalhador
 
-You are a blue-collar worker, whether on a factory line, in a warehouse, or simply heavy labor. Your muscle and ability to do repetitive tasks are more important than any brainpower you can muster.
+Você é um trabalhador braçal, seja em uma linha de fábrica, em um armazém ou simplesmente trabalho pesado. Seu músculo e capacidade de fazer tarefas repetitivas são mais importantes do que qualquer poder mental que você possa reunir.
 
-• **Wealth:** Poor or Average.
+• **Riqueza:** Pobre ou Médio.
 
-• **Skills:** Climb, Craft (any), Drive, Brawl, Grapple, Heavy Machine, and four others, as appropriate to setting: Appraise, Fine Manipulation, Language (Other), Literacy, Repair (Mechanical), Repair (Structural), Technical (Computer Use).
+• **Habilidades:** Escalar, Artesanato (qualquer), Dirigir, Briga, Agarrar, Máquina Pesada e quatro outras, conforme apropriado ao cenário: Avaliar, Manipulação Fina, Idioma (Outro), Alfabetização, Reparo (Mecânico), Reparo (Estrutural), Técnica (Uso de Computador).
 
-**Lawkeeper**
+#### Guarda da Lei
 
-You have the authority and the jurisdiction to uphold and defend the law, ideally in defense of the common folk. Your enforcement of the law and legal code is supported by the power structure in your community.
+Você tem a autoridade e a jurisdição para defender e fazer cumprir a lei, idealmente em defesa do povo comum. Sua aplicação da lei e código legal é apoiada pela estrutura de poder em sua comunidade.
 
-• **Wealth:** Usually Average. Corrupt lawmen are sometimes Affluent.
+• **Riqueza:** Geralmente Médio. Guardas corruptos às vezes são Abastados.
 
-• **Skills:** Brawl, Dodge, Fast Talk, Knowledge (Law), Listen, Spot, and four of the following, as appropriate to setting and concept: Drive, Firearms (any), First Aid, Grapple, Insight, Knowledge (Region or Group), Language (Other), Martial Arts, Melee Weapon (any), Missile Weapon (any), Pilot (any), Ride, Status, Technical (Computer Use), Track.
+• **Habilidades:** Briga, Esquiva, Lábia, Conhecimento (Lei), Ouvir, Observar e quatro das seguintes, conforme apropriado ao cenário e conceito: Dirigir, Armas de Fogo (qualquer), Primeiros Socorros, Agarrar, Intuição, Conhecimento (Região ou Grupo), Idioma (Outro), Artes Marciais, Arma Corpo a Corpo (qualquer), Arma de Projétil (qualquer), Pilotar (qualquer), Cavalgar, Status, Técnica (Uso de Computador), Rastrear.
 
-**Lawyer**
+#### Advogado
 
-You are trained in law and use the legal system to prosecute or defend, or you represent the legal interests of individuals, organizations, or governments. Though you have no authority above or beyond that of the common citizen, your inside knowledge of the legal system gives you considerable power within the legal system.
+Você é treinado em lei e usa o sistema legal para processar ou defender, ou representa os interesses legais de indivíduos, organizações ou governos. Embora você não tenha autoridade acima ou além da do cidadão comum, seu conhecimento interno do sistema legal lhe dá poder considerável dentro do sistema legal.
 
-• **Wealth:** Destitute, Poor, Average, Affluent, Wealthy
+• **Riqueza:** Indigente, Pobre, Médio, Abastado, Rico
 
-• **Skills:** Bargain, Fast Talk, Insight, Knowledge (Law), one other Knowledge skill, Language (Own), Perform (Oratory), Persuade, Research, Status.
+• **Habilidades:** Barganha, Lábia, Intuição, Conhecimento (Lei), uma outra habilidade de Conhecimento, Idioma (Próprio), Apresentar (Oratória), Persuadir, Pesquisar, Status.
 
-**Mechanic**
+#### Mecânico
 
-A grease-monkey, you spend your time maintaining, repairing, and sometimes building machines, vehicles, or more complex constructions. You are good with tools, and able to easily decipher technical problems or issues.
+Um macaco de oficina, você passa seu tempo mantendo, reparando e às vezes construindo máquinas, veículos ou construções mais complexas. Você é bom com ferramentas e capaz de decifrar facilmente problemas ou questões técnicas.
 
-• **Wealth:** Poor to Average, usually Average.
+• **Riqueza:** Pobre a Médio, geralmente Médio.
 
-• **Skills:** Bargain, Craft (Metalwork), Drive, Fine Manipulation, Heavy Machine, Repair (Electrical), Repair (Electronics), Repair (Mechanical), Repair (Structural), Spot.
+• **Habilidades:** Barganha, Artesanato (Metalurgia), Dirigir, Manipulação Fina, Máquina Pesada, Reparo (Elétrico), Reparo (Eletrônico), Reparo (Mecânico), Reparo (Estrutural), Observar.
 
-**Merchant**
+#### Mercador
 
-You make a living in retail or wholesale, purchasing resources for less and selling for more. You might work in or own a shop, or you might be mobile: a traveling salesman, a wandering tinker, an adventuresome spice merchant, or an international sales representative.
+Você ganha a vida no varejo ou atacado, comprando recursos por menos e vendendo por mais. Você pode trabalhar em ou possuir uma loja, ou pode ser móvel: um vendedor viajante, um funileiro errante, um comerciante de especiarias aventureiro ou um representante de vendas internacional.
 
-• **Wealth:** Average to Wealthy, usually Affluent. Your gamemaster and player should determine whether the character owns their own shop or trade vessel.
+• **Riqueza:** Médio a Rico, geralmente Abastado. Seu mestre do jogo e jogador devem determinar se o personagem possui sua própria loja ou embarcação comercial.
 
-• **Skills:** Appraise, Bargain, Fast Talk, Knowledge (Accounting), Knowledge (Business), Persuade, Research, Status, and any two other skills as specialties, as appropriate to setting and concept.
+• **Habilidades:** Avaliar, Barganha, Lábia, Conhecimento (Contabilidade), Conhecimento (Negócios), Persuadir, Pesquisar, Status e quaisquer duas outras habilidades como especialidades, conforme apropriado ao cenário e conceito.
 
-**Noble**
+#### Nobre
 
-You were born into wealth and a ruling class. In a society that recognizes such social distinctions your status is often associated with ranks and titles, but even if such titles are meaningless you are still easily recognized as among the elite. You are accustomed to an elegant and extravagant lifestyle, and you know and are known to the wealthy and other highborn of society.
+Você nasceu na riqueza e em uma classe dominante. Em uma sociedade que reconhece tais distinções sociais, seu status está frequentemente associado a títulos e posições, mas mesmo que tais títulos sejam sem sentido, você ainda é facilmente reconhecido como entre a elite. Você está acostumado a um estilo de vida elegante e extravagante, e conhece e é conhecido pelos ricos e outros nobres da sociedade.
 
-• **Wealth:** Affluent to Wealthy, usually Wealthy.
+• **Riqueza:** Abastado a Rico, geralmente Rico.
 
-• **Skills:** Bargain, Drive, Etiquette, Language (Own), Language (Other), Literacy, and Status, plus any other three skills as hobbies or fields of interest.
+• **Habilidades:** Barganha, Dirigir, Etiqueta, Idioma (Próprio), Idioma (Outro), Alfabetização e Status, mais quaisquer três outras habilidades como hobbies ou campos de interesse.
 
-**Occultist**
+#### Ocultista
 
-You are a student of obscure secrets, hidden lore, and magical power, believing in the influence and primacy of supernatural forces. If appropriate to the setting, your gamemaster may allow you to use powers (probably magic or sorcery) perhaps studied while a member of an occult organization or secret society.
+Você é um estudante de segredos obscuros, conhecimento oculto e poder mágico, acreditando na influência e primazia de forças sobrenaturais. Se apropriado ao cenário, seu mestre do jogo pode permitir que você use poderes (provavelmente magia ou feitiçaria) talvez estudados enquanto membro de uma organização oculta ou sociedade secreta.
 
-• **Wealth:** Poor to Wealthy, usually Affluent.
+• **Riqueza:** Pobre a Rico, geralmente Abastado.
 
-• **Skills:** Fast Talk, Insight, Knowledge (Anthropology), Knowledge (History), Knowledge (Occult), Language (Other), Language (Own), Research, and any two other skills as appropriate to setting, usually from the following: Art (any), Craft (any), Knowledge (Archaeology), Medicine, Science (any), Status.
+• **Habilidades:** Lábia, Intuição, Conhecimento (Antropologia), Conhecimento (História), Conhecimento (Ocultismo), Idioma (Outro), Idioma (Próprio), Pesquisar e quaisquer duas outras habilidades conforme apropriado ao cenário, geralmente das seguintes: Arte (qualquer), Artesanato (qualquer), Conhecimento (Arqueologia), Medicina, Ciência (qualquer), Status.
 
-• **Special:** If magic is present in the setting, you may have magic powers. See *Chapter 4: Powers* for more information.
+• **Especial:** Se a magia estiver presente no cenário, você pode ter poderes mágicos. Veja o *Capítulo 4: Poderes* para mais informações.
 
-**Pilot**
+#### Piloto
 
-Whether on land, on or below the water, in the skies, or through the deeps of space, you are trained in guiding and piloting a vessel of some sort, steering it for commercial, official, or military ends. Your job ranges from space fighter pilot to tramp steamer captain, depending on the setting.
+Seja em terra, na água ou abaixo dela, nos céus ou através das profundezas do espaço, você é treinado em guiar e pilotar uma embarcação de algum tipo, dirigindo-a para fins comerciais, oficiais ou militares. Seu trabalho varia de piloto de caça espacial a capitão de navio cargueiro, dependendo do cenário.
 
-• **Wealth:** Average to Affluent. If you own your own vessel, Affluent.
+• **Riqueza:** Médio a Abastado. Se você possui sua própria embarcação, Abastado.
 
-• **Skills:** Drive, Heavy Machine, Listen, Navigate, Pilot (any), Spot, plus any four of the following skills, as appropriate to setting: Bargain, Climb, Command, Craft (any), Knowledge (Region), Repair (Electrical), Repair (Electronics), Repair (Mechanical), Language (Other), Persuade, Science (Physics), Science (Astronomy), Technical (Computer Use).
+• **Habilidades:** Dirigir, Máquina Pesada, Ouvir, Navegar, Pilotar (qualquer), Observar, mais quaisquer quatro das seguintes habilidades, conforme apropriado ao cenário: Barganha, Escalar, Comando, Artesanato (qualquer), Conhecimento (Região), Reparo (Elétrico), Reparo (Eletrônico), Reparo (Mecânico), Idioma (Outro), Persuadir, Ciência (Física), Ciência (Astronomia), Técnica (Uso de Computador).
 
-**Politician**
+#### Político
 
-You have been elected or appointed to a position of authority and make your living taking part in or directing government activities, whether city-wide or greater. You could be a medieval magistrate or a galactic senator, depending on the setting.
+Você foi eleito ou nomeado para uma posição de autoridade e ganha a vida participando ou dirigindo atividades governamentais, seja em toda a cidade ou maior. Você pode ser um magistrado medieval ou um senador galáctico, dependendo do cenário.
 
-• **Wealth:** Affluent to Wealthy, usually Affluent.
+• **Riqueza:** Abastado a Rico, geralmente Abastado.
 
-• **Skills:** Bargain, Etiquette, Fast Talk, Insight, Knowledge (Law), Persuade, Status, plus any three other skills as appropriate to the setting, usually from the following: Knowledge (Accounting, Group, History, or Region), Listen, Language (Other), Language (Own), Perform (Oratory), Research.
+• **Habilidades:** Barganha, Etiqueta, Lábia, Intuição, Conhecimento (Lei), Persuadir, Status, mais quaisquer três outras habilidades conforme apropriado ao cenário, geralmente das seguintes: Conhecimento (Contabilidade, Grupo, História ou Região), Ouvir, Idioma (Outro), Idioma (Próprio), Apresentar (Oratória), Pesquisar.
 
-**Priest**
+#### Sacerdote
 
-Your faith and belief in the divine have led you to the calling of the priesthood, and you spend your time preaching or in activities befitting the worship of your deity (or deities). You could be an acetic monk or a televangelist, depending on the setting.
+Sua fé e crença no divino levaram você à vocação do sacerdócio, e você passa seu tempo pregando ou em atividades adequadas à adoração de sua divindade (ou divindades). Você pode ser um monge ascético ou um televangelista, dependendo do cenário.
 
-• **Wealth:** Poor to Affluent, usually Average, possibly Wealthy if you are the religious leader of a large group of worshipers, at your gamemaster’s discretion.
+• **Riqueza:** Pobre a Abastado, geralmente Médio, possivelmente Rico se você for o líder religioso de um grande grupo de adoradores, a critério do seu mestre do jogo.
 
-• **Skills:** Fast Talk, Insight, Knowledge (History), Knowledge (Philosophy), Knowledge (Religion), Language (Own), Perform (Ritual), Persuade, and two of the following: Knowledge (Occult), Language (Other), Listen, Literacy, Perform (Oratory), Research, Status, Teach.
+• **Habilidades:** Lábia, Intuição, Conhecimento (História), Conhecimento (Filosofia), Conhecimento (Religião), Idioma (Próprio), Apresentar (Ritual), Persuadir e duas das seguintes: Conhecimento (Ocultismo), Idioma (Outro), Ouvir, Alfabetização, Apresentar (Oratória), Pesquisar, Status, Ensinar.
 
-• **Special:** Your affiliation with a faith or cult may grant you access to magical or supernatural powers. *See Chapter 4: Powers* for more information.
+• **Especial:** Sua afiliação com uma fé ou culto pode conceder acesso a poderes mágicos ou sobrenaturais. *Veja o Capítulo 4: Poderes* para mais informações.
 
-**Sailor**
+#### Marinheiro
 
-You ply the ocean waves, working hard to maintain your vessel’s integrity, whether as a pirate, a naval officer, or an ancient world trader.
+Você navega nas ondas do oceano, trabalhando duro para manter a integridade de sua embarcação, seja como pirata, oficial naval ou comerciante do mundo antigo.
 
-• **Wealth:** Poor or Average, usually Average.
+• **Riqueza:** Pobre ou Médio, geralmente Médio.
 
-• **Skills:** Climb, Craft (any), Dodge, Grapple, Navigate, Pilot (Boat), Swim, and any three of the following: Artillery (any, usually shipboard), Command, Language (Other), Listen, Repair (Mechanical), Repair (Structural), Spot.
+• **Habilidades:** Escalar, Artesanato (qualquer), Esquiva, Agarrar, Navegar, Pilotar (Barco), Nadar e quaisquer três das seguintes: Artilharia (qualquer, geralmente de bordo), Comando, Idioma (Outro), Ouvir, Reparo (Mecânico), Reparo (Estrutural), Observar.
 
-**Scholar**
+#### Estudioso
 
-Study and learning define your life, and you specialize in one or more fields of knowledge, eagerly seeking out all there is to know within your intellectual domain. You might teach this knowledge to students or hoard it for your own use.
+Estudo e aprendizado definem sua vida, e você se especializa em um ou mais campos de conhecimento, buscando avidamente tudo o que há para saber dentro do seu domínio intelectual. Você pode ensinar esse conhecimento aos alunos ou guardá-lo para seu próprio uso.
 
-• **Wealth:** Average or Affluent, usually Average.
+• **Riqueza:** Médio ou Abastado, geralmente Médio.
 
-• **Skills:** Language (Other), Language (Own), Persuade, Research, Teach, and choose five Knowledge or Science skills appropriate to setting and related to your field of study.
+• **Habilidades:** Idioma (Outro), Idioma (Próprio), Persuadir, Pesquisar, Ensinar e escolha cinco habilidades de Conhecimento ou Ciência apropriadas ao cenário e relacionadas ao seu campo de estudo.
 
-**Scientist**
+#### Cientista
 
-Whether employed by a corporation, educational institution, government, or working on your own, you explore a field of science through rigorous speculation, experimentation, and observation, repeating the process and refining the base of knowledge.
+Seja empregado por uma corporação, instituição educacional, governo ou trabalhando por conta própria, você explora um campo da ciência através de especulação rigorosa, experimentação e observação, repetindo o processo e refinando a base de conhecimento.
 
-• **Wealth:** Average or Affluent, usually Affluent.
+• **Riqueza:** Médio ou Abastado, geralmente Abastado.
 
-• **Skills:** Craft (any), Persuade, Research, Status, Technical (Computer Use) or Heavy Machine, and any five Knowledge or Science appropriate to setting and related to your field of study.
+• **Habilidades:** Artesanato (qualquer), Persuadir, Pesquisar, Status, Técnica (Uso de Computador) ou Máquina Pesada e quaisquer cinco Conhecimento ou Ciência apropriadas ao cenário e relacionadas ao seu campo de estudo.
 
-**Servant**
+#### Servo
 
-You are employed as a helper or servant, tending to the household affairs and domestic needs of an affluent employer. You might be a gentleman’s manservant, the adjutant of a general, or you could be a scullery maid in a sprawling castle.
+Você é empregado como ajudante ou servo, cuidando dos assuntos domésticos e necessidades domésticas de um empregador abastado. Você pode ser o criado pessoal de um cavalheiro, o ajudante de um general ou pode ser uma criada de cozinha em um castelo expansivo.
 
-• **Wealth:** Poor to Average, though sometimes servants have limited access to their employer’s lifestyle of Affluent or Wealthy, at your gamemaster’s approval.
+• **Riqueza:** Pobre a Médio, embora às vezes os servos tenham acesso limitado ao estilo de vida de seus empregadores de Abastado ou Rico, com aprovação do seu mestre do jogo.
 
-• **Skills:** Craft (any), Etiquette, Hide, Language (Own), Listen, Stealth, and choose four of the following as personal specialties, as appropriate to the setting and concept: Bargain, Drive, First Aid, Insight, Knowledge (Accounting), Language (Other), Persuade.
+• **Habilidades:** Artesanato (qualquer), Etiqueta, Esconder, Idioma (Próprio), Ouvir, Furtividade e escolha quatro das seguintes como especialidades pessoais, conforme apropriado ao cenário e conceito: Barganha, Dirigir, Primeiros Socorros, Intuição, Conhecimento (Contabilidade), Idioma (Outro), Persuadir.
 
-**Shaman**
+#### Xamã
 
-You are a tribal magician, skilled in contacting the spirit world and lending advice and aid to your chieftain and the members of your tribe. You have secret knowledge, passed down from mentor to student, and you may have the ability to use magic. Most shamans are members of a more primitive culture, though there are some modern practitioners.
+Você é um mágico tribal, habilidoso em contactar o mundo espiritual e dar conselhos e ajuda ao seu chefe e aos membros da sua tribo. Você tem conhecimento secreto, passado de mentor para aluno, e pode ter a capacidade de usar magia. A maioria dos xamãs são membros de uma cultura mais primitiva, embora haja alguns praticantes modernos.
 
-• **Wealth:** Poor or Average, at a tribal-level existence.
+• **Riqueza:** Pobre ou Médio, em uma existência de nível tribal.
 
-• **Skills:** Art (any), Insight, Knowledge (History), Knowledge (Occult), Language (Own), Listen, Perform (Rituals), Persuade, and two of the following as specialties, as appropriate to setting and concept: Craft (any), Fast Talk, First Aid, Hide, Knowledge (Anthropology), Language (Other), Medicine, Science (Pharmacy), Status.
+• **Habilidades:** Arte (qualquer), Intuição, Conhecimento (História), Conhecimento (Ocultismo), Idioma (Próprio), Ouvir, Apresentar (Rituais), Persuadir e duas das seguintes como especialidades, conforme apropriado ao cenário e conceito: Artesanato (qualquer), Lábia, Primeiros Socorros, Esconder, Conhecimento (Antropologia), Idioma (Outro), Medicina, Ciência (Farmácia), Status.
 
-• **Special:** Depending on the setting, you may be able to use magic. See *Chapter 4: Powers* for more information.
+• **Especial:** Dependendo do cenário, você pode ser capaz de usar magia. Veja o *Capítulo 4: Poderes* para mais informações.
 
-**Slave**
+#### Escravo
 
-Captured and enslaved or born into captivity, you are a slave or indentured servant to an individual master, or to an organization or religion. You might be treated well: the head of a household’s staff, or perhaps you are beaten and regularly punished and live in fear. To be classified as a slave, it is assumed that most of your life has been spent as a slave. If you were captured and enslaved recently, use your previous profession instead.
+Capturado e escravizado ou nascido em cativeiro, você é um escravo ou servo contratado para um mestre individual, ou para uma organização ou religião. Você pode ser tratado bem: o chefe da equipe de uma casa, ou talvez seja espancado e regularmente punido e viva com medo. Para ser classificado como escravo, assume-se que a maior parte de sua vida foi gasta como escravo. Se você foi capturado e escravizado recentemente, use sua profissão anterior.
 
-• **Wealth:** Destitute to Poor, though sometimes slaves have limited access to their owner’s lifestyle of Affluent or Wealthy, at your gamemaster’s approval.
+• **Riqueza:** Indigente a Pobre, embora às vezes os escravos tenham acesso limitado ao estilo de vida de seu proprietário de Abastado ou Rico, com aprovação do seu mestre do jogo.
 
-• **Skills:** Craft (any), Dodge, Etiquette, Fast Talk, Hide, Insight, Language (Other), Listen, Stealth, and one other skill as an occupational specialty.
+• **Habilidades:** Artesanato (qualquer), Esquiva, Etiqueta, Lábia, Esconder, Intuição, Idioma (Outro), Ouvir, Furtividade e uma outra habilidade como especialidade ocupacional.
 
-• **Note:** This profession should be picked with sensitivity to the other players and gamemaster, and it is recommended that any character with this profession be escaped or emancipated when play begins.
+• **Nota:** Esta profissão deve ser escolhida com sensibilidade aos outros jogadores e mestre do jogo, e é recomendado que qualquer personagem com esta profissão seja fugitivo ou emancipado quando o jogo começar.
 
-**Soldier**
+#### Soldado
 
-Whether through enlistment or conscription, you are a professional soldier, charged with the defense of your country or organization. You might be a mercenary or sellsword, or you might actually believe in the cause you fight for. Either way, you’ve received martial training, and work in a squad of other soldiers, doing what you’re ordered to.
+Seja através de alistamento ou recrutamento, você é um soldado profissional, encarregado da defesa de seu país ou organização. Você pode ser um mercenário ou espadachim de aluguel, ou pode realmente acreditar na causa pela qual luta. De qualquer forma, você recebeu treinamento marcial e trabalha em um esquadrão de outros soldados, fazendo o que lhe ordenam.
 
-• **Wealth:** Poor or Average, but frequently given access to expensive or otherwise-prohibited equipment.
+• **Riqueza:** Pobre ou Médio, mas frequentemente recebe acesso a equipamento caro ou de outra forma proibido.
 
-• **Skills:** Brawl, Climb, Dodge, First Aid, and six of the following, as appropriate to setting: Artillery, Command, Drive, Firearm (usually Rifle, but any), Grapple, Heavy Weapon (any), Hide, Language (Other), Listen, Jump, Medicine, Melee Weapon (any), Missile Weapon (any), Navigate, Repair (Mechanical), Ride, Spot, Stealth, Throw
+• **Habilidades:** Briga, Escalar, Esquiva, Primeiros Socorros e seis das seguintes, conforme apropriado ao cenário: Artilharia, Comando, Dirigir, Arma de Fogo (geralmente Rifle, mas qualquer), Agarrar, Arma Pesada (qualquer), Esconder, Idioma (Outro), Ouvir, Saltar, Medicina, Arma Corpo a Corpo (qualquer), Arma de Projétil (qualquer), Navegar, Reparo (Mecânico), Cavalgar, Observar, Furtividade, Arremessar.
 
-**Spy**
+#### Espião
 
-You are skilled in subterfuge and infiltration, entering countries or organizations under cover or in secret, finding out their secrets, and reporting them back to an enemy or interested party.
+Você é habilidoso em subterfúgio e infiltração, entrando em países ou organizações disfarçado ou em segredo, descobrindo seus segredos e relatando-os de volta a um inimigo ou parte interessada.
 
-• **Wealth:** Average or Affluent, depending on the setting.
+• **Riqueza:** Médio ou Abastado, dependendo do cenário.
 
-• **Skills:** Dodge, Fast Talk, Hide, Listen, Research, Spot, Stealth, and three of the following, as appropriate to setting: Art (Photography), Brawl, Disguise, Etiquette, Firearm (any), Grapple, Knowledge (any), Language (Other), Language (Own), Martial Arts, Navigate, Pilot (any), Psychology, Repair (Electronics), Repair (Mechanical), Ride, Swim, Technical (Computer Use), Throw, Track.
+• **Habilidades:** Esquiva, Lábia, Esconder, Ouvir, Pesquisar, Observar, Furtividade e três das seguintes, conforme apropriado ao cenário: Arte (Fotografia), Briga, Disfarce, Etiqueta, Arma de Fogo (qualquer), Agarrar, Conhecimento (qualquer), Idioma (Outro), Idioma (Próprio), Artes Marciais, Navegar, Pilotar (qualquer), Psicologia, Reparo (Eletrônico), Reparo (Mecânico), Cavalgar, Nadar, Técnica (Uso de Computador), Arremessar, Rastrear.
 
-**Student**
+#### Estudante
 
-You spend your time studying, either as a general student or an apprentice to some master. Your curriculum may be at a prestigious university, a martial arts academy, a wizard’s school, or at some private and exclusive institution.
+Você passa seu tempo estudando, seja como estudante geral ou aprendiz de algum mestre. Seu currículo pode ser em uma universidade prestigiosa, uma academia de artes marciais, uma escola de magos ou em alguma instituição privada e exclusiva.
 
-• **Wealth:** Poor to Wealthy, usually Average.
+• **Riqueza:** Pobre a Rico, geralmente Médio.
 
-• **Skills:** Language (Own), Research, and choose eight other skills as courses of study, as appropriate to the setting and concept. Common choices are from the following list: Art (any), Craft (any), First Aid, Insight, Knowledge (any), Language (Other), Listen, Medicine, Repair (any), Perform, Persuade, Psychotherapy, Science (any), Technical (Computer Use), and one Physical skill (if involved in athletics).
+• **Habilidades:** Idioma (Próprio), Pesquisar e escolha oito outras habilidades como cursos de estudo, conforme apropriado ao cenário e conceito. Escolhas comuns são da seguinte lista: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Intuição, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Apresentar, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador) e uma habilidade Física (se envolvido em atletismo).
 
-• **Special:** Students of the arcane arts may have access to magic or sorcery, or you may be at a school to help you control your superpowers, mutations, or psychic abilities. See *Chapter 4: Powers* for more information.
+• **Especial:** Estudantes das artes arcanas podem ter acesso a magia ou feitiçaria, ou você pode estar em uma escola para ajudá-lo a controlar seus superpoderes, mutações ou habilidades psíquicas. Veja o *Capítulo 4: Poderes* para mais informações.
 
-**Teacher**
+#### Professor
 
-You are an instructor of one or more subjects, teaching groups or tutoring a single student. Whether employed by a university, a high school, or other educational institution, you instruct students in an academic setting towards some standard of achievement.
+Você é um instrutor de um ou mais assuntos, ensinando grupos ou tutorado um único aluno. Seja empregado por uma universidade, uma escola secundária ou outra instituição educacional, você instrui alunos em um ambiente acadêmico em direção a algum padrão de realização.
 
-• **Wealth:** Average or Affluent, usually Average.
+• **Riqueza:** Médio ou Abastado, geralmente Médio.
 
-• **Skills:** Language (Own), Persuade, Research, Status, Teach, and choose five other skills as areas of expertise, as appropriate to the setting and concept. Common choices are from the following list: Art (any), Craft (any), First Aid, Insight, Knowledge (any), Language (Other), Listen, Medicine, Repair (any), Perform, Persuade, Psychotherapy, Science (any), Technical (Computer Use).
+• **Habilidades:** Idioma (Próprio), Persuadir, Pesquisar, Status, Ensinar e escolha cinco outras habilidades como áreas de expertise, conforme apropriado ao cenário e conceito. Escolhas comuns são da seguinte lista: Arte (qualquer), Artesanato (qualquer), Primeiros Socorros, Intuição, Conhecimento (qualquer), Idioma (Outro), Ouvir, Medicina, Reparo (qualquer), Apresentar, Persuadir, Psicoterapia, Ciência (qualquer), Técnica (Uso de Computador).
 
-**Technician**
+#### Técnico
 
-Specialized in maintaining, repairing, and utilizing complex machinery, computers, or other electronics, you are highly capable at dealing with engineered systems. You do not design these machines, though you possibly know them better than their creators did.
+Especializado em manter, reparar e utilizar máquinas complexas, computadores ou outros eletrônicos, você é altamente capaz de lidar com sistemas engenheirados. Você não projeta essas máquinas, embora possivelmente as conheça melhor do que seus criadores.
 
-• **Wealth:** Average or Affluent.
+• **Riqueza:** Médio ou Abastado.
 
-• **Skills:** Fine Manipulation, Heavy Machine, Listen, Repair (any), Science (Physics), Research, Spot, Technical (Computer Use), and two other skills from the following list as a specialty, as appropriate to setting and concept: Craft (any), Drive, Pilot (any).
+• **Habilidades:** Manipulação Fina, Máquina Pesada, Ouvir, Reparo (qualquer), Ciência (Física), Pesquisar, Observar, Técnica (Uso de Computador) e duas outras habilidades da seguinte lista como especialidade, conforme apropriado ao cenário e conceito: Artesanato (qualquer), Dirigir, Pilotar (qualquer).
 
-**Thief**
+#### Ladrão
 
-You take what you want, either to survive or because it appeals to you. You could be a lowly pickpocket, an infamous brigand, or a glamorous international jewel thief. You flaunt the law to steal, either armed, through clever deception, stealth, or some combination of all three.
+Você pega o que quer, seja para sobreviver ou porque lhe agrada. Você pode ser um batedor de carteiras humilde, um bandido infame ou um ladrão de joias internacional glamoroso. Você desafia a lei para roubar, seja armado, através de engano inteligente, furtividade ou alguma combinação de todos os três.
 
-• **Wealth:** Any, subject to gamemaster’s approval.
+• **Riqueza:** Qualquer uma, sujeita à aprovação do mestre do jogo.
 
-• **Skills:** Appraise, Dodge, Fast Talk, Hide, Stealth, and five other skills from the following list, as appropriate to setting and concept: Bargain, Brawl, Climb, Disguise, Fine Manipulation, Firearm (Pistol, Revolver, or Shotgun), Grapple, Insight, Listen, Jump, Knowledge (Law), Persuade, Repair (Mechanical), Spot.
+• **Habilidades:** Avaliar, Esquiva, Lábia, Esconder, Furtividade e cinco outras habilidades da seguinte lista, conforme apropriado ao cenário e conceito: Barganha, Briga, Escalar, Disfarce, Manipulação Fina, Arma de Fogo (Pistola, Revólver ou Espingarda), Agarrar, Intuição, Ouvir, Saltar, Conhecimento (Lei), Persuadir, Reparo (Mecânico), Observar.
 
-**Tribesperson**
+#### Membro Tribal
 
-Hailing from a primitive culture, you are an accepted member of a tribe, and are unfamiliar with most of the elements of civilization. You survive through hunting or foraging, and your world is a small one: your village and the surrounding environment.
+Vindo de uma cultura primitiva, você é um membro aceito de uma tribo e não está familiarizado com a maioria dos elementos da civilização. Você sobrevive através da caça ou forrageamento, e seu mundo é pequeno: sua aldeia e o ambiente ao redor.
 
-• **Wealth:** Destitute to Poor, at a tribal-level existence. Or you may be a noble of the tribe, with a higher wealth level, depending on your Status.
+• **Riqueza:** Indigente a Pobre, em uma existência de nível tribal. Ou você pode ser um nobre da tribo, com um nível de riqueza mais alto, dependendo do seu Status.
 
-• **Skills:** Craft (any), Dodge, Grapple, Hide, Knowledge (Natural History), Spot, Throw, Track, and two of the following skills, as appropriate to setting: Brawl, Climb, First Aid, Listen, Jump, Knowledge (Occult), Melee Weapon (usually Spear or Club), Missile Weapon (Bow), Language (Other), Ride, Stealth, Swim.
+• **Habilidades:** Artesanato (qualquer), Esquiva, Agarrar, Esconder, Conhecimento (História Natural), Observar, Arremessar, Rastrear e duas das seguintes habilidades, conforme apropriado ao cenário: Briga, Escalar, Primeiros Socorros, Ouvir, Saltar, Conhecimento (Ocultismo), Arma Corpo a Corpo (geralmente Lança ou Clava), Arma de Projétil (Arco), Idioma (Outro), Cavalgar, Furtividade, Nadar.
 
-**Warrior**
+#### Guerreiro
 
-You specialize in individual combat, surviving by your reflexes and your weapon skills. Perhaps you adhere to a code of honor like chivalry or bushido, or you are a mercenary or barbaric adventurer. Soldiers fight in groups or squads, while warriors look only to their own prowess.
+Você se especializa em combate individual, sobrevivendo por seus reflexos e habilidades com armas. Talvez você siga um código de honra como cavalaria ou bushido, ou seja um mercenário ou aventureiro bárbaro. Soldados lutam em grupos ou esquadrões, enquanto guerreiros olham apenas para sua própria proeza.
 
-• **Wealth:** Destitute to Average, usually Poor.
+• **Riqueza:** Indigente a Médio, geralmente Pobre.
 
-• **Skills:** Brawl, Dodge, Grapple, Melee Weapon (any), Missile Weapon (any), and five other skills from the following list as specialties, as appropriate to setting and concept: Climb, Firearm (any), Hide, Listen, Jump, Language (Other), Martial Arts, Ride, Spot, Stealth, Swim, Throw, Track.
+• **Habilidades:** Briga, Esquiva, Agarrar, Arma Corpo a Corpo (qualquer), Arma de Projétil (qualquer) e cinco outras habilidades da seguinte lista como especialidades, conforme apropriado ao cenário e conceito: Escalar, Arma de Fogo (qualquer), Esconder, Ouvir, Saltar, Idioma (Outro), Artes Marciais, Cavalgar, Observar, Furtividade, Nadar, Arremessar, Rastrear.
 
-**Wizard**
+#### Mago
 
-You understand and can use magic or sorcery. Through chant and gesture, you can produce magical effects, and you dedicate yourself to improving and increasing your repertoire of spells and your personal access to power points.
+Você compreende e pode usar magia ou feitiçaria. Através de cânticos e gestos, você pode produzir efeitos mágicos, e se dedica a melhorar e aumentar seu repertório de feitiços e seu acesso pessoal a pontos de poder.
 
-• **Wealth:** Poor to Wealthy, usually Affluent.
+• **Riqueza:** Pobre a Rico, geralmente Abastado.
 
-• **Skills:** Craft (any), Insight, Knowledge (Occult), two other Knowledge skills, Language (Other), Listen, Perform (Rituals), Persuade, Research.
+• **Habilidades:** Artesanato (qualquer), Intuição, Conhecimento (Ocultismo), duas outras habilidades de Conhecimento, Idioma (Outro), Ouvir, Apresentar (Rituais), Persuadir, Pesquisar.
 
-• **Special:** You can use magic or sorcery. Work with your gamemaster to determine your initial spells (see *Chapter 4: Powers*).
+• **Especial:** Você pode usar magia ou feitiçaria. Trabalhe com seu mestre do jogo para determinar seus feitiços iniciais (veja o *Capítulo 4: Poderes*).
 
-**Writer**
+#### Escritor
 
-You write prose, poetry, scripts, or some other form. You are most comfortable communicating in writing, and your words have the power to entertain, inform, or persuade those who read them.
+Você escreve prosa, poesia, roteiros ou alguma outra forma. Você se sente mais confortável comunicando por escrito, e suas palavras têm o poder de entreter, informar ou persuadir aqueles que as leem.
 
-• **Wealth:** Poor to Wealthy, usually Average.
+• **Riqueza:** Pobre a Rico, geralmente Médio.
 
-• **Skills:** Art (writing), Insight, Language (Own), Persuade, Research, and five other skills from the following list as specialties, as appropriate: Fast Talk, Knowledge (any), Language (Other), Listen, Status, Technical (Computer Use).
+• **Habilidades:** Arte (escrita), Intuição, Idioma (Próprio), Persuadir, Pesquisar e cinco outras habilidades da seguinte lista como especialidades, conforme apropriado: Lábia, Conhecimento (qualquer), Idioma (Outro), Ouvir, Status, Técnica (Uso de Computador).
 
-**Finishing Touches**
+### Toques Finais
 
-At this point you’re finished with character creation, assuming your game doesn’t have magic spells, mutations, psychic abilities, sorcery, or superpowers for your starting characters. If these are available, turn to Chapter Four: Powers and begin selecting those, with your gamemaster’s assistance.
+Neste ponto você terminou a criação de personagem, assumindo que seu jogo não tenha feitiços mágicos, mutações, habilidades psíquicas, feitiçaria ou superpoderes para seus personagens iniciais. Se estes estiverem disponíveis, vá para o Capítulo Quatro: Poderes e comece a selecioná-los, com a assistência do seu mestre do jogo.
 
-Background is often an important part of a character, but this is the least quantifiable in game rules. Try to come up with elements of experience or identity that drive your character, asking some simple questions such as any of the following:
+O histórico é frequentemente uma parte importante de um personagem, mas este é o menos quantificável nas regras do jogo. Tente criar elementos de experiência ou identidade que impulsionem seu personagem, fazendo algumas perguntas simples como qualquer uma das seguintes:
 
-• What tragedies and successes have they experienced?
+• Que tragédias e sucessos eles experimentaram?
 
-• Where did they grow up?
+• Onde eles cresceram?
 
-• Who was the most influential person in their life?
+• Quem foi a pessoa mais influente em suas vidas?
 
-• Who are their family? Are their parents still alive?
+• Quem é sua família? Seus pais ainda estão vivos?
 
-• Are they in love? Are or were they married? Children?
+• Eles estão apaixonados? Estão ou foram casados? Filhos?
 
-• Are they happy in life?
+• Eles são felizes na vida?
 
-• Do they have many friends? How about enemies?
+• Eles têm muitos amigos? E inimigos?
 
-• What do they want to achieve?
+• O que eles querem alcançar?
 
-You can examine your character sheet and reflect on the choices you’ve made during character creation. Perhaps some of the skills indicate a personality type, such as studious, eclectic, violent, or some other such adjective. You might try to find the character’s ‘voice’, or some other means of expression that makes them come alive at the gaming table. Not everyone wants to be a method actor, though, and don’t feel that you need to come to the table with an in-depth personality and back-story for your character. Some of that will come during the roleplaying experience, and some of it will come naturally as your character is faced with adventure and adversity.
+Você pode examinar sua ficha de personagem e refletir sobre as escolhas que você fez durante a criação de personagem. Talvez algumas das habilidades indiquem um tipo de personalidade, como estudioso, eclético, violento ou algum outro adjetivo. Você pode tentar encontrar a 'voz' do personagem, ou algum outro meio de expressão que o torne vivo na mesa de jogo. Nem todos querem ser um ator de método, no entanto, e não sinta que você precisa vir à mesa com uma personalidade e história de fundo aprofundadas para seu personagem. Parte disso virá durante a experiência de interpretação, e parte virá naturalmente à medida que seu personagem enfrentar aventura e adversidade.
 
-The hard part is over—now the fun can begin!
+A parte difícil acabou — agora a diversão pode começar!
 
-**Culture and Characters (Option)**
+### Cultura e Personagens (Opção)
 
-Many settings, particularly historical or fantasy, offer distinct and original cultures, usually with qualities common to their denizens. These qualities can be defined as races, cultures, or even all denizens of a planet. Your gamemaster may choose to develop cultural backgrounds appropriate to an original or adapted setting. Sometimes these can lead to stereotypes, and your gamemaster should consider these with care.
+Muitos cenários, particularmente históricos ou de fantasia, oferecem culturas distintas e originais, geralmente com qualidades comuns aos seus habitantes. Essas qualidades podem ser definidas como raças, culturas ou até todos os habitantes de um planeta. Seu mestre do jogo pode escolher desenvolver históricos culturais apropriados a um cenário original ou adaptado. Às vezes, isso pode levar a estereótipos, e seu mestre do jogo deve considerar isso com cuidado.
 
-Cultural backgrounds are not necessary—members of a culture are inevitably different enough to allow a diverse set of skills and characteristics, but you and your gamemaster may feel that they add a valuable element to the game setting. Each cultural background description can contain some or all the following:
+Históricos culturais não são necessários — membros de uma cultura são inevitavelmente diferentes o suficiente para permitir um conjunto diverso de habilidades e características, mas você e seu mestre do jogo podem sentir que eles adicionam um elemento valioso ao cenário do jogo. Cada descrição de histórico cultural pode conter alguns ou todos os seguintes:
 
-**Leader:** The ruler, president, authority, or other governing body of the country or region.
+**Líder:** O governante, presidente, autoridade ou outro órgão governante do país ou região.
 
-**Culture:** The dominant culture of the area. Usually human, though *Chapter 11: Creatures* contains examples of non-human races.
+**Cultura:** A cultura dominante da área. Geralmente humana, embora o *Capítulo 11: Criaturas* contenha exemplos de raças não-humanas.
 
-**Appearance:** One or more of the distinctive features may be common to the culture or group, such as coloration or facial features.
+**Aparência:** Uma ou mais das características distintivas podem ser comuns à cultura ou grupo, como coloração ou características faciais.
 
-**Demeanor:** If appropriate, personality traits may be common to the culture or group. Not everyone is like this, however, and these can be ignored if desired.
+**Comportamento:** Se apropriado, traços de personalidade podem ser comuns à cultura ou grupo. Nem todos são assim, no entanto, e estes podem ser ignorados se desejado.
 
-**Language(s):** The language or languages commonly spoken or known by natives of this region.
+**Idioma(s):** O idioma ou idiomas comumente falados ou conhecidos por nativos desta região.
 
-**Occupations:** Professions common to the folk of the region. These are not the only ones practiced here—they are merely the most common or emblematic of the society. Three is a good number of these.
+**Ocupações:** Profissões comuns ao povo da região. Estas não são as únicas praticadas aqui — elas são meramente as mais comuns ou emblemáticas da sociedade. Três é um bom número dessas.
 
-**Religions:** What god or gods are worshiped commonly in this region? If allegiances play a part in the campaign, then religion should be included.
+**Religiões:** Que deus ou deuses são comumente adorados nesta região? Se as alianças desempenham um papel na campanha, então a religião deve ser incluída.
 
-**Arms and Armor:** In historical or fantasy settings, medieval-style arms and armor is often quite different country-to-country, and armies of each land tend to train with different weapon styles. This is less distinctive as settings become more modern, though your gamemaster can use this information when equipping nonplayer characters.
+**Armas e Armaduras:** Em cenários históricos ou de fantasia, armas e armaduras de estilo medieval são frequentemente bastante diferentes de país para país, e exércitos de cada terra tendem a treinar com diferentes estilos de armas. Isso é menos distintivo à medida que os cenários se tornam mais modernos, embora seu mestre do jogo possa usar essas informações ao equipar personagens não jogadores.
 
-**Cultural Skills:** Some skills may be commonly taught and used within this culture as a part of socialization and common education. At your gamemaster’s discretion, these skills might gain a small bonus. If bonuses to skills are used, it is recommended that every culture gain equal bonuses, though to a different set of skills.
+**Habilidades Culturais:** Algumas habilidades podem ser comumente ensinadas e usadas dentro desta cultura como parte da socialização e educação comum. A critério do seu mestre do jogo, essas habilidades podem ganhar um pequeno bônus. Se bônus para habilidades forem usados, é recomendado que toda cultura ganhe bônus iguais, embora para um conjunto diferente de habilidades.
 
-**Items:** This might include a significant possession common to someone from this culture, often of religious or having social significance. It does not have to be valuable, and characters from this culture are under no compulsion to retain possession of this item.
+**Itens:** Isso pode incluir uma posse significativa comum a alguém desta cultura, frequentemente de significado religioso ou social. Não precisa ser valioso, e personagens desta cultura não estão sob nenhuma compulsão de manter a posse deste item.
 
-**Creating New Professions**
+### Criando Novas Profissões
 
-If this list of professions does not offer a profession you would like your character to be, you can create your own with your gamemaster’s approval. Your gamemaster also might want to devise new professions for a particular setting.
+Se esta lista de profissões não oferecer uma profissão que você gostaria que seu personagem fosse, você pode criar a sua própria com a aprovação do seu mestre do jogo. Seu mestre do jogo também pode querer criar novas profissões para um cenário particular.
 
-First, describe the new profession to your gamemaster. Determine if this new profession is like another provided here. If it’s nearly identical to an existing one, then you can alter a few of the required skills until the new profession matches your concept. You can also vary the wealth level according to the new profession.
+Primeiro, descreva a nova profissão para o seu mestre do jogo. Determine se esta nova profissão é como outra fornecida aqui. Se for quase idêntica a uma existente, então você pode alterar algumas das habilidades necessárias até que a nova profissão corresponda ao seu conceito. Você também pode variar o nível de riqueza de acordo com a nova profissão.
 
-***For example,*** *you decide that ‘taxi driver’ is a new profession. Your gamemaster recognizes that this is basically a land-bound version of the Pilot profession. From here, you and your gamemaster choose to modify your character’s wealth level from Poor to Average, and amend the skills list to: Bargain, Drive (Automobile), Knowledge (Accounting), Knowledge (Region: the City), Listen, Navigate, Language (Other), Repair (Mechanical), and Spot.*
+***Por exemplo,*** *você decide que 'motorista de táxi' é uma nova profissão. Seu mestre do jogo reconhece que isso é basicamente uma versão terrestre da profissão Piloto. A partir daqui, você e seu mestre do jogo escolhem modificar o nível de riqueza do seu personagem de Pobre para Médio, e alterar a lista de habilidades para: Barganha, Dirigir (Automóvel), Conhecimento (Contabilidade), Conhecimento (Região: a Cidade), Ouvir, Navegar, Idioma (Outro), Reparo (Mecânico) e Observar.*
 
-*Voila, a taxi driver profession!*
+*Voilà, uma profissão de motorista de táxi!*
 
-If you wish to create an entirely new profession:
+Se você deseja criar uma profissão totalmente nova:
 
-• Decide on a title of the profession.
+• Decida sobre um título da profissão.
 
-• Describe (verbally or in writing) the profession to your gamemaster, including what they spend their time doing, what training they might have, and maybe an indicator of their position in society.
+• Descreva (verbalmente ou por escrito) a profissão para o seu mestre do jogo, incluindo o que eles passam o tempo fazendo, que treinamento eles podem ter e talvez um indicador de sua posição na sociedade.
 
-• Decide an appropriate wealth level or range of wealth levels.
+• Decida um nível de riqueza apropriado ou faixa de níveis de riqueza.
 
-• Choose ten skills that are essential or most used by a member of this profession. This can also include a “pick one (or more) from the following” option as long as the total number of available skills is equal to ten.
+• Escolha dez habilidades que são essenciais ou mais usadas por um membro desta profissão. Isso também pode incluir uma opção "escolha um (ou mais) do seguinte" desde que o número total de habilidades disponíveis seja igual a dez.
 
-***For example,*** *you might want to play a completely new profession: a professional translator. Your gamemaster agrees that this is a unique enough profession to warrant a new write-up. First, you both decide that a translator’s wealth level is generally Average. Secondly, for the initial skills, you choose: Etiquette, Fast Talk, Insight, Knowledge (Anthropology), Knowledge (Linguistics), Language (Own), Language (Other), Listen, Persuade, Research, and Teach. The new profession is finished and ready for use.*
+***Por exemplo,*** *você pode querer jogar com uma profissão completamente nova: um tradutor profissional. Seu mestre do jogo concorda que esta é uma profissão única o suficiente para justificar uma nova descrição. Primeiro, vocês dois decidem que o nível de riqueza de um tradutor é geralmente Médio. Em segundo lugar, para as habilidades iniciais, você escolhe: Etiqueta, Lábia, Intuição, Conhecimento (Antropologia), Conhecimento (Linguística), Idioma (Próprio), Idioma (Outro), Ouvir, Persuadir, Pesquisar e Ensinar. A nova profissão está finalizada e pronta para uso.*
