@@ -1,567 +1,567 @@
-﻿## 2. Characters
+## 2. Personagens
 
-Put simply, your **character** is **you** in the game world, the persona you play in the game. The character is the focus of all roleplaying games—an abstraction of physical and mental abilities, skills, and other descriptors. You interact with your gamemaster in that world through your character. Most characters controlled by players are **player characters** (PCs).
+Resumindo, seu **personagem** é **você** no mundo do jogo, a persona que você interpreta no jogo. O personagem é o foco de todos os jogos de RPG — uma abstração de habilidades físicas e mentais, perícias e outros descritores. Você interage com seu mestre do jogo naquele mundo através de seu personagem. A maioria dos personagens controlados pelos jogadores são **personagens do jogador** (PCs).
 
-Your gamemaster describes the setting, the environment, and the encounters to the players. Your gamemaster has at their disposal a roster of other characters, called **nonplayer characters** (NPCs). Both player and nonplayer characters use the same rules, though generally nonplayer characters are less detailed than player characters, as NPCs rarely face the same variety of situations player characters do.
+Seu mestre do jogo descreve o cenário, o ambiente e os encontros para os jogadores. Seu mestre do jogo tem à sua disposição uma lista de outros personagens, chamados **personagens não jogadores** (NPCs). Tanto os personagens jogadores quanto os não jogadores usam as mesmas regras, embora geralmente os personagens não jogadores sejam menos detalhados do que os personagens jogadores, já que os NPCs raramente enfrentam a mesma variedade de situações que os personagens jogadores enfrentam.
 
-*Chapter 11: Creatures* describes how your gamemaster can create appropriate nonplayer characters and includes a roster of ready-to-use nonplayer characters (as well as monsters and other creatures) for a variety of settings and eras. This section deals with player characters and is essential reading for you and your gamemaster alike.
+O *Capítulo 11: Criaturas* descreve como seu mestre do jogo pode criar personagens não jogadores apropriados e inclui uma lista de personagens não jogadores prontos para usar (assim como monstros e outras criaturas) para uma variedade de cenários e épocas. Esta seção trata dos personagens jogadores e é uma leitura essencial para você e seu mestre do jogo.
 
-When a “character” is mentioned, the term applies to player characters and nonplayer characters.
+Quando um "personagem" é mencionado, o termo se aplica a personagens jogadores e personagens não jogadores.
 
-### Power Level
+### Nível de Poder
 
-Throughout this chapter and elsewhere in the rules are references to the game’s power level. This describes how reasonably competent the player and nonplayer characters are, and where on a scale from “realistic” to “mythical” gameplay will feel like.
+Ao longo deste capítulo e em outros lugares nas regras, há referências ao nível de poder do jogo. Isso descreve quão razoavelmente competentes os personagens jogadores e não jogadores são, e onde em uma escala de "realista" a "mítico" o jogo parecerá.
 
-There are four game power levels, described below.
+Existem quatro níveis de poder do jogo, descritos abaixo.
 
-#### Normal
+### Normal
 
-Characters have no powers or very few, unreliable powers. Sometimes characters are defined by a single power, barely more than an extraordinary talent. This is the most suitable power level for horror or modern adventure games, where technology and wits are often the decisive factor in survival.
+Personagens não têm poderes ou têm muito poucos poderes não confiáveis. Às vezes, os personagens são definidos por um único poder, mal mais do que um talento extraordinário. Este é o nível de poder mais adequado para jogos de terror ou aventura moderna, onde tecnologia e inteligência são frequentemente o fator decisivo para a sobrevivência.
 
-#### Heroic
+### Heroico
 
-Characters have a few strong powers or a wide range of mid- to low-level powers. This is suitable for games featuring inexperienced, costumed heroes or apprentice wizards in training, the mutated survivors of a radioactive apocalypse, vigilante heroes, or a high fantasy world of wizards and warriors. Some futuristic settings might be created using this power level, with citizens having many minor powers granted by genetic manipulation.
+Personagens têm alguns poderes fortes ou uma ampla gama de poderes de nível médio a baixo. Isso é adequado para jogos com heróis fantasiados inexperientes ou magos aprendizes em treinamento, os sobreviventes mutantes de um apocalipse radioativo, heróis vigilantes, ou um mundo de alta fantasia de magos e guerreiros. Alguns cenários futuristas podem ser criados usando este nível de poder, com cidadãos tendo muitos poderes menores concedidos por manipulação genética.
 
-#### Epic
+### Épico
 
-Characters are incredibly skilled or powered, such as arch-mages, or formidable supernatural beings. Sample games might be full of veteran costumed heroes or villains, or veteran supernatural heroes fighting the forces of darkness in the shadows of the modern world.
+Personagens são incrivelmente habilidosos ou poderosos, como arci-magos ou seres sobrenaturais formidáveis. Jogos de exemplo podem estar cheios de heróis ou vilões fantasiados veteranos, ou heróis sobrenaturais veteranos lutando contra as forças das trevas nas sombras do mundo moderno.
 
-#### Superhuman
+### Super-humano
 
-These characters have immense capabilities and are the mightiest of heroes. Games might feature extraordinarily powered costumed superheroes, galactic guardians, or even modern incarnations of great demigods.
+Esses personagens têm capacidades imensas e são os mais poderosos dos heróis. Os jogos podem apresentar super-heróis fantasiados extraordinariamente poderosos, guardiões galácticos ou até mesmo encarnações modernas de grandes semideuses.
 
-Your gamemaster should make it clear to you and your fellow players what power level your game is, to set expectations and to guide the rest of character creatio
+Seu mestre do jogo deve deixar claro para você e seus colegas jogadores qual é o nível de poder do seu jogo, para definir expectativas e orientar o resto da criação do personagem.
 
-### Creating a Charact
+### Criando um Personagem
 
-You first need a character. Following is a system for developing your character. This system creates reasonably competent characters. Suggestions are provided in each step for more powerful characters. You should have a blank character sheet handy, and maybe another sheet of paper for notes. At chaosium.com you can download digital versions.
+Você primeiro precisa de um personagem. A seguir está um sistema para desenvolver seu personagem. Este sistema cria personagens razoavelmente competentes. Sugestões são fornecidas em cada etapa para personagens mais poderosos. Você deve ter uma ficha de personagem em branco à mão, e talvez outra folha de papel para anotações. Em chaosium.com você pode baixar versões digitais.
 
-When you get ready to create your character, your gamemaster and the other players should have already decided what sort of game you’ll all play, whether it be a science fiction, fantasy, modern horror, historical intrigue, espionage, pulp action, techno-thriller, or any number of other genres.
+Quando você estiver pronto para criar seu personagem, seu mestre do jogo e os outros jogadores já devem ter decidido que tipo de jogo vocês todos vão jogar, seja ficção científica, fantasia, terror moderno, intriga histórica, espionagem, ação pulp, techno-thriller, ou qualquer número de outros gêneros.
 
-Your gamemaster should be prepared to guide you and the other players through the character creation process, knowing what professions are allowed and appropriate to the game or campaign, and what level of competency the characters should exhibit. These issues are most important to **Step Seven** and may influence **Step Three**.
+Seu mestre do jogo deve estar preparado para guiá-lo e aos outros jogadores através do processo de criação de personagens, sabendo quais profissões são permitidas e apropriadas para o jogo ou campanha, e qual nível de competência os personagens devem exibir. Essas questões são mais importantes para a **Etapa Sete** e podem influenciar a **Etapa Três**.
 
-#### Step One: Name and Characteristics
+### Etapa Um: Nome e Características
 
-Write your character’s name at the top of the page. This should be appropriate to the setting and game being played. If no idea suggests itself yet, wait until later. You can write your own name on the character sheet as your gamemaster may need to keep track of which character belongs to whom.
+Escreva o nome do seu personagem no topo da página. Isso deve ser apropriado ao cenário e ao jogo sendo jogado. Se nenhuma ideia surgir ainda, espere até mais tarde. Você pode escrever seu próprio nome na ficha do personagem, pois seu mestre do jogo pode precisar acompanhar qual personagem pertence a quem.
 
-•   Choose your character’s gender and write it in the correct space.
+• Escolha o sexo do seu personagem e escreva-o no espaço correto.
 
-•   Roll 3D6 for the characteristics Strength (STR), Constitution (CON), Power (POW), Dexterity (DEX), and Charisma (CHA). Enter the results in the appropriate places on your character sheet.
+• Role 3D6 para as características Força (FOR), Constituição (CON), Poder (POD), Destreza (DEST) e Carisma (CAR). Insira os resultados nos locais apropriados na sua ficha de personagem.
 
-•   Roll 2D6+6 for the Intelligence (INT) and Size (SIZ) characteristics.
-These numbers provide the bare bones of your character, determining what characteristics the character is strong or weak in.
+• Role 2D6+6 para as características Inteligência (INT) e Tamanho (TAM).
 
-•   If you wish, redistribute up to 3 points between your characteristics.
-No characteristic can begin at more than 21 points.
+Esses números fornecem a base do seu personagem, determinando em quais características o personagem é forte ou fraco.
 
-•If you aren’t satisfied with the characteristics you have, and your gamemaster approves, you can start over.
+• Se desejar, redistribua até 3 pontos entre suas características. Nenhuma característica pode começar com mais de 21 pontos.
 
-If the campaign is using one or more types of powers, your gamemaster may allow you to increase your starting characteristics (see *Chapter 4: Powers*, particularly **Diminish/Enhance Characteristic**).
+• Se você não estiver satisfeito com as características que você tem, e seu mestre do jogo aprovar, você pode começar de novo.
 
-**Choosing Characteristic Values (Option):** Traditionally, characteristics are rolled in order, with up to 3 points redistributed. Instead, you may roll 3D6 seven times and choose where results go. In this case, SIZ and INT cannot be below 8.
+Se a campanha estiver usando um ou mais tipos de poderes, seu mestre do jogo pode permitir que você aumente suas características iniciais (veja *Capítulo 4: Poderes*, particularmente **Diminuir/Aumentar Característica**).
 
-**Higher Starting Characteristics (Option):** For a higher-powered game, roll 2D6+6 for all characteristics.
+**Escolhendo Valores de Características (Opção):** Tradicionalmente, as características são roladas em ordem, com até 3 pontos redistribuídos. Em vez disso, você pode rolar 3D6 sete vezes e escolher onde os resultados vão. Nesse caso, TAM e INT não podem ser inferiores a 8.
 
-**The Education (EDU) Characteristic (Option):** Roll 2D6+6 for Education (EDU) for this characteristic, for characters from societies with formalized education. An EDU of 12 indicates a high school graduate-level education, with higher values indicating college or advanced degrees.
+**Características Iniciais Mais Altas (Opção):** Para um jogo de nível mais alto, role 2D6+6 para todas as características.
 
-**Cultural Modifiers (Option):** Cultural modifiers emphasize characteristic differences between different species (such as elves or dwarves) or for different human cultures. Initial characteristics may be adjusted or limited at this point. See **Cultural Characteristic Modifiers (Option)**.
+**A Característica Educação (EDU) (Opção):** Role 2D6+6 para Educação (EDU) para esta característica, para personagens de sociedades com educação formalizada. Uma EDU de 12 indica um nível de educação equivalente ao ensino médio, com valores mais altos indicando faculdade ou diplomas avançados.
 
-**Non-human Characters (Option):** Non-human characters may use different dice rolls and modifiers to determine initial characteristics. See *Chapter 11: Creatures*.
+**Modificadores Culturais (Opção):** Modificadores culturais enfatizam diferenças de características entre diferentes espécies (como elfos ou anões) ou para diferentes culturas humanas. As características iniciais podem ser ajustadas ou limitadas neste ponto. Veja **Modificadores Culturais de Características (Opção)**.
 
-**Point-based Character Creation (Option):** Usually, characteristics are rolled randomly. Instead, players can purchase characteristic points from a pool. See **Point-based Character Creation (Option)**.
+**Personagens Não-Humanos (Opção):** Personagens não-humanos podem usar rolagens de dados e modificadores diferentes para determinar características iniciais. Veja *Capítulo 11: Criaturas*.
 
-#### Step Two: Powers
+**Criação de Personagem Baseada em Pontos (Opção):** Normalmente, as características são roladas aleatoriamente. Em vez disso, os jogadores podem comprar pontos de características de um pool. Veja **Criação de Personagem Baseada em Pontos (Opção)**.
 
-Read this carefully! If the game you’re playing in involves magic, mutations, psychic abilities, sorcery, or superpowers you may begin with some of these powers. Ask your gamemaster about it and refer to *Chapter 4: Powers* for more information. These systems require more explanation than is provided in this chapter.
+### Etapa Dois: Poderes
 
-If there are no powers in the campaign, ignore this step and proceed.
+Leia isto com atenção! Se o jogo em que você está jogando envolve magia, mutações, habilidades psíquicas, feitiçaria ou superpoderes, você pode começar com alguns desses poderes. Pergunte ao seu mestre do jogo sobre isso e consulte o *Capítulo 4: Poderes* para mais informações. Esses sistemas requerem mais explicação do que o fornecido neste capítulo.
 
-If there are powers, the following types are available:
+Se não houver poderes na campanha, ignore esta etapa e prossiga.
 
-• **Magic:** Simple spellcasting with a wide variety of applications.
+Se houver poderes, os seguintes tipos estão disponíveis:
 
-• **Mutations:** Strange genetic anomalies, some beneficial, some adverse.
+• **Magia:** Conjuração simples de feitiços com uma ampla variedade de aplicações.
 
-• **Psychic Abilities:** Using the power of the mind to manipulate reality.
+• **Mutações:** Anomalias genéticas estranhas, algumas benéficas, algumas adversas.
 
-• **Sorcery:** A more baroque type of spellcasting, including elemental and demonic summoning.
+• **Habilidades Psíquicas:** Usando o poder da mente para manipular a realidade.
 
-• **Superpowers:** Mighty abilities that defy imagination.
+• **Feitiçaria:** Um tipo mais barroco de conjuração de feitiços, incluindo invocação elemental e demoníaca.
 
-More detail on each appears in their relevant sections.
+• **Superpoderes:** Habilidades poderosas que desafiam a imaginação.
 
-#### Step Three: Age
+Mais detalhes sobre cada um aparecem em suas seções relevantes.
 
-The default age for characters is 17+1D6 years old. Your gamemaster may choose to alter this based on the requirements of the game setting. If you wish to begin play with a character younger or older, choose an age that seems appropriate and meets your gamemaster’s approval.
+### Etapa Três: Idade
 
-• For every full 10 years added to the rolled starting age, based on the level of the campaign, modify professional skill points by +0 (Normal), +20 (Heroic), +30 (Epic), or +40 (Superhuman) (see **Step Seven**).
+A idade padrão para personagens é 17+1D6 anos. Seu mestre do jogo pode escolher alterar isso com base nos requisitos do cenário do jogo. Se você deseja começar a jogar com um personagem mais jovem ou mais velho, escolha uma idade que pareça apropriada e obtenha a aprovação do seu mestre do jogo.
 
-• Any fraction of years below 10 does not qualify for this skill bonus. Based on level of campaign, for every year below the minimum age (18) described above, subtract 0 (Normal), 20 (Heroic), 30 (Epic), or 40 skill points (Superhuman) from your character’s professional skill points.
+• Para cada 10 anos completos adicionados à idade inicial rolada, com base no nível da campanha, modifique os pontos de habilidade profissional em +0 (Normal), +20 (Heroico), +30 (Épico) ou +40 (Super-humano) (veja **Etapa Sete**).
 
-• Your gamemaster may limit available professions to characters below 18 years of age.
+• Qualquer fração de anos abaixo de 10 não se qualifica para este bônus de habilidade. Com base no nível da campanha, para cada ano abaixo da idade mínima (18) descrita acima, subtraia 0 (Normal), 20 (Heroico), 30 (Épico) ou 40 pontos de habilidade (Super-humano) dos pontos de habilidade profissional do seu personagem.
 
-• At age 50 and every full 10 years above, modify one of STR, CON, DEX, or CHA (your choice) by –1. At age 80 and every full 10 years above, modify **three** of these characteristics. See **Aging and Inaction (Option)**.
+• Seu mestre do jogo pode limitar profissões disponíveis para personagens com menos de 18 anos de idade.
 
-• For every year below the original rolled age above, modify any one characteristic other than EDU (your choice) by –1. Your gamemaster may require that you make SIZ one of these lowered characteristics. These points can be gained through play (experience), training, or gradually through natural means (gamemaster’s discretion). See **Aging and Inaction (Option)**.
+• Aos 50 anos e a cada 10 anos completos acima, modifique uma de FOR, CON, DEST ou CAR (sua escolha) em –1. Aos 80 anos e a cada 10 anos completos acima, modifique **três** dessas características. Veja **Envelhecimento e Inação (Opção)**.
 
-Your gamemaster may also choose to simply ignore these rules, based on the game’s power level. This allows for elderly adventurers, child geniuses, and is generally more enjoyable for all players.
+• Para cada ano abaixo da idade rolada originalmente acima, modifique qualquer característica que não seja EDU (sua escolha) em –1. Seu mestre do jogo pode exigir que você faça do TAM uma dessas características reduzidas. Esses pontos podem ser ganhos através do jogo (experiência), treinamento ou gradualmente por meios naturais (critério do mestre do jogo). Veja **Envelhecimento e Inação (Opção)**.
 
-**Education (EDU) (Option):** If you’re using the EDU characteristic, your character’s starting age must be at least EDU+5 (representing time spent learning). Every full 10 years added to your character’s starting age, adds +1 to your character’s EDU characteristic. Be sure to increase the relevant skill points generated in **Step Six**.
+Seu mestre do jogo também pode escolher simplesmente ignorar essas regras, com base no nível de poder do jogo. Isso permite aventureiros idosos, gênios infantis, e é geralmente mais agradável para todos os jogadores.
 
-#### Step Four: Characteristic Rolls
+**Educação (EDU) (Opção):** Se você estiver usando a característica EDU, a idade inicial do seu personagem deve ser pelo menos EDU+5 (representando o tempo gasto aprendendo). Cada 10 anos completos adicionados à idade inicial do seu personagem, adiciona +1 à característica EDU do seu personagem. Certifique-se de aumentar os pontos de habilidade relevantes gerados na **Etapa Seis**.
 
-Here’s where you determine your characteristic rolls. By now you should know what your final characteristics are, but if not, hold off on this step until you’ve finalized them. Each has a place on the character sheet.
+### Etapa Quatro: Testes de Características
 
-• Multiply STR×5 for your Effort roll.
+Aqui é onde você determina seus testes de características. A esta altura você já deve saber quais são suas características finais, mas se não, aguarde esta etapa até finalizá-las. Cada um tem um lugar na ficha do personagem.
 
-• Multiply CON×5 for your Stamina roll.
+• Multiplique FOR×5 para seu teste de Esforço.
 
-• Multiply INT×5 for your Idea roll.
+• Multiplique CON×5 para seu teste de Resistência.
 
-• Multiply POW×5 for your Luck roll.
+• Multiplique INT×5 para seu teste de Ideia.
 
-• Multiply DEX×5 for your Agility roll.
+• Multiplique POD×5 para seu teste de Sorte.
 
-• Multiply CHA×5 for your Charm roll.
+• Multiplique DEST×5 para seu teste de Agilidade.
 
-**Knowledge Roll (Option):** Multiply EDU×5 for your Knowledge roll (if EDU is being used).
+• Multiplique CAR×5 para seu teste de Charme.
 
-#### Step Five: Derived Characteristics
+**Teste de Conhecimento (Opção):** Multiplique EDU×5 para seu teste de Conhecimento (se EDU estiver sendo usado).
 
-Now it’s time for the derived characteristics: damage modifier, hit points, power points and experience bonus. If you’re using optional systems, you should also determine your initial fatigue points and sanity points. Write the results on your character sheet.
+### Etapa Cinco: Características Derivadas
 
-• Damage Modifier: Add STR+SIZ and find the **damage modifier** corresponding to your character’s total on the **Damage Modifier** table.
+Agora é hora das características derivadas: modificador de dano, pontos de vida, pontos de poder e bônus de experiência. Se você estiver usando sistemas opcionais, você também deve determinar seus pontos de fadiga iniciais e pontos de sanidade. Escreva os resultados na sua ficha de personagem.
 
-• **Hit Points:** Add CON+SIZ and divide by 2 (rounded up). Circle that number in the **Hit Points** box on your character sheet and write it below. This is your character’s maximum hit points. If your character loses hit points, mark them off, and erase the marks as hit points are healed or otherwise restored.
+• Modificador de Dano: Adicione FOR+TAM e encontre o **modificador de dano** correspondente ao total do seu personagem na tabela **Modificador de Dano**.
 
-• **Major Wound Level:** Your **major wound level** is 1/2 hit points, rounded up.
+• **Pontos de Vida:** Adicione CON+TAM e divida por 2 (arredondado para cima). Circule esse número na caixa **Pontos de Vida** na sua ficha de personagem e escreva-o abaixo. Este é o máximo de pontos de vida do seu personagem. Se seu personagem perder pontos de vida, marque-os e apague as marcas à medida que os pontos de vida são curados ou restaurados de outra forma.
 
-• **Power Points:** In the **Power Point** box, circle the number equal to POW and write the total on the line below. This is your character’s maximum power points. These fuel magic spells, mutations, psychic abilities, or superpowers. Mark power points off as they’re spent and erase the marks as they’re recovered or otherwise restored. The number written in the space, equal to your POW, is the value your power points return to with rest.
+• **Nível de Ferimento Grave:** Seu **nível de ferimento grave** é 1/2 dos pontos de vida, arredondado para cima.
 
-• **Experience Bonus:** Your character’s experience bonus is equal to 1/2 their INT, rounded up.
+• **Pontos de Poder:** Na caixa **Ponto de Poder**, circule o número igual a POD e escreva o total na linha abaixo. Este é o máximo de pontos de poder do seu personagem. Esses alimentam feitiços mágicos, mutações, habilidades psíquicas ou superpoderes. Marque os pontos de poder à medida que são gastos e apague as marcas à medida que são recuperados ou restaurados de outra forma. O número escrito no espaço, igual ao seu POD, é o valor ao qual seus pontos de poder retornam com o descanso.
 
-• **Move (MOV):** Your character’s MOV measures how fast during a combat round they can move. Human characters can normally move 10 units per round. A unit is a somewhat variable amount usually equaling 1 meter. See **Movement Rates**.
+• **Bônus de Experiência:** O bônus de experiência do seu personagem é igual a 1/2 da INT, arredondado para cima.
 
-**Skill Bonuses (Option):** If using characteristic-based skill category bonuses, calculate the bonus for each using the Skill **Category Bonus** table. Write these values in the spaces for each category. This bonus adds to the base chance for every skill, if any. For each category:
+• **Movimento (MOV):** O MOV do seu personagem mede quão rápido durante uma rodada de combate eles podem se mover. Personagens humanos normalmente podem se mover 10 unidades por rodada. Uma unidade é uma quantidade um tanto variável geralmente igual a 1 metro. Veja **Taxas de Movimento**.
 
-• Add +1% for every point in the primary characteristic over 10; subtract 1% for every point below 10.
+**Bônus de Habilidades (Opção):** Se estiver usando bônus de categoria de habilidade baseados em características, calcule o bônus para cada um usando a tabela **Bônus de Categoria de Habilidade**. Escreva esses valores nos espaços para cada categoria. Este bônus adiciona à chance base para cada habilidade, se houver. Para cada categoria:
 
-• +1% for every 2 points in the secondary characteristic above 10; –1% for every 2 points under 10 (rounding down the bonus if required).
+• Adicione +1% para cada ponto na característica primária acima de 10; subtraia 1% para cada ponto abaixo de 10.
 
-• –1% for every point in the negative characteristic above 10; +1% for every point under 10.
+• +1% para cada 2 pontos na característica secundária acima de 10; –1% para cada 2 pontos abaixo de 10 (arredondando para baixo o bônus se necessário).
 
-**Hit Points per Location (Option):** With the optional hit location system, determine the number of hit points for each hit location. The head, abdomen, and each leg have 1/3 of your hit point total, the chest has 4/10, and each arm has 1/4 of the total hit point value. Round all fractions up.
+• –1% para cada ponto na característica negativa acima de 10; +1% para cada ponto abaixo de 10.
 
-**Fatigue Points (Option):** If fatigue is being used; add your character’s STR+CON to get their fatigue point total. In play, as your character expends energy or perform rigorous physical activity, they will lose fatigue points. They recover rapidly through rest and other means and change frequently.
+**Pontos de Vida por Localização (Opção):** Com o sistema opcional de localização de acerto, determine o número de pontos de vida para cada localização de acerto. A cabeça, abdômen e cada perna têm 1/3 do total de pontos de vida, o peito tem 4/10, e cada braço tem 1/4 do valor total de pontos de vida. Arredonde todas as frações para cima.
 
-**Sanity (Option):** If Sanity is being used; multiply your character’s initial POW score by ×5 to get their current Sanity (SAN) total. In play, mark these off on your character sheet when your character loses sanity points. When your character reaches 0 SAN, they are considered unplayable.
+**Pontos de Fadiga (Opção):** Se a fadiga estiver sendo usada; adicione FOR+CON do seu personagem para obter o total de pontos de fadiga. No jogo, à medida que seu personagem gasta energia ou realiza atividades físicas rigorosas, eles perderão pontos de fadiga. Eles recuperam rapidamente através do descanso e outros meios e mudam frequentemente.
 
-#### Step Six: Personality (Optional)
+**Sanidade (Opção):** Se a Sanidade estiver sendo usada; multiplique a pontuação POD inicial do seu personagem por ×5 para obter o total de Sanidade (SAN). No jogo, marque-os na sua ficha de personagem quando seu personagem perder pontos de sanidade. Quando seu personagem atingir 0 SAN, ele é considerado injogável.
 
-Study your character’s characteristics and imagine the sort of person you would like them to be. Choose one of the options below or roll 1D4 for a random result. These packages of skills are a quick way to develop your character—there will be more skills in the next step. Skills are defined in *Chapter 3: Skills* 37–52 and classes of weapons are described in *Chapter 8: Equipment*.
+### Etapa Seis: Personalidade (Opcional)
 
-**Personality Types**
+Estude as características do seu personagem e imagine o tipo de pessoa que você gostaria que eles fossem. Escolha uma das opções abaixo ou role 1D4 para um resultado aleatório. Esses pacotes de habilidades são uma maneira rápida de desenvolver seu personagem — haverá mais habilidades na próxima etapa. As habilidades são definidas no *Capítulo 3: Habilidades* 37–52 e classes de armas são descritas no *Capítulo 8: Equipamento*.
 
-|<p>Result</p><p></p>|<p>Description</p><p></p>|
+**Tipos de Personalidade**
+
+| Resultado | Descrição |
 | :- | :- |
-|<p>1</p><p></p>|<p>**Brutal:** Your character thinks first of solving problems by means of physical force and brawn. Give 20 skill points each to Brawl, Climb, Dodge, Grapple, Insight, Jump, Ride, Sense, Stealth, Swim, Throw, and to any two Combat skills.</p><p></p>|
-|<p>2</p><p></p>|<p>**Skilled:** Your character believes that technique, craft, and expertise are the secrets of success. Give 20 skill points each to Appraise, any one Craft, Disguise, Dodge, Fine Manipulation, First Aid, any one Knowledge skill, Navigate, Pilot, Ride, Sleight of Hand, Stealth, and to any one Combat skill.</p><p></p>|
-|<p>3</p><p></p>|<p>**Cunning:** Your character first tries to outsmart an opponent to gain an advantage. Add 20 skill points each to Appraise, Bargain, Disguise, Insight, any two Knowledge skills, Listen, Research, Sense, Spot, Stealth, any one Technical skill (appropriate to setting), and any one Combat skill.</p><p></p>|
-|<p>4</p><p></p>|<p>**Charming:** Your character enjoys persuading other people to work, while they make the decisions. Give 20 points each to Appraise, Bargain, Command, Etiquette, Fast Talk, Insight, Perform, Persuade, any one Language (Other), Language (Own), Sense, Status, and any one Combat skill.</p><p></p>|
+| 1 | **Brutal:** Seu personagem pensa primeiro em resolver problemas por meio de força física e músculo. Dê 20 pontos de habilidade cada para Briga, Escalar, Esquiva, Agarrar, Intuição, Saltar, Cavalgar, Sentir, Furtividade, Nadar, Arremessar e para quaisquer duas habilidades de Combate. |
+| 2 | **Habilidoso:** Seu personagem acredita que técnica, artesanato e expertise são os segredos do sucesso. Dê 20 pontos de habilidade cada para Avaliar, qualquer Artesanato, Disfarce, Esquiva, Manipulação Fina, Primeiros Socorros, qualquer habilidade de Conhecimento, Navegar, Pilotar, Cavalgar, Prestidigitação, Furtividade e para qualquer habilidade de Combate. |
+| 3 | **Astuto:** Seu personagem primeiro tenta ser mais esperto que um oponente para ganhar vantagem. Adicione 20 pontos de habilidade cada para Avaliar, Barganhar, Disfarce, Intuição, quaisquer duas habilidades de Conhecimento, Ouvir, Pesquisar, Sentir, Observar, Furtividade, qualquer habilidade Técnica (apropriada ao cenário) e qualquer habilidade de Combate. |
+| 4 | **Charmoso:** Seu personagem gosta de persuadir outras pessoas a trabalhar, enquanto eles tomam as decisões. Dê 20 pontos cada para Avaliar, Barganhar, Comando, Etiqueta, Lábia, Intuição, Apresentar, Persuadir, qualquer Idioma (Outro), Idioma (Próprio), Sentir, Status e qualquer habilidade de Combate. |
 
-Your gamemaster may have other personality types, or you can create your own, choosing 13 skills and adding 20 points to each skill rating (with your gamemaster’s approval).
+Seu mestre do jogo pode ter outros tipos de personalidade, ou você pode criar o seu próprio, escolhendo 13 habilidades e adicionando 20 pontos a cada classificação de habilidade (com a aprovação do seu mestre do jogo).
 
-When distributing these skill points, add the bonus to the base chance for each skill, usually presented as a value in parentheses after the skill, such as Fast Talk (15%). Write that total after the skill.
+Ao distribuir esses pontos de habilidade, adicione o bônus à chance base para cada habilidade, geralmente apresentada como um valor entre parênteses após a habilidade, como Lábia (15%). Escreva esse total após a habilidade.
 
-***For example,*** *adding 20 skill points to Fast Talk (15%) yields a rating of 15+20=35%.*
+***Por exemplo,*** *adicionar 20 pontos de habilidade a Lábia (15%) resulta em uma classificação de 15+20=35%.*
 
-#### Step Seven: Profession and Skills
+### Etapa Sete: Profissão e Habilidades
 
-To determine the starting skills for your character, turn to the professions list. Choose a profession there. Professions are described fully later in this chapter. Your gamemaster may restrict available professions, so ask before making this choice. Some professions provide special advantages, such as the use of magic. Note these on the character sheet.
+Para determinar as habilidades iniciais do seu personagem, consulte a lista de profissões. Escolha uma profissão lá. As profissões são descritas completamente mais adiante neste capítulo. Seu mestre do jogo pode restringir profissões disponíveis, então pergunte antes de fazer essa escolha. Algumas profissões fornecem vantagens especiais, como o uso de magia. Anote-as na ficha do personagem.
 
-Once a profession has been chosen, determine the character’s professional skill point pool. This represents what your character has learned in that profession, whether through training or on-the-job experience. As always, skill points are added to any bonuses granted from previous steps and to the skill’s base chance.
+Uma vez que uma profissão foi escolhida, determine o pool de pontos de habilidade profissional do personagem. Isso representa o que seu personagem aprendeu nessa profissão, seja através de treinamento ou experiência prática. Como sempre, pontos de habilidade são adicionados a quaisquer bônus concedidos de etapas anteriores e à chance base da habilidade.
 
-The campaign’s power level determines the initial skill point pool. Your gamemaster should have decided by now what kind of game they will run, and how powerful and competent player characters should be.
+O nível de poder da campanha determina o pool inicial de pontos de habilidade. Seu mestre do jogo já deve ter decidido que tipo de jogo ele vai executar e quão poderosos e competentes os personagens jogadores devem ser.
 
-• **Normal:** Allot 250 points to professional skills. No skill should begin higher than 75%. If you are using the optional skill category bonus, the limit is still 75%, and you must spend any points above this on other skills. If a combination of bonuses increases the skill to more than 75% before this step, do not add any additional skill points.
+• **Normal:** Aloque 250 pontos para habilidades profissionais. Nenhuma habilidade deve começar acima de 75%. Se você estiver usando o bônus opcional de categoria de habilidade, o limite ainda é 75%, e você deve gastar quaisquer pontos acima disso em outras habilidades. Se uma combinação de bônus aumentar a habilidade para mais de 75% antes desta etapa, não adicione pontos de habilidade adicionais.
 
-• **Heroic:** Allot 325 points to professional skills. No skill should begin higher than 90%, with the same restrictions as above.
+• **Heroico:** Aloque 325 pontos para habilidades profissionais. Nenhuma habilidade deve começar acima de 90%, com as mesmas restrições acima.
 
-• **Epic:** Allot 400 points to professional skills. No skill should begin higher than 101%, with the same restrictions as above.
+• **Épico:** Aloque 400 pontos para habilidades profissionais. Nenhuma habilidade deve começar acima de 101%, com as mesmas restrições acima.
 
-• **Superhuman:** Allot 500 points among professional skills, with no limit to skill ratings. See **Skill Ratings Over 100% (Option)**.
+• **Super-humano:** Aloque 500 pontos entre as habilidades profissionais, sem limite para classificações de habilidades. Veja **Classificações de Habilidades Acima de 100% (Opção)**.
 
-For an original profession, allot the power level’s number of skill points, as above. Your gamemaster may have some restrictions on how these skill points can be spent.
+Para uma profissão original, aloque o número de pontos de habilidade do nível de poder, como acima. Seu mestre do jogo pode ter algumas restrições sobre como esses pontos de habilidade podem ser gastos.
 
-Once all professional skill points have been allocated, multiply your character’s INT×10 to determine their personal skill point pool. Spend these skill points on any skills you like, with your gamemaster’s approval. Add points spent on a skill to its base chance, profession bonuses (if any), professional skill point allocations, and skill category bonuses (if any).
+Uma vez que todos os pontos de habilidade profissional foram alocados, multiplique INT×10 do seu personagem para determinar seu pool de pontos de habilidade pessoal. Gaste esses pontos de habilidade em quaisquer habilidades que desejar, com a aprovação do seu mestre do jogo. Adicione pontos gastos em uma habilidade à sua chance base, bônus de profissão (se houver), alocações de pontos de habilidade profissional e bônus de categoria de habilidade (se houver).
 
-The total must not exceed the skill limit for game type set above. Your gamemaster may impose a cap of 50% on personal skills that range too far outside a character’s profession. This skill cap is higher based on the level of the campaign: 75% for heroic, 90% for epic, and 100% for superhuman. Skills that naturally exceed these numbers through prior bonuses can have no additional points spent on them.
+O total não deve exceder o limite de habilidade para o tipo de jogo definido acima. Seu mestre do jogo pode impor um limite de 50% em habilidades pessoais que variam muito fora da profissão de um personagem. Este limite de habilidade é maior com base no nível da campanha: 75% para heroico, 90% para épico e 100% para super-humano. Habilidades que naturalmente excedem esses números através de bônus anteriores não podem ter pontos adicionais gastos nelas.
 
-Calculate the final rankings for all character skills from base chance, personality type, professional skill pool, personal skill pool, and the optional skill category bonuses (if used). You might want to shift some points around at this time but keep the professional skill points and personal skill points separate.
+Calcule as classificações finais para todas as habilidades do personagem a partir da chance base, tipo de personalidade, pool de habilidades profissionais, pool de habilidades pessoais e os bônus opcionais de categoria de habilidade (se usados). Você pode querer mudar alguns pontos neste momento, mas mantenha os pontos de habilidade profissional e os pontos de habilidade pessoal separados.
 
-**Education (Option):** If Education (EDU) is being used, instead of a base 250/325/400/500 skill point pool, make the initial skill points be based on EDU×20 for normal characters, EDU×25 for heroic characters, EDU×30 for epic characters, and EDU×40 for superhuman characters.
+**Educação (Opção):** Se Educação (EDU) estiver sendo usada, em vez de um pool base de 250/325/400/500 pontos de habilidade, faça os pontos de habilidade iniciais serem baseados em EDU×20 para personagens normais, EDU×25 para personagens heroicos, EDU×30 para personagens épicos e EDU×40 para personagens super-humanos.
 
-**Cultural Skills (Option):** For a game with significant differences between human cultures, your gamemaster may have this influence starting skills or beginning skills allowed. See **Culture and Characters**.
+**Habilidades Culturais (Opção):** Para um jogo com diferenças significativas entre culturas humanas, seu mestre do jogo pode fazer com que isso influencie as habilidades iniciais ou as habilidades iniciais permitidas. Veja **Cultura e Personagens**.
 
-**Increased Personal Skill Points (Option)**: The INT×10 personal skill point total may be increased to INT×15 for heroic characters, INT×20 for epic characters, or INT×25 for superhuman characters, as appropriate. This option is recommended for games where characters are tremendously competent and skilled beyond what their current profession would indicate.
+**Pontos de Habilidade Pessoal Aumentados (Opção)**: O total INT×10 de pontos de habilidade pessoal pode ser aumentado para INT×15 para personagens heroicos, INT×20 para personagens épicos ou INT×25 para personagens super-humanos, conforme apropriado. Esta opção é recomendada para jogos onde os personagens são tremendamente competentes e habilidosos além do que sua profissão atual indicaria.
 
-#### Step Eight: Possessions
+### Etapa Oito: Posses
 
-Most characters have some sort of possessions, whether gear or weapons. The front of the character sheet has a section for weapons, and the back a space for possessions. Your profession describes your character’s beginning wealth level and the Status skill can provide guidelines for what sort of additional equipment that your character might be able to lay hands upon. It’s not necessary to list every item your character owns, but merely those that might be important in play.
+A maioria dos personagens tem algum tipo de posses, sejam equipamentos ou armas. A frente da ficha do personagem tem uma seção para armas, e o verso um espaço para posses. Sua profissão descreve o nível de riqueza inicial do seu personagem e a habilidade Status pode fornecer diretrizes para que tipo de equipamento adicional seu personagem poderia conseguir. Não é necessário listar todos os itens que seu personagem possui, mas apenas aqueles que podem ser importantes no jogo.
 
-In most cases, your character has the following:
+Na maioria dos casos, seu personagem tem o seguinte:
 
-• A complete set (or sets) of clothing appropriate to their environment and setting.
+• Um conjunto completo (ou conjuntos) de roupas apropriadas ao seu ambiente e cenário.
 
-• An amount of pocket money and personal savings based on their wealth level.
+• Uma quantia de dinheiro de bolso e poupança pessoal com base em seu nível de riqueza.
 
-• A personal item showing some relation to their family or background. This can be an heirloom, keepsake, or some trinket with a strong emotional connection.
+• Um item pessoal mostrando alguma relação com sua família ou origem. Isso pode ser uma herança de família, lembrança ou algum amuleto com uma forte conexão emocional.
 
-• Any trade tools or equipment suitable to their profession, if appropriate.
+• Quaisquer ferramentas de trabalho ou equipamento adequado à sua profissão, se apropriado.
 
-• Any weapon they have a skill of 50%+ in, if appropriate.
+• Qualquer arma em que eles tenham uma habilidade de 50%+, se apropriado.
 
-• Based on the setting, profession, wealth level, and Status, they may have a vehicle such as a horse, wagon, bicycle, automobile, personal flier, small space transport, or some other means of transportation. This is subject to your gamemaster’s approval.
+• Com base no cenário, profissão, nível de riqueza e Status, eles podem ter um veículo como um cavalo, carroça, bicicleta, automóvel, veículo pessoal voador, pequeno transporte espacial ou algum outro meio de transporte. Isso está sujeito à aprovação do seu mestre do jogo.
 
-• No detailed rules for finances are provided: the suggested wealth for professions and the Status skill are the best guidelines for determining what items and funds they begin play owning or having access to. Your gamemaster should be able to help you describe this in an appropriate level of detail and may have additional restrictions or suggestions.
+• Nenhuma regra detalhada para finanças é fornecida: a riqueza sugerida para profissões e a habilidade Status são as melhores diretrizes para determinar quais itens e fundos eles começam o jogo possuindo ou tendo acesso. Seu mestre do jogo deve ser capaz de ajudá-lo a descrever isso em um nível apropriado de detalhe e pode ter restrições ou sugestões adicionais.
 
-#### Step Nine: Size and Distinctive Features
+### Etapa Nove: Tamanho e Características Distintivas
 
-This step is primarily cosmetic and is not entirely necessary.
+Esta etapa é principalmente cosmética e não é inteiramente necessária.
 
-You may now choose to determine your character’s height and weight, based on SIZ. Generally, the SIZ range of 10–13 represents the human range of average weight and height. A person of SIZ 8 (normal minimum) is relatively small, and someone of SIZ 18 is exceedingly large. You can define this as you wish, either through exact numbers for height and weight, or with descriptions such as “Tall” or “Slender”.
+Agora você pode escolher determinar a altura e o peso do seu personagem, com base em TAM. Geralmente, a faixa de TAM de 10–13 representa a faixa humana de peso e altura média. Uma pessoa de TAM 8 (mínimo normal) é relativamente pequena, e alguém de TAM 18 é extremamente grande. Você pode definir isso como desejar, seja através de números exatos para altura e peso, ou com descrições como "Alto" ou "Esbelto".
 
-If using the **Distinctive Features** option. Note these features under your character’s name on the character sheet.
+Se estiver usando a opção **Características Distintivas**. Anote essas características sob o nome do seu personagem na ficha do personagem.
 
-#### Step Ten: Finishing Touches
+### Etapa Dez: Toques Finais
 
-This is the final step for various aspects of your character. If you couldn’t think of a name beforehand in Step One, now is the time. Beyond that, you can come up with the rest of this section before play begins or as you get a feel for your character.
+Esta é a etapa final para vários aspectos do seu personagem. Se você não conseguiu pensar em um nome anteriormente na Etapa Um, agora é a hora. Além disso, você pode criar o resto desta seção antes do jogo começar ou à medida que sente o seu personagem.
 
-As desired, you should fill in all the blank spaces that describe the character, mentally and physically, and come up with some ideas about their background. In Step Nine you determined your character’s distinctive features, so you should decide whether your character has other, less distinctive, features. What colors are their hair, skin, and eyes? How do they dress? Do they have any interesting mannerisms, or a motto or saying they use often? Do they have an interesting reputation?
+Conforme desejado, você deve preencher todos os espaços em branco que descrevem o personagem, mental e fisicamente, e criar algumas ideias sobre seu histórico. Na Etapa Nove você determinou as características distintivas do seu personagem, então você deve decidir se seu personagem tem outras características menos distintivas. Quais são as cores do cabelo, pele e olhos? Como eles se vestem? Eles têm maneirismos interessantes, ou um lema ou ditado que usam frequentemente? Eles têm uma reputação interessante?
 
-If it is relevant, determine where your character is from. Where did they go to school (if at all)? What is their relationship with their family? Is the character a member of any significant organizations? Do they have an interesting past? Do they have any significant religious or political beliefs? If appropriate, you should work with your gamemaster to determine these issues before play begins, or at least do some thinking about them ahead of time. In play you can also flesh out other details of your character’s background as necessary or leave these aspects undetermined if they are not relevant.
+Se for relevante, determine de onde seu personagem é. Onde eles foram para a escola (se é que foram)? Qual é o relacionamento deles com a família? O personagem é membro de alguma organização significativa? Eles têm um passado interessante? Eles têm crenças religiosas ou políticas significativas? Se apropriado, você deve trabalhar com seu mestre do jogo para determinar essas questões antes do jogo começar, ou pelo menos pensar sobre elas com antecedência. No jogo você também pode detalhar outros detalhes do histórico do seu personagem conforme necessário ou deixar esses aspectos indeterminados se não forem relevantes.
 
-The back of the character sheet has space for additional descriptive or background elements. Fill out as many or as few of these as you’d like, and check with your gamemaster to make sure that they know about them and that they’re suitable for the game.
+O verso da ficha do personagem tem espaço para elementos descritivos ou de histórico adicionais. Preencha quantos ou tão poucos desses quanto desejar, e verifique com seu mestre do jogo para garantir que eles saibam sobre eles e que sejam adequados para o jogo.
 
-#### Point-Based Character Creation (option)
+### Criação de Personagem Baseada em Pontos (opção)
 
-Standard character creation uses dice rolls to determine starting characteristics, but you and your gamemaster may choose to use a point-based system, offering more control over your character’s creation. If so, the following adjustments are made to **Step One**.
+A criação de personagem padrão usa rolagens de dados para determinar características iniciais, mas você e seu mestre do jogo podem escolher usar um sistema baseado em pontos, oferecendo mais controle sobre a criação do seu personagem. Se sim, os seguintes ajustes são feitos na **Etapa Um**.
 
-• All characteristics (STR, CON, SIZ, INT, POW, DEX, and CHA) begin at 10.
+• Todas as características (FOR, CON, TAM, INT, POD, DEST e CAR) começam em 10.
 
-• You have 24 points to spend on characteristics. This is the equivalent of the ‘normal’ power level for a campaign. No initial characteristic can be raised to higher than 21.
+• Você tem 24 pontos para gastar em características. Isso é o equivalente ao nível de poder 'normal' para uma campanha. Nenhuma característica inicial pode ser elevada a mais de 21.
 
-• Each point of STR, CON, SIZ, or CHA costs 1 point.
+• Cada ponto de FOR, CON, TAM ou CAR custa 1 ponto.
 
-• Each point of DEX, INT, and POW costs 3.
+• Cada ponto de DEST, INT e POD custa 3.
 
-• You can choose to lower your starting characteristics below the starting value of 10, to a minimum of 3.
+• Você pode escolher reduzir suas características iniciais abaixo do valor inicial de 10, para um mínimo de 3.
 
-• For each point of STR, CON, SIZ, or CHA you reduce below 10, you get 1 point to spend on other characteristics.
+• Para cada ponto de FOR, CON, TAM ou CAR que você reduzir abaixo de 10, você recebe 1 ponto para gastar em outras características.
 
-• For every point of DEX, INT, and POW you reduce, you get 3 points back.
+• Para cada ponto de DEST, INT e POD que você reduzir, você recebe 3 pontos de volta.
 
-• Only with a gamemaster’s permission can you raise or lower a starting characteristic beyond the range of 3–21. For higher power levels (epic and superhuman), the characteristic maximum should be ignored.
+• Somente com a permissão de um mestre do jogo você pode elevar ou reduzir uma característica inicial além da faixa de 3–21. Para níveis de poder mais altos (épico e super-humano), o máximo de características deve ser ignorado.
 
-• For games with powers, you may apply any unused points from characteristic generation to your power budget. This is only with your gamemaster’s permission, as it may result in you losing points overall.
+• Para jogos com poderes, você pode aplicar quaisquer pontos não usados da geração de características ao seu orçamento de poder. Isso é apenas com a permissão do seu mestre do jogo, pois pode resultar em você perder pontos no geral.
 
-If point-based characteristic generation is allowed, the next step for a game with powers would be the alternate **Step Two** described in *Chapter 4: Powers*. For a non-powered game, character creation should then skip to **Step Four**.
+Se a geração de características baseada em pontos for permitida, a próxima etapa para um jogo com poderes seria a **Etapa Dois** alternativa descrita no *Capítulo 4: Poderes*. Para um jogo sem poderes, a criação de personagem deve então pular para a **Etapa Quatro**.
 
-#### Higher Starting Characteristics (Option)
+### Características Iniciais Mais Altas (Opção)
 
-For higher-powered campaigns (with a roll of 2D6+6 instead of the normal 3D6), the starting point total for above is 36 points, equivalent to the heroic power level. Epic power level characters begin with 48 of characteristic points, and superhuman power level characters begin with 60 points. The normal characteristic maximums should not apply.
+Para campanhas de nível mais alto (com uma rolagem de 2D6+6 em vez do normal 3D6), o total de pontos iniciais para acima é de 36 pontos, equivalente ao nível de poder heroico. Personagens de nível de poder épico começam com 48 pontos de características, e personagens de nível de poder super-humano começam com 60 pontos. Os máximos normais de características não devem se aplicar.
 
-#### Education (Option)
+### Educação (Opção)
 
-If the EDU characteristic is being used, your gamemaster should assign a value to EDU based on your character’s age (described in **Step Three**) and background. You can modify this with any points you choose. Each point of EDU costs 3 points.
+Se a característica EDU estiver sendo usada, seu mestre do jogo deve atribuir um valor a EDU com base na idade do seu personagem (descrita na **Etapa Três**) e histórico. Você pode modificar isso com quaisquer pontos que escolher. Cada ponto de EDU custa 3 pontos.
 
-#### Cultural Modifiers or Non-Human Characters (Option)
+### Modificadores Culturais ou Personagens Não-Humanos (Opção)
 
-If your gamemaster is allowing cultural modifiers for starting characteristics, these modifiers should be applied to characteristics afterwards. If non-human characters with cultural modifiers to starting characteristics are available, your gamemaster should adjust your starting points and/or initial characteristics, as appropriate. *Chapter Eleven: Creatures* contains advice on allowing non-human characters.
+Se seu mestre do jogo estiver permitindo modificadores culturais para características iniciais, esses modificadores devem ser aplicados às características depois. Se personagens não-humanos com modificadores culturais para características iniciais estiverem disponíveis, seu mestre do jogo deve ajustar seus pontos iniciais e/ou características iniciais, conforme apropriado. O *Capítulo Onze: Criaturas* contém conselhos sobre permitir personagens não-humanos.
 
-### Characteristics
+### Características
 
-Your character is measured and defined by a set of characteristics, values that represent their physical and mental capabilities. Higher characteristic numbers are usually better (though a high SIZ can work against you for stealth). Characteristic values indicate raw natural gifts your character has. Characteristic values can change over the course of play. Injuries or adverse conditions can decrease characteristics, while training, exertion, and conditioning can increase them.
+Seu personagem é medido e definido por um conjunto de características, valores que representam suas capacidades físicas e mentais. Números de características mais altos geralmente são melhores (embora um TAM alto possa trabalhar contra você para furtividade). Os valores das características indicam dons naturais brutos que seu personagem possui. Os valores das características podem mudar ao longo do jogo. Lesões ou condições adversas podem diminuir características, enquanto treinamento, esforço e condicionamento podem aumentá-las.
 
-• Physical characteristics (STR, CON, SIZ, DEX, and CHA) have a maximum of 21 for humans.
+• Características físicas (FOR, CON, TAM, DEST e CAR) têm um máximo de 21 para humanos.
 
-• Mental characteristics (INT, POW, and EDU) can usually be raised without limits.
+• Características mentais (INT, POD e EDU) geralmente podem ser elevadas sem limites.
 
-• Under most conditions 3 is the lowest value for any characteristic other than SIZ or INT, which have a minimum value of 8.
+• Sob a maioria das condições, 3 é o valor mais baixo para qualquer característica que não seja TAM ou INT, que têm um valor mínimo de 8.
 
-If other races or species are allowed in the campaign, they may have higher or lower characteristic maximums. Magic, mutations, psychic abilities, sorcery, or superpowers can also raise characteristics, without limit.
+Se outras raças ou espécies forem permitidas na campanha, elas podem ter máximos de características mais altos ou mais baixos. Magia, mutações, habilidades psíquicas, feitiçaria ou superpoderes também podem elevar características, sem limite.
 
-#### Strength (STR)
+### Força (FOR)
 
-Strength measures brawn and raw muscle power. The Effort roll (STR×5) is its characteristic roll. STR helps determine how much a character can lift or carry, push or pull, or how tightly they can hang on to something. In combat, STR limits what kind of weapons a character can wield, as well as helping determine how much extra damage (if any) they inflict with any hit. STR can be increased through exercise, while certain injuries and diseases can permanently reduce STR. A character with STR 0 is an invalid, unable to rise from their bed.
+Força mede músculo e poder muscular bruto. O teste de Esforço (FOR×5) é seu teste de característica. FOR ajuda a determinar quanto um personagem pode levantar ou carregar, empurrar ou puxar, ou quão firmemente eles podem se agarrar a algo. Em combate, FOR limita que tipo de armas um personagem pode empunhar, além de ajudar a determinar quanto dano extra (se houver) eles infligem com qualquer acerto. FOR pode ser aumentada através de exercício, enquanto certas lesões e doenças podem reduzir permanentemente FOR. Um personagem com FOR 0 é um inválido, incapaz de se levantar de sua cama.
 
-#### Constitution (CON)
+### Constituição (CON)
 
-Health, vigor, and vitality are all measured by Constitution. The Stamina roll (CON×5) is its characteristic roll. CON determines how well a character can resist fatigue, poison, disease, drowning, and other hardships, and is a factor in calculating hit points. CON can be increased through conditioning. Diseases, poisons, and some injuries can temporarily or permanently reduce CON. A character dies when their CON falls to 0 for whatever reason.
+Saúde, vigor e vitalidade são todos medidos pela Constituição. O teste de Resistência (CON×5) é seu teste de característica. CON determina quão bem um personagem pode resistir à fadiga, veneno, doença, afogamento e outras dificuldades, e é um fator no cálculo de pontos de vida. CON pode ser aumentada através de condicionamento. Doenças, venenos e algumas lesões podem reduzir temporária ou permanentemente CON. Um personagem morre quando sua CON cai para 0 por qualquer motivo.
 
-#### Size (SIZ)
+### Tamanho (TAM)
 
-Size defines height, weight, and bulk. There is no SIZ-associated characteristic roll; on the character sheet the space is used to note your character’s damage modifier. Resistance rolls using SIZ can determine whether a character can stand firm against resistance, see over an obstacle, or squeeze through a crack. A character’s SIZ, as body mass, helps determine hit points and damage modifier (if any). Factors like gluttony or rigid diet can increase or decrease SIZ, at your gamemaster’s discretion. Some powers may also affect SIZ. Severe injuries (like lost limbs) can also permanently decrease SIZ. A character dies if they lose more than half their SIZ (round up) due to starvation or extreme diet. A character reduced to SIZ 0 through magic or other influences simply disappears, wasting away to nothing. Your gamemaster should be the arbiter of any involuntary SIZ changes, as these are uncommon.
+Tamanho define altura, peso e volume. Não há teste de característica associado a TAM; na ficha do personagem o espaço é usado para anotar o modificador de dano do seu personagem. Testes de resistência usando TAM podem determinar se um personagem pode permanecer firme contra resistência, ver sobre um obstáculo ou espremer através de uma fenda. O TAM de um personagem, como massa corporal, ajuda a determinar pontos de vida e modificador de dano (se houver). Fatores como gula ou dieta rígida podem aumentar ou diminuir TAM, a critério do seu mestre do jogo. Alguns poderes também podem afetar TAM. Lesões graves (como membros perdidos) também podem diminuir permanentemente TAM. Um personagem morre se perder mais da metade de seu TAM (arredondado para cima) devido à inanição ou dieta extrema. Um personagem reduzido a TAM 0 através de magia ou outras influências simplesmente desaparece, definhando até nada. Seu mestre do jogo deve ser o árbitro de quaisquer mudanças involuntárias de TAM, pois estas são incomuns.
 
-#### Intelligence (INT)
+### Inteligência (INT)
 
-Representing reason, mental acuity, and wits, INT measures how well a character learns, remembers, and analyzes information. The Idea roll (INT×5) is its characteristic roll. INT is critical in determining initial skill values. Possibly the most important characteristic, INT has no fixed maximum and can conceivably rise indefinitely through study and mental exercise. Wounds to the head, prolonged exposure to harmful drugs, or certain types of diseases can reduce INT. A character with an INT 0 has been reduced to a vegetative state, unable to survive independently.
+Representando razão, acuidade mental e inteligência, INT mede quão bem um personagem aprende, lembra e analisa informações. O teste de Ideia (INT×5) é seu teste de característica. INT é crítico para determinar valores iniciais de habilidades. Possivelmente a característica mais importante, INT não tem máximo fixo e pode concebivelmente subir indefinidamente através de estudo e exercício mental. Ferimentos na cabeça, exposição prolongada a drogas nocivas ou certos tipos de doenças podem reduzir INT. Um personagem com INT 0 foi reduzido a um estado vegetativo, incapaz de sobreviver independentemente.
 
-#### Power (POW)
+### Poder (POD)
 
-The most intangible of characteristics, Power represents willpower, magical aptitude, and spiritual development. POW is essential to leadership, intuition, and magic. The Luck roll (POW×5) is its characteristic roll. POW serves as the determiner for initial power points and initial Sanity points. Like INT, human POW has no set maximum, and can rise indefinitely. Magical influences can reduce POW (temporarily or permanently) and some magic is fueled by the permanent sacrifice of points of POW. For powers (see *Chapter 4: Powers*), POW is probably the most important characteristic. POW is the suggested basis for initial power choices, so a character with higher POW will have more powers (or more levels in those powers). A character whose POW score reaches 0 has lost their soul and becomes catatonic without any will or life force.
+A mais intangível das características, Poder representa força de vontade, aptidão mágica e desenvolvimento espiritual. POD é essencial para liderança, intuição e magia. O teste de Sorte (POD×5) é seu teste de característica. POD serve como determinante para pontos de poder iniciais e pontos de Sanidade iniciais. Como INT, o POD humano não tem máximo definido, e pode subir indefinidamente. Influências mágicas podem reduzir POD (temporária ou permanentemente) e algumas magias são alimentadas pelo sacrifício permanente de pontos de POD. Para poderes (veja *Capítulo 4: Poderes*), POD é provavelmente a característica mais importante. POD é a base sugerida para escolhas iniciais de poderes, então um personagem com POD mais alto terá mais poderes (ou mais níveis nesses poderes). Um personagem cuja pontuação POD atinge 0 perdeu sua alma e fica catatônico sem qualquer vontade ou força vital.
 
-#### Dexterity (DEX)
+### Destreza (DEST)
 
-Dexterity score measures balance, agility, speed, and deftness. Characters rely upon DEX when reacting to an attack, climbing, performing delicate work, or moving stealthily. The Agility roll (DEX×5) is its characteristic roll. Injuries or nerve diseases can reduce DEX, while rigorous training can quicken reflexes and improve balance. A character with DEX 0 is utterly immobile.
+A pontuação de Destreza mede equilíbrio, agilidade, velocidade e habilidade. Os personagens confiam em DEST ao reagir a um ataque, escalar, realizar trabalho delicado ou se mover furtivamente. O teste de Agilidade (DEST×5) é seu teste de característica. Lesões ou doenças nervosas podem reduzir DEST, enquanto treinamento rigoroso pode acelerar reflexos e melhorar o equilíbrio. Um personagem com DEST 0 é totalmente imóvel.
 
-#### Charisma (CHA)
+### Carisma (CAR)
 
-Charisma determines how likable or attractive a character is to others, and is based as much on presence, personality, and demeanor as simple physical appearance. The Charm roll (CHA×5) forms its characteristic roll. CHA is used to measure first impressions and indicates how eager others will be to associate with someone, through physical attraction or an appealing personality. CHA can be raised through physical conditioning, cosmetic surgery, or careful application of grooming and etiquette. It could even be improved by a small amount by possession of particularly impressive gear. It can also be reduced through injury or disease. A character with a CHA 0 is either utterly odious, provoking disgust from all who encounter them, or has become so nondescript that they barely register.
+Carisma determina quão simpático ou atraente um personagem é para os outros, e é baseado tanto em presença, personalidade e comportamento quanto em simples aparência física. O teste de Charme (CAR×5) forma seu teste de característica. CAR é usado para medir primeiras impressões e indica quão ansiosos os outros estarão para se associar com alguém, através de atração física ou uma personalidade atraente. CAR pode ser elevado através de condicionamento físico, cirurgia estética ou aplicação cuidadosa de higiene e etiqueta. Poderia até ser melhorado por uma pequena quantia pela posse de equipamento particularmente impressionante. Também pode ser reduzido através de lesão ou doença. Um personagem com CAR 0 é ou totalmente odioso, provocando repulsa de todos que o encontram, ou tornou-se tão nada que mal registra.
 
-#### Cultural Characteristic Modifiers (Option)
+### Modificadores Culturais de Características (Opção)
 
-Some cultures might receive modifiers to basic characteristics, such as SIZ. This can be a potentially sensitive topic. Your gamemaster is encouraged to award such bonuses with caution, and to balance positive bonuses with negative ones, or to equalize play by giving all cultures an equivalent bonus, though maybe to different characteristics or attributes. It is emphatically not recommended to penalize INT, no matter what the apparent justification. No player should be penalized for choosing a particular culture. It is also recommended that this be used only for settings where such distinctions are commonly acceptable, such as in fantasy worlds where bloodlines are unique or in science-fiction settings where humanity has been shaped by genetic manipulation and has adapted to the galactic environment.
+Algumas culturas podem receber modificadores para características básicas, como TAM. Este pode ser um tópico potencialmente sensível. Seu mestre do jogo é encorajado a conceder tais bônus com cautela, e a equilibrar bônus positivos com negativos, ou a equalizar o jogo dando a todas as culturas um bônus equivalente, embora talvez para características ou atributos diferentes. É enfaticamente não recomendado penalizar INT, não importa qual seja a justificativa aparente. Nenhum jogador deve ser penalizado por escolher uma cultura particular. Também é recomendado que isso seja usado apenas para cenários onde tais distinções são comumente aceitáveis, como em mundos de fantasia onde linhagens são únicas ou em cenários de ficção científica onde a humanidade foi moldada por manipulação genética e se adaptou ao ambiente galáctico.
 
-#### Characteristic Rolls
+### Testes de Características
 
-Some challenges do not intuitively map to particular skills. Can a hunter stay awake in a blind all night waiting for their quarry? Can a hardened detective piece together the tantalizing clue hidden in the scraps of evidence? In these situations, your gamemaster can call for a characteristic roll: a D100 roll against an appropriate characteristic, multiplied by another number. Your gamemaster decides which multiplier to use based on the difficulty of the task. Standard characteristic rolls use a multiplier of ×5, though extremely difficult tasks may require a multiplier of ×2, or even be based on the characteristic itself as a percentage. For more details on task difficulty and modifier selection, see *Chapter 5: System*.
+Alguns desafios não se mapeiam intuitivamente para habilidades particulares. Um caçador pode ficar acordado em um esconderijo a noite toda esperando por sua presa? Um detetive endurecido pode juntar a pista tentadora escondida nos pedaços de evidência? Nessas situações, seu mestre do jogo pode pedir um teste de característica: um teste D100 contra uma característica apropriada, multiplicada por outro número. Seu mestre do jogo decide qual multiplicador usar com base na dificuldade da tarefa. Testes de característica padrão usam um multiplicador de ×5, embora tarefas extremamente difíceis possam exigir um multiplicador de ×2, ou até ser baseado na própria característica como uma porcentagem. Para mais detalhes sobre dificuldade de tarefa e seleção de modificadores, veja *Capítulo 5: Sistema*.
 
-#### Effort Roll (STR×5)
+### Teste de Esforço (FOR×5)
 
-Most feats of strength involve matching STR against the SIZ of the lifted object on the resistance table (see *Chapter 5: System*). In cases when a SIZ rating is not available or is difficult to determine, use an Effort roll. Effort rolls can also be used as an easy way to determine things such as whether a character can pull themselves up onto a ledge. Are they worn out at the end of a long hike? An Effort roll is a quick way to decide.
+A maioria dos feitos de força envolve combinar FOR contra o TAM do objeto levantado na tabela de resistência (veja *Capítulo 5: Sistema*). Nos casos em que uma classificação TAM não está disponível ou é difícil de determinar, use um teste de Esforço. Testes de Esforço também podem ser usados como uma maneira fácil de determinar coisas como se um personagem pode se puxar para cima em uma saliência. Eles estão esgotados no final de uma longa caminhada? Um teste de Esforço é uma maneira rápida de decidir.
 
-#### Stamina Roll (CON×5)
+### Teste de Resistência (CON×5)
 
-Based upon CON, Stamina rolls measure endurance. Use a Stamina roll whenever physical or intestinal fortitude is in question. To list a few examples, a Stamina roll might determine whether a character can stay awake all night, or endure seasickness, ill-prepared food, or strong drink with no ill effects.
+Baseado em CON, testes de Resistência medem resistência. Use um teste de Resistência sempre que resistência física ou intestinal estiver em questão. Para listar alguns exemplos, um teste de Resistência pode determinar se um personagem pode ficar acordado a noite toda, ou suportar enjoo, comida mal preparada ou bebida forte sem efeitos prejudiciais.
 
-#### Idea Roll (INT×5)
+### Teste de Ideia (INT×5)
 
-An Idea roll represents the ability to make clever guesses, informed hunches, or reasonable deductions based upon nothing but observation and raw intellect. When no skill seems appropriate, an Idea roll can show understanding of a concept or the ability to unravel a puzzle. Memory is also part of the Idea roll: use an Idea roll to remember an important detail, retrace steps through a labyrinth, or memorize a lengthy formula.
+Um teste de Ideia representa a capacidade de fazer suposições inteligentes, palpites informados ou deduções razoáveis baseadas em nada além de observação e intelecto bruto. Quando nenhuma habilidade parece apropriada, um teste de Ideia pode mostrar compreensão de um conceito ou a capacidade de desvendar um quebra-cabeça. Memória também faz parte do teste de Ideia: use um teste de Ideia para lembrar um detalhe importante, refazer passos através de um labirinto ou memorizar uma fórmula longa.
 
-Your gamemaster may also allow an Idea roll if you are stalled, getting you back on track by revealing a hidden meaning of some already uncovered clue, or letting them know that something ‘doesn’t quite seem right’ about a particular person, place, or thing. This type of Idea roll should only be granted at your gamemaster’s discretion and is not generally solicited by players.
+Seu mestre do jogo também pode permitir um teste de Ideia se você estiver empacado, colocando você de volta no caminho revelando um significado oculto de alguma pista já descoberta, ou deixando-os saber que algo 'não parece exatamente certo' sobre uma pessoa, lugar ou coisa em particular. Este tipo de teste de Ideia só deve ser concedido a critério do seu mestre do jogo e geralmente não é solicitado pelos jogadores.
 
-Your gamemaster may also require an Idea roll if you wish to have your character think or behave in a manner that represents player knowledge vs. character knowledge. If a character is a primitive hunter encountering modern technology, for example, your gamemaster may require an Idea roll for them to be able to grasp basic concepts of the item, even if the player automatically knows what it is based on its description.
+Seu mestre do jogo também pode exigir um teste de Ideia se você deseja que seu personagem pense ou se comporte de uma maneira que represente conhecimento do jogador vs. conhecimento do personagem. Se um personagem é um caçador primitivo encontrando tecnologia moderna, por exemplo, seu mestre do jogo pode exigir um teste de Ideia para que ele seja capaz de compreender conceitos básicos do item, mesmo que o jogador automaticamente saiba o que é com base em sua descrição.
 
-#### Luck Roll (POW×5)
+### Teste de Sorte (POD×5)
 
-Luck is the knack of being in the right place at the right time, having things work out despite the expectation, or the uncanny ability to escape a random peril unscathed. Does your character just happen to have that one special bit or equipment? Will a friendly passerby lend a hand if they are stranded by the side of the road? Does the hideous creature attack the character or a nearby nonplayer character? Does a character fall through a weak floor, or snag their clothes on a splintered plank and escape plummeting to death? Luck rolls can be used to answer all these questions. Successful Luck rolls can create fortunate coincidences under normal circumstances or save someone from certain doom in an emergency.
+Sorte é o dom de estar no lugar certo na hora certa, ter coisas funcionando apesar da expectativa, ou a capacidade sobrenatural de escapar de um perigo aleatório ileso. Seu personagem por acaso tem aquele pedacinho especial ou equipamento? Um transeunte amigável dará uma mão se eles estiverem encalhados na beira da estrada? A criatura hedionda ataca o personagem ou um personagem não jogador próximo? Seu personagem cai através de um piso fraco ou se agarra em suas roupas em uma prancha lascada e escapa de cair para a morte? Testes de Sorte podem ser usados para responder a todas essas perguntas. Testes de Sorte bem-sucedidos podem criar coincidências fortuitas em circunstâncias normais ou salvar alguém de perdição certa em uma emergência.
 
-#### Agility Roll (DEX×5)
+### Teste de Agilidade (DEST×5)
 
-Whenever a feat of deftness, balance, or agility is called for and no appropriate skill exists, use an Agility roll to measure success. An Agility roll might, for example, determine if a character can keep their balance on a heaving ship’s deck, gather up all the pieces of a broken vase in a hurry, run carrying a precious elixir without spilling any, or grab the vine at the edge of a cliff before falling off.
+Sempre que um feito de destreza, equilíbrio ou agilidade for exigido e nenhuma habilidade apropriada existir, use um teste de Agilidade para medir o sucesso. Um teste de Agilidade pode, por exemplo, determinar se um personagem pode manter o equilíbrio no convés agitado de um navio, juntar todas as peças de um vaso quebrado com pressa, correr carregando um elixir precioso sem derramar nada, ou agarrar a videira na beira de um penhasco antes de cair.
 
-#### Charm Roll (CHA×5)
+### Teste de Charme (CAR×5)
 
-Use Charm rolls to adjudicate interpersonal reactions not covered by an existing skill. Making a good first impression, seducing an acquaintance, or becoming the person a group turns to first for guidance are all good uses for a Charm roll. If a character is standing outside a trendy night club wanting to be let in, a successful Charm roll will get them noticed and waved through the door.
+Use testes de Charme para julgar reações interpessoais não cobertas por uma habilidade existente. Causar uma boa primeira impressão, seduzir um conhecido ou tornar-se a pessoa para quem um grupo se volta primeiro para orientação são todos bons usos para um teste de Charme. Se um personagem está do lado de fora de uma boate da moda querendo entrar, um teste de Charme bem-sucedido fará com que ele seja notado e aceito através da porta.
 
-#### The Education Characteristic (Option)
+### A Característica Educação (Opção)
 
-The seven main characteristics serve for most games, regardless of setting, but Education (EDU), an optional eighth characteristic, can be used to help generate starting skill points. EDU works best in modern or futuristic settings but can be easily adapted to any campaign setting.
+As sete características principais servem para a maioria dos jogos, independentemente do cenário, mas Educação (EDU), uma oitava característica opcional, pode ser usada para ajudar a gerar pontos de habilidade iniciais. EDU funciona melhor em cenários modernos ou futuristas, mas pode ser facilmente adaptada para qualquer cenário de campanha.
 
-#### Education (EDU)
+### Educação (EDU)
 
-Education measures a character’s grasp of general knowledge gained through a rounded educational system or some other broad learning method. It is not a substitute for specific knowledge about a field—instead it represents general knowledge of the world. Whether gained through formal study, training, or hard-won experience, EDU can also measure how many years a character has trained or studied to reach their current knowledge level.
+Educação mede a compreensão de um personagem do conhecimento geral adquirido através de um sistema educacional arredondado ou algum outro método de aprendizado amplo. Não é um substituto para conhecimento específico sobre um campo — em vez disso, representa conhecimento geral do mundo. Seja adquirido através de estudo formal, treinamento ou experiência duramente conquistada, EDU também pode medir quantos anos um personagem treinou ou estudou para alcançar seu nível de conhecimento atual.
 
-EDU does not automatically correlate to 1 EDU point = 1 year in school. It can also represent general life knowledge as well as dedicated study. Not all years in school are educational, just as all time spent outside school does not mean nothing is learned. EDU can be readily adapted to most settings—its meaning is obvious in settings with standardized educational systems. In a medieval setting, it might represent tutoring or study in collegiums, lyceums, or monasteries, or extensive travel along exotic trade routes and to foreign ports.
+EDU não se correlaciona automaticamente com 1 ponto EDU = 1 ano na escola. Também pode representar conhecimento geral de vida, bem como estudo dedicado. Nem todos os anos na escola são educacionais, assim como todo o tempo gasto fora da escola não significa que nada é aprendido. EDU pode ser prontamente adaptada para a maioria dos cenários — seu significado é óbvio em cenários com sistemas educacionais padronizados. Em um cenário medieval, pode representar tutoria ou estudo em colégios, liceus ou mosteiros, ou viagens extensas ao longo de rotas comerciais exóticas e para portos estrangeiros.
 
-Memory loss can reduce EDU, while a year of hard study or intensive training increases it by +1. An EDU 0 indicates a void of knowledge of the outside world, though this does not mean that everyone is a near-amnesiac in campaigns where this characteristic is not used. EDU does not apply to animals or creatures without an EDU characteristic—their knowledge is either instinctual or is based on different precepts.
+Perda de memória pode reduzir EDU, enquanto um ano de estudo duro ou treinamento intensivo a aumenta em +1. Uma EDU 0 indica um vazio de conhecimento do mundo exterior, embora isso não signifique que todos são quase amnésicos em campanhas onde esta característica não é usada. EDU não se aplica a animais ou criaturas sem uma característica EDU — seu conhecimento é ou instintivo ou é baseado em preceitos diferentes.
 
-Use of EDU should also be paired with the Know roll (EDU×5).
+O uso de EDU também deve ser pareado com o teste Conhecer (EDU×5).
 
-#### The Knowledge Roll (EDU×5) (Option)
+### O Teste de Conhecimento (EDU×5) (Opção)
 
-The Knowledge roll covers the facts and trivia that the average person knows as ‘general knowledge.’ Know rolls can be used to recall different kinds of facts, depending on the setting and even the culture of a given character. A medieval peasant might use a Knowledge roll to remember the name of a noble lord or the details of the lives of saints, while a modern citizen of the USA would recall important presidents or remember what happens if bleach and ammonia mix. Knowledge rolls should rarely take the place of a more specialized Knowledge skill, and deal strictly with facts. Making good use of those facts is a function of INT.
+O teste de Conhecimento cobre os fatos e curiosidades que a pessoa média sabe como 'conhecimento geral'. Testes de Conhecer podem ser usados para lembrar diferentes tipos de fatos, dependendo do cenário e até mesmo da cultura de um determinado personagem. Um camponês medieval pode usar um teste de Conhecimento para lembrar o nome de um senhor nobre ou os detalhes das vidas dos santos, enquanto um cidadão moderno dos EUA lembraria presidentes importantes ou lembraria o que acontece se água sanitária e amônia se misturarem. Testes de Conhecimento raramente devem tomar o lugar de uma habilidade de Conhecimento mais especializada, e lidam estritamente com fatos. Fazer bom uso desses fatos é uma função de INT.
 
-#### Derived Characteristics
+### Características Derivadas
 
-In addition to characteristics (and their attendant characteristic rolls), a character is also defined by a set of derived characteristics, figured from their characteristics. If injuries, magic, or other factors increase or decrease a characteristic, all characteristics derived from that characteristic immediately change to reflect the new value.
+Além das características (e seus testes de característica atendentes), um personagem também é definido por um conjunto de características derivadas, calculadas a partir de suas características. Se lesões, magia ou outros fatores aumentarem ou diminuírem uma característica, todas as características derivadas dessa característica mudam imediatamente para refletir o novo valor.
 
-***For example,*** *your character (CON 16, SIZ 14, HP 15) falls victim to a deadly poison, which reduces their CON value to 10. Your character’s maximum hit points immediately drop from 15 (16+14=30, divided to 15) to 12 (10+14=24, divided to 12). Additionally, their major wound total drops from 8 to 6. If wounds had already brought your character lower than 12 hit points, they would not take any additional damage, but they are limited to the 12 hit point maximum until their original CON is restored.*
+***Por exemplo,*** *seu personagem (CON 16, TAM 14, PV 15) é vítima de um veneno mortal, que reduz seu valor CON para 10. O máximo de pontos de vida do seu personagem imediatamente cai de 15 (16+14=30, dividido para 15) para 12 (10+14=24, dividido para 12). Adicionalmente, seu total de ferimento grave cai de 8 para 6. Se ferimentos já tivessem trazido seu personagem para menos de 12 pontos de vida, ele não sofreria nenhum dano adicional, mas estaria limitado ao máximo de 12 pontos de vida até que sua CON original seja restaurada.*
 
-### Damage Modifier (STR+SIZ, see table)
+### Modificador de Dano (FOR+TAM, veja tabela)
 
-Bigger, stronger characters and creatures are more powerful in physical combat, inflicting more damage than average with each strike. Smaller, weaker beings inflict less damage with their attacks. The damage modifier reflects this advantage, expressed in terms of damage dice added or subtracted from the damage of successful attacks.
+Personagens e criaturas maiores e mais fortes são mais poderosos no combate físico, infligindo mais dano do que a média com cada golpe. Seres menores e mais fracos infligem menos dano com seus ataques. O modificador de dano reflete essa vantagem, expressa em termos de dados de dano adicionados ou subtraídos do dano de ataques bem-sucedidos.
 
-A character adds their full damage modifier to all hits with brawling or melee weapons. In the case of a negative damage modifier, subtract the appropriate dice from any inflicted damage. If the total is 0 or less, the blow is too soft to inflict any harm. An attack never does negative damage, so if the modified damage roll goes below 0, count it as 0.
+Um personagem adiciona seu modificador de dano completo a todos os acertos com armas de briga ou corpo a corpo. No caso de um modificador de dano negativo, subtraia os dados apropriados de qualquer dano infligido. Se o total for 0 ou menos, o golpe é muito suave para infligir qualquer dano. Um ataque nunca causa dano negativo, então se o rolagem de dano modificada ficar abaixo de 0, conte como 0.
 
-Missile weapons don’t allow a character to use their full damage modifier. If your character’s damage modifier is positive, divide the results in half (round up) when using a thrown weapon or a bow. If the damage modifier is negative, keep the modifier as is. Self-propelled weapons (firearms, energy missile weapons, etc.) do not receive a damage modifier.
+Armas de projétil não permitem que um personagem use seu modificador de dano completo. Se o modificador de dano do seu personagem for positivo, divida os resultados pela metade (arredonde para cima) ao usar uma arma arremessada ou um arco. Se o modificador de dano for negativo, mantenha o modificador como está. Armas autopropulsadas (armas de fogo, armas de projétil de energia, etc.) não recebem modificador de dano.
 
-To calculate damage modifier, add the character’s STR and SIZ, and find the result on the **Damage Modifier table** (following).
+Para calcular o modificador de dano, adicione FOR e TAM do personagem, e encontre o resultado na tabela **Modificador de Dano** (a seguir).
 
-**Damage Modifier Table**
+**Tabela de Modificador de Dano**
 
-|<p>STR+SIZ</p><p></p>|<p>Damage Modifier</p><p></p>|<p>STR+SIZ</p><p></p>|<p>Damage Modifier</p><p></p>|
+| FOR+TAM | Modificador de Dano | FOR+TAM | Modificador de Dano |
 | :- | :- | :- | :- |
-|<p>2–12</p><p></p>|<p>–1D6</p><p></p>|<p>73–88</p><p></p>|<p>+4D6</p><p></p>|
-|<p>13–16</p><p></p>|<p>–1D4</p><p></p>|<p>89–104</p><p></p>|<p>+5D6</p><p></p>|
-|<p>17–24</p><p></p>|<p>None</p><p></p>|<p>105–120</p><p></p>|<p>+6D6</p><p></p>|
-|<p>25–32</p><p></p>|<p>+1D4</p><p></p>|<p>121–136</p><p></p>|<p>+7D6</p><p></p>|
-|<p>33–40</p><p></p>|<p>+1D6</p><p></p>|<p>137–152</p><p></p>|<p>+8D6</p><p></p>|
-|<p>41–56</p><p></p>|<p>+2D6</p><p></p>|<p>153–168</p><p></p>|<p>+9D6</p><p></p>|
-|<p>57–72</p><p></p>|<p>+3D6</p><p></p>|<p>Each +16</p><p></p>|<p>Additional +1D6</p><p></p>|
+| 2–12 | –1D6 | 73–88 | +4D6 |
+| 13–16 | –1D4 | 89–104 | +5D6 |
+| 17–24 | Nenhum | 105–120 | +6D6 |
+| 25–32 | +1D4 | 121–136 | +7D6 |
+| 33–40 | +1D6 | 137–152 | +8D6 |
+| 41–56 | +2D6 | 153–168 | +9D6 |
+| 57–72 | +3D6 | Cada +16 | Adicional +1D6 |
 
-### Experience Bonus (1/2 INT)
+### Bônus de Experiência (1/2 INT)
 
-The smarter a character is, the faster they can learn, especially under stress. To determine their experience bonus, divide their INT by 2, rounding up. Add the experience bonus to the learning roll for each experience check your character makes to improve a skill or characteristic. Consult *Chapter 5: System* and Skill Improvement.
+Quanto mais esperto um personagem é, mais rápido ele pode aprender, especialmente sob estresse. Para determinar seu bônus de experiência, divida INT por 2, arredondando para cima. Adicione o bônus de experiência ao teste de aprendizado para cada verificação de experiência que seu personagem fizer para melhorar uma habilidade ou característica. Consulte *Capítulo 5: Sistema* e Melhoria de Habilidade.
 
-### Hit Points (Average of CON and SIZ)
+### Pontos de Vida (Média de CON e TAM)
 
-Hit points represent your character’s capacity to withstand punishment and physical injury. When you take damage, you subtract hit points from your total. Calculate maximum hit points by adding your character’s CON and SIZ scores, then divide the total by 2. Round all fractions up.
+Pontos de vida representam a capacidade do seu personagem de suportar punição e lesão física. Quando você sofre dano, você subtrai pontos de vida do seu total. Calcule o máximo de pontos de vida adicionando as pontuações CON e TAM do seu personagem, e então divida o total por 2. Arredonde todas as frações para cima.
 
-Your character loses consciousness when their hit points are reduced to 2 or less, and if their hit points reach 0, they die at the end of the following round. You can lose more hit points than you have, so keep track of any negative value. Lost hit points heal naturally at a rate of 1D3 points per game week, though medical attention can speed recovery. See **Damage & Healing**.
+Seu personagem perde consciência quando seus pontos de vida são reduzidos a 2 ou menos, e se seus pontos de vida atingirem 0, eles morrem no final da rodada seguinte. Você pode perder mais pontos de vida do que você tem, então mantenha o controle de qualquer valor negativo. Pontos de vida perdidos curam naturalmente a uma taxa de 1D3 pontos por semana de jogo, embora atenção médica possa acelerar a recuperação. Veja **Dano & Cura**.
 
-#### Total Hit Points (Option)
+### Pontos de Vida Totais (Opção)
 
-For hardier player-characters able to survive quite a bit more damage, use CON+SIZ to determine hit points, without dividing by 2. This results in characters who can handle themselves well in combat, take injuries without much inconvenience, and makes major wounds much less common. Injuries caused by special and critical successes are much less likely to kill characters outright. This optional system can easily be used with the hit points per location system, increasing the chances that characters will remain attached to their limbs, and vice versa.
+Para personagens jogadores mais resistentes capazes de sobreviver muito mais dano, use CON+TAM para determinar pontos de vida, sem dividir por 2. Isso resulta em personagens que podem se virar bem em combate, sofrer lesões sem muita inconveniência, e torna ferimentos graves muito menos comuns. Lesões causadas por sucessos especiais e críticos têm muito menos probabilidade de matar personagens diretamente. Este sistema opcional pode ser facilmente usado com o sistema de pontos de vida por localização, aumentando as chances de que os personagens permanecerão ligados aos seus membros, e vice-versa.
 
-To draw a major distinction between player characters and weaker “cannon-fodder” nonplayer-characters, your gamemaster might have only the player characters and important nonplayer-characters use hit points equaling CON+SIZ, giving all other nonplayer-characters hit points based on (CON+SIZ)/2. This gives a significant advantage to player characters, and allows them to survive more than a few solid injuries. It also allows for player characters who can take on large numbers of nonplayer-characters without significant fear of being killed by one critical blow.
+Para fazer uma distinção importante entre personagens jogadores e personagens não jogadores "bucha" mais fracos, seu mestre do jogo pode ter apenas os personagens jogadores e personagens não jogadores importantes usando pontos de vida iguais a CON+TAM, dando a todos os outros personagens não jogadores pontos de vida baseados em (CON+TAM)/2. Isso dá uma vantagem significativa aos personagens jogadores, e permite que eles sobrevivam mais do que alguns ferimentos sólidos. Também permite personagens jogadores que podem enfrentar grandes números de personagens não jogadores sem medo significativo de serem mortos por um golpe crítico.
 
-#### Hit Points by Hit Location (Option)
+### Pontos de Vida por Localização de Acerto (Opção)
 
-For more detailed combat, hit points are divided among your character’s body parts. If an attack is successful, a D20 roll determines where the blow lands. If using the optional hit location system (see **Hit Locations**), your character’s hit points are divided among their various hit locations. Use the following formula for humanoids, rounding up for each location:
+Para combate mais detalhado, os pontos de vida são divididos entre as partes do corpo do seu personagem. Se um ataque for bem-sucedido, um teste D20 determina onde o golpe acerta. Se estiver usando o sistema opcional de localização de acerto (veja **Localizações de Acerto**), os pontos de vida do seu personagem são divididos entre suas várias localizações de acerto. Use a seguinte fórmula para humanoides, arredondando para cima para cada localização:
 
-|<p>Location</p><p></p>|<p>Hit Point Value</p><p></p>|
+| Localização | Valor de Ponto de Vida |
 | :- | :- |
-|<p>Leg, Abdomen, Head</p><p></p>|<p>1/3 total hit points</p><p></p>|
-|<p>Chest</p><p></p>|<p>4/10 total hit points</p><p></p>|
-|<p>Arm</p><p></p>|<p>1/4 total hit points</p><p></p>|
+| Perna, Abdômen, Cabeça | 1/3 total de pontos de vida |
+| Peito | 4/10 total de pontos de vida |
+| Braço | 1/4 total de pontos de vida |
 
-The humanoid hit point spread is provided below based on Maximum Hit Points.
+A distribuição de pontos de vida humanoide é fornecida abaixo com base em Pontos de Vida Máximos.
 
-|<p>Location</p><p></p>|<p>1–2</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|<p>7</p><p></p>|<p>8</p><p></p>|<p>9</p><p></p>|<p>10</p><p></p>|<p>11–12</p><p></p>|<p>13–15</p><p></p>|<p>16–17</p><p></p>|<p>18</p><p></p>|<p>19–20</p><p></p>|<p>21</p><p></p>|
+| Localização | 1–2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11–12 | 13–15 | 16–17 | 18 | 19–20 | 21 |
 | :- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|<p>Each Leg</p><p></p>|<p>1</p><p></p>|<p>1</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|<p>6</p><p></p>|<p>7</p><p></p>|<p>7</p><p></p>|
-|<p>Abdomen</p><p></p>|<p>1</p><p></p>|<p>1</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|<p>6</p><p></p>|<p>7</p><p></p>|<p>7</p><p></p>|
-|<p>Chest</p><p></p>|<p>1</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|<p>7</p><p></p>|<p>8</p><p></p>|<p>8</p><p></p>|<p>9</p><p></p>|
-|<p>Each Arm</p><p></p>|<p>1</p><p></p>|<p>1</p><p></p>|<p>1</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|
-|<p>Head</p><p></p>|<p>1</p><p></p>|<p>1</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>2</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>3</p><p></p>|<p>4</p><p></p>|<p>4</p><p></p>|<p>5</p><p></p>|<p>6</p><p></p>|<p>6</p><p></p>|<p>7</p><p></p>|<p>7</p><p></p>|
+| Cada Perna | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+| Abdômen | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
+| Peito | 1 | 2 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 7 | 8 | 8 | 9 |
+| Cada Braço | 1 | 1 | 1 | 2 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 5 | 6 |
+| Cabeça | 1 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 7 |
 
-The sum of your character’s hit points by location exceeds their maximum hit points, but whenever a character is wounded, the rolled damage is subtracted from both that location’s hit point total and your character’s maximum hit points.
+A soma dos pontos de vida do seu personagem por localização excede seus pontos de vida máximos, mas sempre que um personagem é ferido, o dano rolado é subtraído tanto do total de pontos de vida daquela localização quanto dos pontos de vida máximos do seu personagem.
 
-Damage exceeding a location’s total hit points renders it useless. Damage equal to twice a location’s hit point total crushes or severs it. See **Damage per Hit Location**.
+Dano excedendo o total de pontos de vida de uma localização torna-a inútil. Dano igual ao dobro do total de pontos de vida de uma localização esmaga ou decapa-a. Veja **Dano por Localização de Acerto**.
 
-**For example,** *your character has 14 hit points, with 5 hit points in each leg, 5 hit points in the abdomen, 6 hit points in the chest, 4 hit points in each arm, and 5 hit points in their head. Even though their hit points in all locations total 34, your character will die if they suffer a total of 14 hit points of damage.*
+***Por exemplo,*** *seu personagem tem 14 pontos de vida, com 5 pontos de vida em cada perna, 5 pontos de vida no abdômen, 6 pontos de vida no peito, 4 pontos de vida em cada braço e 5 pontos de vida na cabeça. Embora seus pontos de vida em todas as localizações totalizem 34, seu personagem morrerá se sofrer um total de 14 pontos de vida de dano.*
 
-The **Major Wound** system is not easily compatible with the hit location system and should a gamemaster choose to use the optional hit locations and **Damage by Hit Location** systems, the major wound system should be eliminated or adapted considerably, perhaps with the nature of the major wound being chosen by your gamemaster where applicable.
+O sistema de **Ferimento Grave** não é facilmente compatível com o sistema de localização de acerto e se um mestre do jogo escolher usar os sistemas opcionais de localizações de acerto e **Dano por Localização de Acerto**, o sistema de ferimento grave deve ser eliminado ou adaptado consideravelmente, talvez com a natureza do ferimento grave sendo escolhida pelo seu mestre do jogo onde aplicável.
 
-#### Major Wounds (1/2 of HP)
+### Ferimentos Graves (1/2 dos PV)
 
-Divide your character’s hit point total in half, rounding up if necessary. This total is their major wound level. If your character takes this amount of damage from a single wound, they may suffer horrific side-effects as well as simple hit point loss. See\*\* Major Wound\*\*s in *Chapter 6: Combat*.
+Divida o total de pontos de vida do seu personagem pela metade, arredondando para cima se necessário. Este total é o nível de ferimento grave. Se seu personagem sofrer essa quantidade de dano de um único ferimento, ele pode sofrer efeitos colaterais horríveis, bem como simples perda de pontos de vida. Veja **Ferimentos Graves** no *Capítulo 6: Combate*.
 
-#### Power Points (Max = POW)
+### Pontos de Poder (Máx = POD)
 
-Power points (PP) represent your character’s vital essence, their reserves of spiritual or life energy. Your character spends power points to cast or resist spells. Your character’s maximum power points are usually equal to their POW characteristic. Generally, spent power points regenerate at a rate of 1 per hour of sleep or total rest, or 1 for every two hours of normal activity. See the **Power Point Recovery Rate Table** for rates for higher POW scores. If your character is engaged in strenuous activity, they cannot regain power points. When your character’s power point total falls to 0, they are completely exhausted, and faint until regaining at least 1 power point. You cannot have negative power points.
+Pontos de poder (PP) representam a essência vital do seu personagem, suas reservas de energia espiritual ou vital. Seu personagem gasta pontos de poder para lançar ou resistir feitiços. Os pontos de poder máximos do seu personagem geralmente são iguais à sua característica POD. Geralmente, pontos de poder gastos se regeneram a uma taxa de 1 por hora de sono ou descanso total, ou 1 para cada duas horas de atividade normal. Veja a **Tabela de Taxa de Recuperação de Pontos de Poder** para taxas para pontuações POD mais altas. Se seu personagem está engajado em atividade extenuante, ele não pode recuperar pontos de poder. Quando o total de pontos de poder do seu personagem cai para 0, ele está completamente exausto, e desmaia até recuperar pelo menos 1 ponto de poder. Você não pode ter pontos de poder negativos.
 
-#### Power Point Recovery Rate Table
+### Tabela de Taxa de Recuperação de Pontos de Poder
 
-|<p>Max PP</p><p></p>|<p>Asleep</p><p></p>|<p>Awake</p><p></p>|
+| PP Máx | Dormindo | Acordado |
 | :- | :- | :- |
-|<p>1–24</p><p></p>|<p>1 per hour</p><p></p>|<p>1 per 2 hours</p><p></p>|
-|<p>25–48</p><p></p>|<p>2 per hour</p><p></p>|<p>1 per hour</p><p></p>|
-|<p>49–72</p><p></p>|<p>3 per hour</p><p></p>|<p>1 per 40 minutes</p><p></p>|
-|<p>73–96</p><p></p>|<p>4 per hour</p><p></p>|<p>1 per 30 minutes</p><p></p>|
-|<p>97+</p><p></p>|<p>+1 per hour</p><p></p>|<p>divide time in half</p><p></p>|
+| 1–24 | 1 por hora | 1 por 2 horas |
+| 25–48 | 2 por hora | 1 por hora |
+| 49–72 | 3 por hora | 1 por 40 minutos |
+| 73–96 | 4 por hora | 1 por 30 minutos |
+| 97+ | +1 por hora | divida o tempo pela metade |
 
-Unlike hit points or fatigue points, power points can climb above the maximum for brief times under certain conditions. As noted, if your character receives additional power points (usually through the use of a power), they can store up to twice their POW characteristic in extra power points. Any power points beyond that are lost. If your character uses any power points while over their normal maximum, these must come from the extra power points first. These extra power points are not renewed and do not regenerate as normal and dissipate entirely after a night’s sleep or a suitable juncture determined by your gamemaster.
+Ao contrário de pontos de vida ou pontos de fadiga, pontos de poder podem subir acima do máximo por breves períodos sob certas condições. Como observado, se seu personagem receber pontos de poder adicionais (geralmente através do uso de um poder), ele pode armazenar até duas vezes sua característica POD em pontos de poder extras. Quaisquer pontos de poder além disso são perdidos. Se seu personagem usar quaisquer pontos de poder enquanto acima do normal máximo, estes devem vir dos pontos de poder extras primeiro. Esses pontos de poder extras não são renovados e não se regeneram como normais e se dissipam inteiramente após uma noite de sono ou uma junção adequada determinada pelo seu mestre do jogo.
 
-Items that store power points and allow the wielder to use the stored power points do not count against this total, as long as the power points are not stored in the user’s own power point reserve. In most cases, the power points are used straight from the item’s reserve, and do not affect the user’s own power points. See Chapter 8: Equipment for more on items with power point reservoirs.
+Itens que armazenam pontos de poder e permitem que o portador use os pontos de poder armazenados não contam contra este total, desde que os pontos de poder não sejam armazenados na reserva de pontos de poder do usuário. Na maioria dos casos, os pontos de poder são usados diretamente da reserva do item, e não afetam os próprios pontos de poder do usuário. Veja Capítulo 8: Equipamento para mais sobre itens com reservatórios de pontos de poder.
 
-#### Other Kinds of Power Points (Option)
+### Outros Tipos de Pontos de Poder (Opção)
 
-Due to the variety of powers in *Chapter 4: Powers*, “power points” is used in place of other names like “temporary power” or “magic points.”. If desired, your gamemaster can change the name to “energy points” or “magic points” or whatever is appropriate to the setting. If systems other than magic or sorcery are used, it is recommended to keep them called power points, to avoid confusion. It is advised not to use two different names for power points in the same game.
+Devido à variedade de poderes no *Capítulo 4: Poderes*, "pontos de poder" é usado no lugar de outros nomes como "poder temporário" ou "pontos mágicos". Se desejado, seu mestre do jogo pode mudar o nome para "pontos de energia" ou "pontos mágicos" ou o que for apropriado ao cenário. Se sistemas diferentes de magia ou feitiçaria forem usados, é recomendado mantê-los chamados de pontos de poder, para evitar confusão. É aconselhado não usar dois nomes diferentes para pontos de poder no mesmo jogo.
 
-### Movement (MOV)
+### Movimento (MOV)
 
-All human and humanoid characters begin with a movement (MOV) attribute of 10. This measures how much distance your character can move in a combat round. A unit is a flexible distance, and can range from 1–5 meters, depending on how quickly your character is moving.
+Todos os personagens humanos e humanoides começam com um atributo de movimento (MOV) de 10. Isso mede quanto distância seu personagem pode se mover em uma rodada de combate. Uma unidade é uma distância flexível, e pode variar de 1–5 metros, dependendo de quão rapidamente seu personagem está se movendo.
 
-• A walk is 1 meter per MOV.
+• Uma caminhada é 1 metro por MOV.
 
-• A run is up to 5 meters per MOV.
+• Uma corrida é até 5 metros por MOV.
 
-• An average rate of movement in combat is 3 meters (yards) per unit, meaning that on average, your character moves 30 meters a combat round.
+• Uma taxa média de movimento em combate é de 3 metros (jardas) por unidade, significando que em média, seu personagem se move 30 metros por rodada de combate.
 
-Movement rates are described further in **Movement Rates** in *Chapter 5: System*.
+As taxas de movimento são descritas mais adiante em **Taxas de Movimento** no *Capítulo 5: Sistema*.
 
-### Fatigue Points and Sanity Points (Option)
+### Pontos de Fadiga e Pontos de Sanidade (Opção)
 
-Some optional systems and powers refer to fatigue points and sanity points. For a more detailed encumbrance and fatigue system, your gamemaster should use fatigue points (described below). Games based on horror, blasphemous sorcery, or indescribable atrocity will depend heavily on the use of the sanity system (also below).
+Alguns sistemas e poderes opcionais referem-se a pontos de fadiga e pontos de sanidade. Para um sistema de carga e fadiga mais detalhado, seu mestre do jogo deve usar pontos de fadiga (descritos abaixo). Jogos baseados em terror, feitiçaria blasfema ou atrocidade indescritível dependerão fortemente do uso do sistema de sanidade (também abaixo).
 
-#### Fatigue Points (Max = STR + CON)
+### Pontos de Fadiga (Máx = FOR + CON)
 
-**Fatigue points** (FP) measure your character’s endurance, such as how long they can engage in strenuous activity before exhaustion sets in. Your character’s maximum fatigue points are equal to their STR+CON. Your character expends 1 fatigue point per combat round of strenuous activity (melee combat, swimming, sprinting, climbing, etc.). Sprinting or backbreaking labor costs 1 fatigue point per turn. Forced marches cost 1 fatigue point per hour. Unlike hit points and power points, your character can continue to act with negative fatigue points.
+**Pontos de fadiga** (PF) medem a resistência do seu personagem, como quanto tempo ele pode se envolver em atividade extenuante antes que a exaustão se instale. Os pontos de fadiga máximos do seu personagem são iguais a FOR+CON. Seu personagem gasta 1 ponto de fadiga por rodada de combate de atividade extenuante (combate corpo a corpo, natação, corrida, escalada, etc.). Corrida ou trabalho extenuante custa 1 ponto de fadiga por turno. Marchas forçadas custam 1 ponto de fadiga por hora. Ao contrário de pontos de vida e pontos de poder, seu personagem pode continuar a agir com pontos de fadiga negativos.
 
-When your character drops below 0 fatigue points, they suffer a penalty of –1% per negative point of fatigue to all skill, characteristic, and resistance rolls. When your character’s negative fatigue point total equals their base fatigue value (STR+CON), they are incapacitated by exhaustion, incapable of action. An exhausted character may fall unconscious (gamemaster discretion), and even if they remain awake, they cannot act until their fatigue point value regenerates to a positive number. Your character’s encumbrance value (ENC) also affects their base fatigue value. See **Encumbrance**.
+Quando seu personagem cai abaixo de 0 pontos de fadiga, ele sofre uma penalidade de –1% por ponto negativo de fadiga para todos os testes de habilidade, característica e resistência. Quando o total de pontos de fadiga negativo do seu personagem iguala seu valor base de fadiga (FOR+CON), ele está incapacitado pela exaustão, incapaz de agir. Um personagem exausto pode cair inconsciente (critério do mestre do jogo), e mesmo que permaneça acordado, não pode agir até que seu valor de ponto de fadiga se regenere para um número positivo. O valor de carga (ENC) do seu personagem também afeta seu valor base de fadiga. Veja **Carga**.
 
-Your character regains 1 fatigue point every minute (5 rounds) where they do not spend fatigue points. Resting, walking at a slow pace, or riding a beast or vehicle does not expend fatigue. An average character recovers from 0 to their full fatigue point total in 20 minutes (assuming a STR 10, CON 10, and 1 fatigue point recovered per minute of rest).
+Seu personagem recupera 1 ponto de fadiga a cada minuto (5 rodadas) onde não gasta pontos de fadiga. Descansar, andar em ritmo lento ou andar de besta ou veículo não gasta fadiga. Um personagem médio recupera de 0 para seu total de pontos de fadiga completo em 20 minutos (assumindo FOR 10, CON 10, e 1 ponto de fadiga recuperado por minuto de descanso).
 
-#### Simple Fatigue
+### Fadiga Simples
 
-For a simpler version of fatigue eliminates fatigue points altogether, your gamemaster may declare that after some massive endeavor or extreme physical hardship, your character is fatigued. They are either ready for action, or they are fatigued. Your gamemaster may allow a Stamina roll to escape being fatigued after a period of physical exertion.
+Para uma versão mais simples de fadiga que elimina pontos de fadiga completamente, seu mestre do jogo pode declarar que após algum esforço massivo ou dificuldade física extrema, seu personagem está fatigado. Eles estão ou prontos para a ação, ou estão fatigados. Seu mestre do jogo pode permitir um teste de Resistência para escapar de ficar fatigado após um período de esforço físico.
 
-Using this method, your character grow tired after spending CON×3 uninterrupted combat rounds in battle or difficult physical activity. After that, your character is automatically fatigued, and all skill rolls are *Difficult*.
+Usando este método, seu personagem fica cansado após gastar CON×3 rodadas de combate ininterruptas em batalha ou atividade física difícil. Depois disso, seu personagem está automaticamente fatigado, e todos os testes de habilidade são *Difíceis*.
 
-After spending CON×4 uninterrupted combat rounds in battle or difficult physical activity, your character makes all their skills as if they were 1/4 the normal skill rating and must make a successful Stamina roll to do anything physical before the skill rating can even be attempted.
+Após gastar CON×4 rodadas de combate ininterruptas em batalha ou atividade física difícil, seu personagem faz todas as suas habilidades como se fossem 1/4 da classificação normal de habilidade e deve fazer um teste de Resistência bem-sucedido para fazer qualquer coisa física antes que a classificação de habilidade possa mesmo ser tentada.
 
-After CON×10 rounds of such activity, your character is utterly exhausted, and is barely able to lift their weapon, stand upright without something to lean on, etc. At this point, your character must make a *Difficult* Stamina roll to do any basic action, and your gamemaster may rule that any skill roll is *Impossible* or limited to your character’s POW×1.
+Após CON×10 rodadas de tal atividade, seu personagem está completamente exausto, e é mal capaz de levantar sua arma, ficar ereto sem algo para se apoiar, etc. Neste ponto, seu personagem deve fazer um teste de Resistência *Difícil* para fazer qualquer ação básica, e seu mestre do jogo pode decidir que qualquer teste de habilidade é *Impossível* ou limitado ao POD×1 do seu personagem.
 
-#### Sanity Points (Max = POW×5)
+### Pontos de Sanidade (Máx = POD×5)
 
-As described in **Sanity** (see *Chapter 10: Settings*), **sanity points** (SAN) represent your character’s mental and emotional fortitude, and their ability to withstand shock, terror, and cosmic awfulness. Your character’s base SAN points equal their POW×5.
+Como descrito em **Sanidade** (veja *Capítulo 10: Cenários*), **pontos de sanidade** (SAN) representam a fortaleza mental e emocional do seu personagem, e sua capacidade de suportar choque, terror e estranheza cósmica. Os pontos SAN base do seu personagem igualam POD×5.
 
-Whenever your character is exposed to a horrifying situation or mind-bending strangeness, they must roll D100 against their current SAN point total. If your character fails (or perhaps even if they succeed) they lose sanity points.
+Sempre que seu personagem é exposto a uma situação horrível ou estranheza alucinante, ele deve rolar D100 contra seu total de pontos SAN. Se seu personagem falhar (ou talvez mesmo se tiver sucesso) ele perde pontos de sanidade.
 
-A character who suffers sufficient SAN loss will likely go mad. Your character’s **temporary insanity score** (like a Major Wound Threshold) equals ½ their current SAN. Losing this many SAN points in a five-minute period results in some form of temporary insanity.
+Um personagem que sofre perda SAN suficiente provavelmente enlouquecerá. A **pontuação de insanidade temporária** do seu personagem (como um Limite de Ferimento Grave) é igual a ½ seu SAN atual. Perder essa quantidade de pontos SAN em um período de cinco minutos resulta em alguma forma de insanidade temporária.
 
-Sanity points do not naturally regenerate and can only be recovered under very specific circumstances. Characters can gain SAN beyond their base value, to a maximum of 99. Certain types of blasphemous knowledge can limit a character’s maximum allowable SAN score.
+Pontos de sanidade não se regeneram naturalmente e só podem ser recuperados sob circunstâncias muito específicas. Personagens podem ganhar SAN além de seu valor base, até um máximo de 99. Certos tipos de conhecimento blasfemo podem limitar a pontuação SAN máxima permitida de um personagem.
 
-### Distinctive Features (Option)
+### Características Distintivas (Opção)
 
-Distinctive features are a way of describing notable features about your character. These are descriptive only and have no mechanical value. They serve to help make your player character seem more real. The further from average—higher or lower—your character’s Charisma (CHA) characteristic, the greater number of distinctive features they have.
+Características distintivas são uma forma de descrever características notáveis sobre seu personagem. Estas são apenas descritivas e não têm valor mecânico. Elas servem para ajudar a tornar seu personagem jogador mais real. Quanto mais longe da média — maior ou menor — a característica Carisma (CAR) do seu personagem, maior o número de características distintivas que eles têm.
 
-**Distinctive Features**
+**Características Distintivas**
 
-|<p>CHA</p><p></p>|<p>Number of Features</p><p></p>|
+| CAR | Número de Características |
 | :- | :- |
-|<p>3 or less</p><p></p>|<p>4</p><p></p>|
-|<p>4–7</p><p></p>|<p>3</p><p></p>|
-|<p>8–9</p><p></p>|<p>2</p><p></p>|
-|<p>10–11</p><p></p>|<p>1</p><p></p>|
-|<p>12–14</p><p></p>|<p>2</p><p></p>|
-|<p>15–16</p><p></p>|<p>3</p><p></p>|
-|<p>17+</p><p></p>|<p>4</p><p></p>|
+| 3 ou menos | 4 |
+| 4–7 | 3 |
+| 8–9 | 2 |
+| 10–11 | 1 |
+| 12–14 | 2 |
+| 15–16 | 3 |
+| 17+ | 4 |
 
-Roll 1D10 or choose a category below for each distinctive feature your character has. You can choose the same category multiple times. Then choose a feature or features from the entry. These are all cosmetic and do not affect game values, but it is useful to keep your character’s characteristics and skills in mind when picking distinctive features.
+Role 1D10 ou escolha uma categoria abaixo para cada característica distintiva que seu personagem tem. Você pode escolher a mesma categoria várias vezes. Então escolha uma característica ou características da entrada. Estas são todas cosméticas e não afetam valores do jogo, mas é útil manter as características e habilidades do seu personagem em mente ao escolher características distintivas.
 
-If your character’s CHA is low (9 or lower), these features may be unpleasant, unattractive, or unusual looking. If your character’s CHA is high (12+), the features are attractive or impressive-looking, even if the feature would be normally not one thought of as attractive. However, this is not restrictive, and appearance is not always indicative of actual charisma.
+Se o CAR do seu personagem for baixo (9 ou menor), essas características podem ser desagradáveis, pouco atraentes ou de aparência incomum. Se o CAR do seu personagem for alto (12+), as características são atraentes ou de aparência impressionante, mesmo que a característica não seja normalmente pensada como atraente. No entanto, isso não é restritivo, e aparência nem sempre é indicativa de carisma real.
 
-As you choose, picture your character in your mind, and imagine how they appear in the game’s setting. You can also combine different features in interesting ways. Your gamemaster may veto certain distinctive features if they would be out of place, depending on the setting.
+Ao escolher, imagine seu personagem em sua mente, e imagine como eles aparecem no cenário do jogo. Você também pode combinar diferentes características de maneiras interessantes. Seu mestre do jogo pode vetar certas características distintivas se elas estiverem fora de lugar, dependendo do cenário.
 
-**1—Hair on Head:** Bald, bald on top, blond, black, braided, brown, crew-cut, curly, dirty, full of lice, glossy, gray, long, lustrous, matted, oily, perfumed, receding, red, shaven, spiky, very long, wavy, wig, feature of your choice.
+**1—Cabelo na Cabeça:** Careca, careca no topo, loiro, preto, trançado, castanho, corte militar, encaracolado, sujo, cheio de piolhos, brilhante, cinza, longo, lustroso, emaranhado, oleoso, perfumado, recuando, ruivo, raspado, espetado, muito longo, ondulado, peruca, característica de sua escolha.
 
-**2—Facial Hair:** Arched eyebrows, braided beard, bushy beard, curled and perfumed beard, enormous mustachios, eyebrows grown together, goatee, long beard, no eyebrows, sideburns, strange designs cut in close-trimmed beard, thick eyebrows, feature of your choice.
+**2—Pelos Faciais:** Sobrancelhas arqueadas, barba trançada, barba espessa, barba encaracolada e perfumada, bigodes enormes, sobrancelhas crescidas juntas, cavanhaque, barba longa, sem sobrancelhas, costeletas, desenhos estranhos cortados em barba aparada, sobrancelhas grossas, característica de sua escolha.
 
-**3—Facial Feature:** Birthmark, black eyes, blue eyes, bright eyes, broken nose, broken teeth, brown eyes, deeply tanned, double chin, earrings, enormous chin, even teeth, eye patch, fleshy lips, gap in teeth, gray eyes, hairy ears, high cheekbones, hooked nose, large eyes, large nose, long eyelashes, jagged teeth, nose ring, pale, pockmarked skin, pointed chin, pointed teeth, prominent incisors, pug nose, round face, scar, sensuous lips, stained teeth, tattooed, thin lips, tiny ears, turned-up nose, warts, weak chin, white teeth, wide-eyed, yellow teeth, feature of your choice.
+**3—Característica Facial:** Marca de nascença, olhos pretos, olhos azuis, olhos brilhantes, nariz quebrado, dentes quebrados, olhos castanhos, profundamente bronzeado, queixo duplo, brincos, queixo enorme, dentes uniformes, tapa-olho, lábios carnudos, falha nos dentes, olhos cinza, orelhas peludas, maçãs do rosto altas, nariz adunco, olhos grandes, nariz grande, cílios longos, dentes irregulares, piercing no nariz, pálido, pele com marcas de varíola, queixo pontudo, dentes pontudos, incisivos proeminentes, nariz arrebitado, rosto redondo, cicatriz, lábios sensuais, dentes manchados, tatuado, lábios finos, orelhas minúsculas, nariz arrebitado, verrugas, queixo fraco, dentes brancos, olhos arregalados, dentes amarelos, característica de sua escolha.
 
-4—Expression: Adoring, alluring, arrogant, bemused, bright-eyed, curious, cringing, dour, drunken, friendly, guarded, haughty, lecherous, leering, meek, mischievous, naïve, outgoing, piercing, pleasant, proud, seductive, sneaky, sneering, squinting, expression of your choice.
+**4—Expressão:** Adoradora, sedutora, arrogante, perplexa, de olhos brilhantes, curiosa, encolhida, sombria, bêbada, amigável, guardada, altiva, lasciva, olhar fixo, mansa, travessa, ingênua, extrovertida, penetrante, agradável, orgulhosa, sedutora, furtiva, zombeteira, semicerrada, expressão de sua escolha.
 
-**5—Clothes:** Ancient style, armored hat, athletic, barefoot, clothes leave wearer too hot or too cold, conical hat, embroidered with special emblem, expensive, fashionable, fine boots, for wrong sex, formfitting, full of holes, garish, gaudy, ill-fitting, lots of cheap jewelry, new, nightclothes, partly nude, peaked hat, prim, rich, sandals, satiny, sexy, skintight, sporty, subdued, too much ornamentation, uniform, utilitarian, vulgar, wide hat, clothes of your choice.
+**5—Roupas:** Estilo antigo, chapéu blindado, atlética, descalço, roupas deixam o portador muito quente ou muito frio, chapéu cônico, bordado com emblema especial, caro, na moda, botas finas, para sexo errado, justo, cheio de buracos, berrante, espalhafatoso, mal ajustado, muitas joias baratas, novo, roupas de dormir, parcialmente nu, chapéu pontudo, sóbrio, rico, sandálias, acetinado, sexy, colado ao corpo, esportivo, discreto, ornamentação demais, uniforme, utilitário, vulgar, chapéu largo, roupas de sua escolha.
 
-**6—Bearing:** Angry, casual, clumsy, confident, ethereal, fearful, graceful, humble, jaunty, languid, military, nimble, plodding, pushy, reserved, slouching, sprightly, stiff, swaggering, sensual, swaying, wary, weary, yielding, bearing of your choice.
+**6—Postura:** Zangada, casual, desajeitada, confiante, etérea, medrosa, graciosa, humilde, alegre, lânguida, militar, ágil, pesada, agressiva, reservada, curvada, vivaz, rígida, arrogante, sensual, balançando, cautelosa, cansada, submissa, postura de sua escolha.
 
-**7—Speech:** Accented, affected, aggressive, deep, demanding, drawling, faint, hesitant, high-pitched, imperious, musical, mumbling, nasal, raspy, sharp, sensual, shrill, slow, smooth, soft-spoken, strong, throaty, unintelligible, whining, speech characteristic of your choice.
+**7—Fala:** Acentuada, afetada, agressiva, profunda, exigente, arrastada, fraca, hesitante, aguda, imperiosa, musical, murmurando, nasal, rouca, afiada, sensual, estridente, lenta, suave, falante, macia, forte, gutural, ininteligível, chorosa, característica de fala de sua escolha.
 
-**8—Arms and Hands:** Birthmark visible, bracelets or other arm jewelry, bulging biceps, calloused hands, deeply tanned, hairless, hairy, knobby elbows, large knuckles, left-handed, long arms, long fingernails, muscular, one arm longer than the other, one finger missing, one too many fingers present, pointed elbows, pointed fingernails, powerful arms and hands, rings, scar, slender, smooth-skinned, tattooed, unlined, very hairy, very pale skin, feature of your choice.
+**8—Braços e Mãos:** Marca de nascença visível, pulseiras ou outras joias de braço, bíceps salientes, mãos calejadas, profundamente bronzeado, sem pelos, peludo, cotovelos nodosos, juntas grandes, canhoto, braços longos, unhas longas, muscular, um braço mais longo que o outro, um dedo faltando, um dedo a mais presente, cotovelos pontudos, unhas pontudas, braços e mãos poderosos, anéis, cicatriz, esbelto, pele lisa, tatuado, sem linhas, muito peludo, pele muito pálida, característica de sua escolha.
 
-**9—Torso:** Barrel-like, belly ring, birthmark visible, broad-shouldered, curvy, every bone shows, flat stomach, hairless, high waist, lean, long torso, many scars, muscular, narrow, no navel, one nipple gone, potbellied, prominent scar, short, shrunken chest, sinewy, sleek, slender, slim-hipped, svelte, tall, tan lines visible, tanned, tattooed, thick, thin, very hairy, very pale, willowy, feature of your choice.
+**9—Torso:** Em forma de barril, piercing no umbigo, marca de nascença visível, ombros largos, curvilíneo, cada osso aparece, estômago plano, sem pelos, cintura alta, magro, torso longo, muitas cicatrizes, muscular, estreito, sem umbigo, um mamilo faltando, barrigudo, cicatriz proeminente, curto, peito encolhido, nervoso, esbelto, quadris finos, esguio, alto, linhas de bronzeado visíveis, bronzeado, tatuado, grosso, fino, muito peludo, muito pálido, esguio, característica de sua escolha.
 
-**10—Legs and Feet:** Birthmark visible, bulging thighs and calves, calloused feet, deeply tanned, hairless, hairy, knobby knees, limping in one leg, many scars, muscular, one toe missing, one too many toes present, scar, scars from flame or acid, sleek, smooth, tanned, tattooed, toe ring, very hairy, very long legs, very pale skin, very short legs, weathered skin, feature of your choice.
+**10—Pernas e Pés:** Marca de nascença visível, coxas e panturrilhas salientes, pés calejados, profundamente bronzeado, sem pelos, peludo, joelhos nodosos, mancando em uma perna, muitas cicatrizes, muscular, um dedo do pé faltando, um dedo do pé a mais presente, cicatriz, cicatrizes de chama ou ácido, esbelto, liso, bronzeado, tatuado, piercing no dedo do pé, muito peludo, pernas muito longas, pernas muito curtas, pele curtida, característica de sua escolha.
 
-Come up with distinctive features of your own if these are not sufficient. For games featuring non-human races, feel free to add new and unique features, or disallow inappropriate features.
+Crie características distintivas próprias se estas não forem suficientes. Para jogos com raças não-humanas, sinta-se livre para adicionar características novas e únicas, ou desautorizar características inapropriadas.
 
-### Professions
+### Profissões
 
-In addition to being defined by characteristics, your character is also defined in terms of their **skills**. These are learned through life experience, often as part of education and a **profession**. A profession is a job or vocation your character is assumed to be a part of when they begin play (or was a part of before play began), guiding skill allocation. A profession is just where they start when play begins and is not a limit to what they can do and become. They can grow and change over the course of a campaign far beyond their profession.
+Além de ser definido por características, seu personagem também é definido em termos de suas **habilidades**. Estas são aprendidas através da experiência de vida, frequentemente como parte da educação e uma **profissão**. Uma profissão é um trabalho ou vocação que se presume que seu personagem seja parte quando começa o jogo (ou era parte antes do jogo começar), orientando a alocação de habilidades. Uma profissão é apenas onde eles começam quando o jogo começa e não é um limite para o que eles podem fazer e se tornar. Eles podem crescer e mudar ao longo de uma campanha muito além de sua profissão.
 
 #### Professions by Setting
 
