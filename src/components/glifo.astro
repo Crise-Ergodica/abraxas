@@ -3,17 +3,18 @@
 const { link, acao } = Astro.props;
 ---
 
-<!-- Se tiver um link, vira um <a> (navegação) -->
-{link ? (
-  <a href={link} class="glifo-texto">
-    <slot />
-  </a>
-) : (
-  // Se não, vira um <button> (ação/script)
-  <button class="glifo-texto" onclick={acao}>
-    <slot />
-  </button>
-)}
+<!-- Se tiver um link, vira um <a> (navegação) -->{
+  link ? (
+    <a href={link} class="glifo-texto">
+      <slot />
+    </a>
+  ) : (
+    // Se não, vira um <button> (ação/script)
+    <button class="glifo-texto" onclick={acao}>
+      <slot />
+    </button>
+  )
+}
 
 <style>
   .glifo-texto {
@@ -24,7 +25,7 @@ const { link, acao } = Astro.props;
     margin: 0;
     font: inherit; /* Herda a fonte Merriweather do pai */
     cursor: pointer;
-    
+
     /* O Estilo Visual */
     color: #a01a1a; /* Um vermelho sangue seco/tinta velha (mude se quiser) */
     text-decoration: none;
