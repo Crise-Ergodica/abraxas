@@ -1,0 +1,41 @@
+---
+// src/components/Glifo.astro
+const { link, acao } = Astro.props;
+---
+
+<!-- Se tiver um link, vira um <a> (navegação) -->
+{link ? (
+  <a href={link} class="glifo-texto">
+    <slot />
+  </a>
+) : (
+  // Se não, vira um <button> (ação/script)
+  <button class="glifo-texto" onclick={acao}>
+    <slot />
+  </button>
+)}
+
+<style>
+  .glifo-texto {
+    /* O SEGREDO DO MINIMALISMO: Resetar tudo */
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font: inherit; /* Herda a fonte Merriweather do pai */
+    cursor: pointer;
+    
+    /* O Estilo Visual */
+    color: #a01a1a; /* Um vermelho sangue seco/tinta velha (mude se quiser) */
+    text-decoration: none;
+    border-bottom: 1px dashed transparent; /* Uma linha invisível */
+    transition: all 0.3s ease;
+  }
+
+  /* Quando passar o mouse */
+  .glifo-texto:hover {
+    border-bottom-color: #a01a1a; /* A linha aparece */
+    opacity: 0.8;
+    transform: translateY(-1px); /* Sobe um pouquinho */
+  }
+</style>

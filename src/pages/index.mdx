@@ -1,0 +1,105 @@
+---
+layout: ../layouts/LayoutLivro.astro
+title: "O Início"
+---
+import Glifo from '/home/aurora/VscodemiscProject/abraxas/src/components/glifo.astro';
+
+## 1. O Básico (Core Mechanics)
+
+O jogo se desenrola através de um diálogo constante entre o **Mestre do Jogo** (que descreve o mundo, os NPCs e as consequências) e os **Jogadores** (que descrevem as intenções e ações de seus personagens). Na maior parte do tempo, essa conversa é fluida e não exige regras: você diz que quer atravessar a rua, e o mestre diz que você atravessou. No entanto, quando suas ações encontram resistência — seja a lâmina de um inimigo, uma porta trancada ou a própria fragilidade da mente humana — o diálogo é interrompido pelo **Teste**. As regras abaixo servem para arbitrar esses momentos de tensão, definindo se sua vontade prevalece sobre o caos do mundo.
+
+### O que é d100.
+
+O sistema de rolagens "d100" é núcleo do sistema: utiliza dois dados de dez faces (lidos como porcentagem de 01 a 100) para resolver incertezas, onde o objetivo fundamental é rolar um valor igual ou inferior ao nível da sua perícia ou atributo testado. Esta mecânica "roll-under" (rolar abaixo) elimina a necessidade de cálculos matemáticos complexos durante a tensão do jogo: se você tem 70% em Arqueologia e rola 45, você obteve sucesso imediato e transparente.
+
+### A "Regra de Ouro" (Testes de Atributo vs Testes de Perícia).
+
+Existe uma hierarquia clara na resolução de problemas: Testes de Perícia representam o treinamento específico e o conhecimento técnico do personagem e são sempre a prioridade, enquanto os Testes de Atributo (como rolar Força x5%) representam apenas o potencial bruto e instintivo, devendo ser utilizados pelo Mestre apenas quando nenhuma perícia treinada se aplicar à situação inusitada.
+
+### Níveis de Sucesso (Crítico, Especial, etc).
+
+Para dissolver a barreira binária entre vitória e derrota, interpretamos os dados através de quatro resultados narrativos, garantindo que a história nunca estagne:
+
+- **Sucesso Crítico (01-05)** — "Sim, e...": Você não apenas consegue o que queria, mas ganha um benefício extra. No combate, é dano máximo ou ignorar armadura; na investigação, você descobre a pista e deduz a próxima intenção do inimigo sem gastar tempo.
+- **Sucesso Normal (≤ Perícia)** — "Sim": Você realiza a ação de forma limpa e competente, sem custos adicionais ou complicações.
+- **Falha (> Perícia até 95)** — "Sim, mas..." ou "Não, mas...": Aqui reside o *Fail Forward*. O Mestre pode oferecer um Sucesso a um Custo (você arromba a porta, mas alerta os guardas) ou uma Falha Construtiva (você não convence o barão, mas ele deixa escapar onde guarda os documentos). O jogo continua, apenas a situação se complica.
+- **Falha Crítica (96-100)** — "Não, e...": O desastre absoluto. Além de falhar na intenção, algo pior acontece. Você quebra sua ferramenta, perde a arma, ou ofende mortalmente o NPC. É o único momento onde a narrativa pode se fechar contra o jogador.
+
+### Mecânicas Especiais (Para não se perder)
+
+#### Luck Points (Pontos de Sorte) para gastar e rerolar dados:
+
+Para mitigar a letalidade inerente do sistema e dar agência aos jogadores, cada personagem inicia a sessão com uma reserva de "Pontos de Sorte" igual ao seu atributo de Poder (POW). Estes pontos podem ser gastos na proporção de 1 para 1 para reduzir o resultado de um dado rolado (transformando uma falha de 55 em um sucesso de 45, por exemplo) ou gastos totalmente para "Enganar a Morte", sobrevivendo a um evento fatal com 1 Ponto de Vida restante.
+
+#### Vantagenzona e Vantagenzinha (Existem 2 vantagens diferentes):
+
+- **Vantagemzona:** Em vez de somar/subtrair modificadores fixos pequenos (+10%, -5%), use um dado extra de dezena durante uma rolagem sua (fique com o menor dos dados de dezena). PODE SER USADO EM TODOS OS TESTES.
+- **Vantagemzinha:** Você pode subtrair 10% do resultado de uma rolagem sua. É CONSIDERADO UM BÔNUS.
+
+<br />
+
+## 2. <Glifo link="/criandoPersonagem">Criação de Personagem</Glifo>
+
+> Antes de entrarem no Labirinto, precisamos definir quem são as vozes que ecoarão por ele. Neste sistema, você não está apenas construindo um conjunto de números para vencer desafios, mas delineando a arquitetura de uma psique vulnerável. Seu personagem é um agente de mudança, mas também um sujeito à mercê de forças internas e externas. A criação de personagem é o processo de definir as fronteiras entre você, o mundo e o abismo. Diferente de outros jogos onde você nasce um herói pronto, aqui você cria alguém com potencial, mas cheio de falhas. Alguém que tem uma vida, um emprego e dívidas antes mesmo de encontrar o primeiro monstro.
+
+<br />
+
+## 3. <Glifo link="/tabelaPericias">O Sistema de Perícias</Glifo>
+
+> As perícias são a forma primária de interação com o mundo, divididas em categorias lógicas: Combate (Armas, Briga), Comunicação (Lábia, Persuasão), Manipulação (Furtividade, Prestidigitação), Mental (História, Ciências), Percepção (Escutar, Encontrar) e Física (Nadar, Escalar). O valor percentual na ficha indica a probabilidade de realizar a tarefa sob pressão; em situações de calmaria, testes não devem ser exigidos para tarefas que o personagem seja treinado.
+>
+> O sistema adota a filosofia de "Falha Progressiva" (Fail Forward): um sucesso na rolagem indica que o personagem conseguiu o que queria sem custo extra. Uma falha, entretanto, não deve parar o jogo com um simples "não acontece nada"; em vez disso, o Mestre deve oferecer o sucesso a um custo (você arromba a porta, mas faz muito barulho; você encontra a pista, mas leva horas e o inimigo avança), mantendo a narrativa sempre em movimento.
+
+<br />
+
+## 4. Combate e Dano (Ação)
+
+*[INCOMPLETO]*
+
+### A sequência da rodada *(Strike Ranks)*.
+
+Em vez de turnos estáticos, o tempo é medido em **Strike Ranks** (SR), uma contagem progressiva de 1 a 10 que determina quem bate primeiro. O SR de um personagem é a soma do seu Modificador de Tamanho, Modificador de Destreza e o Comprimento da Arma. Isso cria um realismo tático onde uma lança longa (SR baixo no primeiro round) ataca antes de uma adaga, mas personagens ágeis podem agir múltiplas vezes se tiverem SRs baixos o suficiente.
+
+### Ações (Atacar, Aparar, Esquivar).
+
+Sacar um item adiciona Ranks extras à sua contagem, atrasando sua ação. Defesas como Aparar e Esquivar são reativas e podem ser tentadas contra cada ataque recebido, mas consomem a atenção do personagem; aparar com um escudo ou arma média é eficaz, mas tentar aparar uma arma colossal pode resultar em dano à própria arma ou ao braço do defensor.
+
+### Dano e localização das feridas *(Hit Locations)*.
+
+Não existe apenas uma barra de vida; o corpo humano é dividido em zonas (Cabeça, Peito, Abdômen, Braços, Pernas), cada uma com seus próprios Pontos de Vida (geralmente 1/3 do total). Ao acertar um ataque, rola-se 1d20 para determinar onde atingiu. Zerar o HP de um braço o inutiliza (derrubando o que segurava); zerar uma perna derruba o personagem; zerar a cabeça ou peito resulta em inconsciência imediata e risco severo de morte, tornando cada golpe potencialmente letal.
+
+### Regras Especiais (Fogo, Queda, Veneno - Spot Rules entram aqui).
+
+Perigos ambientais como fogo, veneno, afogamento, queda ou doenças são resolvidos através da Tabela de Resistência ou testes de Constituição. O dano destas fontes ignora armaduras convencionais (salvo trajes específicos), e venenos possuem potências numéricas que são confrontadas diretamente contra a saúde da vítima, podendo causar paralisia, dano contínuo ou morte súbita.
+
+<br />
+
+## 5. O Sobrenatural (ou Tecnologia Avançada)
+
+*[INCOMPLETO]*
+
+### Alta e Complexa Mágia
+
+*[INCOMPLETO]*
+
+### Tecnologia Progressiva e Imparável
+
+*[INCOMPLETO]*
+
+### Misteriosa Mente dos Místicos
+
+*[INCOMPLETO]*
+
+<br />
+
+## 6. Seção do Mestre (Game Master)
+
+*[INCOMPLETO]*
+
+### Inimigos e Monstros (Blocos de estatísticas).
+
+Para facilitar a vida do Mestre, NPCs e Monstros não seguem as mesmas regras complexas de criação dos jogadores. Eles são resumidos em Blocos de Estatísticas contendo apenas os atributos essenciais, seus valores fixos de ataque, dano, armadura e HP; isso permite que o Mestre controle grupos de adversários olhando apenas uma linha de referência, focando sua atenção na descrição e tática e não na contabilidade.
+
+### Como criar aventuras.
+
+Uma boa aventura neste sistema não é um trilho linear, mas uma coleção de Cenas (locais ou eventos) conectadas por Pistas (em jogos investigativos) ou Objetivos Táticos (em jogos de ação). O Mestre deve preparar situações, antagonistas e segredos, mas nunca o desfecho; a história emerge da interação entre as escolhas criativas dos jogadores e a imparcialidade cruel dos dados.
